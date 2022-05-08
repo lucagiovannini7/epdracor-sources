@@ -1,0 +1,130 @@
+#!/bin/sh
+
+usage () {
+  cat <<EOF
+Update repo with files from EarlyPrint repo
+
+Usage:
+$0 --download                  # download from bitbucket
+$0 --copy /path/to/eebotcp     # copy from local EarlyPrint repo
+$0 [--all | --help]
+
+OPTIONS:
+  -a, --all       update all files including existing ones
+  -d, --delay     number of seconds to wait between download requests (default: 1)
+  -h, --help      show this message
+
+EOF
+}
+
+# options parsing inspired by
+# https://medium.com/@Drew_Stokes/bash-argument-parsing-54f3b81a6a8f
+
+ALL=""
+PARAMS=""
+COPY=""
+DOWNLOAD=""
+DELAY=1
+
+while (( "$#" )); do
+  case "$1" in
+    -h|--help)
+      usage
+      exit 0
+      ;;
+    -c|--copy)
+      COPY=yes
+      shift
+      ;;
+    -d|--download)
+      DOWNLOAD=yes
+      shift
+      ;;
+    -a|--all)
+      ALL=yes
+      shift
+      ;;
+    -v|--verbose)
+      VERBOSE=yes
+      shift
+      ;;
+    -D|--delay)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        re='^[0-9.]+$'
+        if ! [[ $2 =~ $re ]]; then
+          echo "Delay must be a number!"
+          exit 1
+        fi
+        PORT=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    -*|--*=) # unsupported flags
+      echo "Error: Unsupported flag $1" >&2
+      exit 1
+      ;;
+    *) # preserve positional arguments
+      PARAMS="$PARAMS $1"
+      shift
+      ;;
+  esac
+done
+
+# set positional arguments in their proper place
+eval set -- "$PARAMS"
+
+REPO_PATH=$1
+
+if [ -n "$COPY" -a -n "$DOWNLOAD" ]; then
+  echo "--copy and --download are mutually exclusive"
+  echo
+  usage
+  exit 1
+fi
+
+if [ -z "$COPY" -a -z "$DOWNLOAD" ]; then
+  usage
+  exit 1
+fi
+
+if [ -n "$COPY" -a -z "$REPO_PATH" ]; then
+  echo "Missing repo path"
+  echo
+  usage
+  exit 1
+fi
+
+# directory with original downloads
+TARGET_DIR=./xml
+if ! [ -d $TARGET_DIR ]; then
+  mkdir -p $TARGET_DIR
+fi
+
+v=""
+if [ -n "$VERBOSE" ]; then
+  v="-v"
+fi
+
+git checkout main
+
+for id in $(cat ids.txt); do
+  dir=$(echo $id | cut -c 1-3)
+  file="$TARGET_DIR/$id.xml"
+
+  [ -z $VERBOSE ] && echo "$id"
+  if ! [[ -f $file ]] || [[ -n "$ALL" ]]; then
+    if [ -n "$COPY" ]; then
+      source=$REPO_PATH/texts/$dir/$id.xml
+      cp $v $source $file
+    else
+      url="https://bitbucket.org/eplib/$dir/raw/master/$id.xml"
+      curl -o $file $url
+      sleep $DELAY
+    fi
+  else
+    [ -z $VERBOSE ] || echo "$id.xml exists. Skipping."
+  fi
+done
