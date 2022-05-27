@@ -1652,7 +1652,7 @@
        <w lemma="pawn" pos="vvb" reg="Pawn" rend="hi" xml:id="A07498-005-a-0290">Pawne</w>
        <pc rend="hi" unit="sentence" xml:id="A07498-005-a-0300">.</pc>
       </stage>
-      <sp who="A07498- black_queen_pawn" xml:id="A07498-e101660">
+      <sp who="A07498-black_queen_pawn" xml:id="A07498-e101660">
        <speaker>
         <w lemma="black" pos="j" reg="Black" xml:id="A07498-005-a-0310">Blacke</w>
         <w lemma="queen" pos="ng1" reg="queen's" xml:id="A07498-005-a-0320">Queenes</w>
@@ -1852,7 +1852,7 @@
         </l>
        </lg>
       </sp>
-      <sp who="A07498- black_queen_pawn" xml:id="A07498-e101860">
+      <sp who="A07498-black_queen_pawn" xml:id="A07498-e101860">
        <speaker>
         <w lemma="black" pos="j" reg="Black" xml:id="A07498-005-a-1840">Blacke</w>
         <w lemma="Q." pos="ab" xml:id="A07498-005-a-1850">Q.</w>
@@ -1944,7 +1944,7 @@
         </l>
        </lg>
       </sp>
-      <sp who="A07498- black_queen_pawn" xml:id="A07498-e101970">
+      <sp who="A07498-black_queen_pawn" xml:id="A07498-e101970">
        <speaker>
         <w lemma="black" pos="j" reg="Black" xml:id="A07498-005-a-2490">Blacke</w>
         <w lemma="Q." pos="ab" xml:id="A07498-005-a-2500">Q.</w>
@@ -2127,7 +2127,7 @@
         </l>
        </lg>
       </sp>
-      <sp who="A07498- black_queen_pawn" xml:id="A07498-e102180">
+      <sp who="A07498-black_queen_pawn" xml:id="A07498-e102180">
        <speaker>
         <w lemma="B." pos="ab" xml:id="A07498-005-b-1290">B.</w>
         <w lemma="Q." pos="ab" xml:id="A07498-005-b-1300">Q.</w>
@@ -2296,7 +2296,7 @@
         </l>
        </lg>
       </sp>
-      <sp who="A07498- black_queen_pawn" xml:id="A07498-e102360">
+      <sp who="A07498-black_queen_pawn" xml:id="A07498-e102360">
        <speaker>
         <w lemma="black" pos="j" reg="Black" xml:id="A07498-005-b-2570">Blacke</w>
         <w lemma="Q." pos="ab" xml:id="A07498-005-b-2580">Q.</w>
@@ -2528,7 +2528,7 @@
         <pc unit="sentence" xml:id="A07498-006-a-1170">?</pc>
        </p>
       </sp>
-      <sp who="A07498- black_queen_pawn" xml:id="A07498-e102600">
+      <sp who="A07498-black_queen_pawn" xml:id="A07498-e102600">
        <speaker>
         <w lemma="black" pos="j" reg="Black" xml:id="A07498-006-a-1180">Blacke</w>
         <w lemma="Q." pos="ab" xml:id="A07498-006-a-1190">Q.</w>
@@ -8288,7 +8288,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e108880">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e108880">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-012-a-3140">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-012-a-3150">Q.</w>
@@ -8861,7 +8861,7 @@
        <pc unit="sentence" xml:id="A07498-013-a-0250">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e109530">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e109530">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-013-a-0260">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-013-a-0270">Q.</w>
@@ -8893,7 +8893,7 @@
        <pc unit="sentence" xml:id="A07498-013-a-0440">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e109570">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e109570">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-013-a-0450">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-013-a-0460">Q.</w>
@@ -9458,7 +9458,7 @@
       <w lemma="pawn" pos="vvb" reg="pawn" xml:id="A07498-013-b-1200">pawne</w>
       <pc unit="sentence" xml:id="A07498-013-b-1210">.</pc>
      </stage>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e110190">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e110190">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-013-b-1220">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-013-b-1230">Q.</w>
@@ -9542,7 +9542,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e110300">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e110300">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-013-b-1800">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-013-b-1810">Q.</w>
@@ -9612,7 +9612,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e110390">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e110390">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-013-b-2250">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-013-b-2260">Q.</w>
@@ -9672,7 +9672,7 @@
        <pc unit="sentence" xml:id="A07498-013-b-2630">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e110460">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e110460">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-013-b-2640">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-013-b-2650">Q.</w>
@@ -16273,7 +16273,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e117660">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e117660">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-021-a-2650">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-021-a-2660">Q.</w>
@@ -16352,7 +16352,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen" xml:id="A07498-e117740">
+     <sp who="A07498-black_queen" xml:id="A07498-e117740">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-021-b-0100">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-021-b-0110">Q.</w>
@@ -16399,7 +16399,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e117810">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e117810">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-021-b-0380">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-021-b-0390">Q.</w>
@@ -16424,7 +16424,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen" xml:id="A07498-e117850">
+     <sp who="A07498-black_queen" xml:id="A07498-e117850">
       <speaker>
        <w lemma="b" pos="sy" xml:id="A07498-021-b-0530">B</w>
        <w lemma="Q." pos="ab" xml:id="A07498-021-b-0540">Q.</w>
@@ -16467,7 +16467,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e117910">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e117910">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-021-b-0800">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-021-b-0810">Q.</w>
@@ -16498,7 +16498,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen" xml:id="A07498-e117950">
+     <sp who="A07498-black_queen" xml:id="A07498-e117950">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-021-b-1010">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-021-b-1020">Q.</w>
@@ -16628,7 +16628,7 @@
        <pc unit="sentence" xml:id="A07498-021-b-1870">?</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e118110">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e118110">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-021-b-1880">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-021-b-1890">Q.</w>
@@ -16809,7 +16809,7 @@
        <pc unit="sentence" xml:id="A07498-021-b-3050"/>
       </p>
      </sp>
-     <sp who="A07498- black_queen" xml:id="A07498-e118330">
+     <sp who="A07498-black_queen" xml:id="A07498-e118330">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-021-b-3060">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-021-b-3070">Q.</w>
@@ -16842,7 +16842,7 @@
       </p>
      </sp>
      <pb facs="tcp:6830:22" xml:id="A07498-022-a"/>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e118370">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e118370">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-022-a-0010">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-022-a-0020">Q.</w>
@@ -18209,7 +18209,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e119970">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e119970">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-023-a-2700">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-023-a-2710">Q.</w>
@@ -18254,7 +18254,7 @@
        <pc unit="sentence" xml:id="A07498-023-a-2980">?</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e120030">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e120030">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-023-a-2990">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-023-a-3000">Q.</w>
@@ -18299,7 +18299,7 @@
        <pc unit="sentence" xml:id="A07498-023-a-3270">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e120090">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e120090">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-023-a-3280">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-023-a-3290">Q.</w>
@@ -18340,7 +18340,7 @@
       </p>
      </sp>
      <pb facs="tcp:6830:23" xml:id="A07498-023-b"/>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e120150">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e120150">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-023-b-0010">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-023-b-0020">Q.</w>
@@ -18422,7 +18422,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e120240">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e120240">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-023-b-0600">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-023-b-0610">Q.</w>
@@ -18483,7 +18483,7 @@
        <pc unit="sentence" xml:id="A07498-023-b-1020">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e120300">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e120300">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-023-b-1030">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-023-b-1040">Q.</w>
@@ -18652,7 +18652,7 @@
        <pc unit="sentence" xml:id="A07498-023-b-2250">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e120490">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e120490">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-023-b-2260">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-023-b-2270">Q.</w>
@@ -18732,7 +18732,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e120580">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e120580">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-023-b-2820">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-023-b-2830">Q.</w>
@@ -19456,7 +19456,7 @@
       <w lemma="p." pos="ab" xml:id="A07498-024-b-0590">p.</w>
       <pc unit="sentence" xml:id="A07498-024-b-0600"/>
      </stage>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e121430">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e121430">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-024-b-0610">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-024-b-0620">Q.</w>
@@ -19553,7 +19553,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e121540">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e121540">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-024-b-1310">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-024-b-1320">Q.</w>
@@ -19852,7 +19852,7 @@
        <pc unit="sentence" xml:id="A07498-025-a-0250">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e121880">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e121880">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-025-a-0260">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-025-a-0270">Q.</w>
@@ -19935,7 +19935,7 @@
        <pc unit="sentence" xml:id="A07498-025-a-0830">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e121980">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e121980">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-025-a-0840">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-025-a-0850">Q.</w>
@@ -20154,7 +20154,7 @@
        <pc unit="sentence" xml:id="A07498-025-a-2490">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e122220">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e122220">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-025-a-2500">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-025-a-2510">Q.</w>
@@ -20192,7 +20192,7 @@
        <pc unit="sentence" xml:id="A07498-025-a-2740">?</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e122260">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e122260">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-025-a-2750">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-025-a-2760">Q.</w>
@@ -20291,7 +20291,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e122370">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e122370">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-025-b-0200">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-025-b-0210">Q.</w>
@@ -20433,7 +20433,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e122520">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e122520">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-025-b-1250">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-025-b-1260">Q.</w>
@@ -21034,7 +21034,7 @@
        <pc unit="sentence" xml:id="A07498-026-a-3090">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e123180">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e123180">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-026-a-3100">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-026-a-3110">Q.</w>
@@ -21074,7 +21074,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e123240">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e123240">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-026-b-0060">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-026-b-0070">Q.</w>
@@ -21153,7 +21153,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e123350">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e123350">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-026-b-0590">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-026-b-0600">Q.</w>
@@ -21300,7 +21300,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e123510">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e123510">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-026-b-1670">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-026-b-1680">Q.</w>
@@ -21365,7 +21365,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e123590">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e123590">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-026-b-2110">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-026-b-2120">Q.</w>
@@ -21465,7 +21465,7 @@
        <pc unit="sentence" xml:id="A07498-026-b-2820">?</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e123700">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e123700">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-026-b-2830">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-026-b-2840">Q.</w>
@@ -21623,7 +21623,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e123860">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e123860">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-027-a-0980">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-027-a-0990">Q.</w>
@@ -21709,7 +21709,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e123960">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e123960">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-027-a-1570">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-027-a-1580">Q.</w>
@@ -21772,7 +21772,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e124050">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e124050">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-027-a-1970">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-027-a-1980">Q.</w>
@@ -21882,7 +21882,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e124170">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e124170">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-027-a-2790">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-027-a-2800">Q.</w>
@@ -22073,7 +22073,7 @@
        <pc unit="sentence" xml:id="A07498-027-b-0640">)</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e124380">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e124380">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-027-b-0650">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-027-b-0660">Q.</w>
@@ -22573,7 +22573,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e124920">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e124920">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-028-a-0880">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-028-a-0890">Q.</w>
@@ -22764,7 +22764,7 @@
        <pc unit="sentence" xml:id="A07498-028-a-2200">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e125140">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e125140">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-028-a-2210">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-028-a-2220">Q.</w>
@@ -26957,7 +26957,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen" xml:id="A07498-e129550">
+     <sp who="A07498-black_queen" xml:id="A07498-e129550">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-033-a-0190">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-033-a-0200">Q.</w>
@@ -28426,7 +28426,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e131100">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e131100">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-034-b-1270">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-034-b-1280">Q.</w>
@@ -28523,7 +28523,7 @@
        <pc unit="sentence" xml:id="A07498-034-b-1950">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e131210">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e131210">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-034-b-1960">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-034-b-1970">Q.</w>
@@ -28555,7 +28555,7 @@
        <pc unit="sentence" xml:id="A07498-034-b-2130">?</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e131260">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e131260">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-034-b-2140">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-034-b-2150">Q.</w>
@@ -28603,7 +28603,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e131340">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e131340">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-034-b-2420">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-034-b-2430">Q.</w>
@@ -28659,7 +28659,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e131420">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e131420">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-034-b-2770">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-034-b-2780">Q.</w>
@@ -28703,7 +28703,7 @@
        <pc unit="sentence" xml:id="A07498-034-b-3050">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e131470">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e131470">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-034-b-3060">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-034-b-3070">Q.</w>
@@ -28751,7 +28751,7 @@
        <pc unit="sentence" xml:id="A07498-034-b-3350">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e131540">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e131540">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-034-b-3360">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-034-b-3370">Q.</w>
@@ -29068,7 +29068,7 @@
        <pc unit="sentence" xml:id="A07498-035-a-2070">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e131880">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e131880">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-035-a-2080">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-035-a-2090">Q.</w>
@@ -29979,7 +29979,7 @@
        <pc unit="sentence" xml:id="A07498-036-a-2420">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen" xml:id="A07498-e132820">
+     <sp who="A07498-black_queen" xml:id="A07498-e132820">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-036-a-2430">B.</w>
        <w lemma="q" pos="sy" xml:id="A07498-036-a-2440">Q</w>
@@ -31641,7 +31641,7 @@
        <pc unit="sentence" xml:id="A07498-038-a-0600">.</pc>
       </p>
      </sp>
-     <sp who="A07498- black_queen" xml:id="A07498-e134610">
+     <sp who="A07498-black_queen" xml:id="A07498-e134610">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-038-a-0610">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-038-a-0620">Q.</w>
@@ -32141,7 +32141,7 @@
        </l>
       </lg>
      </sp>
-     <sp who="A07498- black_queen_pawn" xml:id="A07498-e135180">
+     <sp who="A07498-black_queen_pawn" xml:id="A07498-e135180">
       <speaker>
        <w lemma="B." pos="ab" xml:id="A07498-038-b-0730">B.</w>
        <w lemma="Q." pos="ab" xml:id="A07498-038-b-0740">Q.</w>
