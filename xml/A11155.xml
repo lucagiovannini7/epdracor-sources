@@ -13,6 +13,8 @@
     <respStmt>
      <resp>Incompletely or incorrectly transcribed words were reviewed and in many cases fixed by</resp>
      <name>Madeline Burg</name>
+     <name>Madeline Iliana Schmidt</name>
+     <name>Elizabeth Sperti</name>
     </respStmt>
     <respStmt>
      <resp>This text has not been fully proofread</resp>
@@ -94,6 +96,8 @@
     </ep:author>
     <ep:curator>
      <ep:name>Madeline Burg</ep:name>
+     <ep:name>Elizabeth Sperti</ep:name>
+     <ep:name>Iliana Schmidt</ep:name>
     </ep:curator>
     <ep:creationYear>1619</ep:creationYear>
     <ep:genre>play</ep:genre>
@@ -108,12 +112,12 @@
     <ep:untranscribedForeignCount>0</ep:untranscribedForeignCount>
     <ep:untranscribedMathCount>0</ep:untranscribedMathCount>
     <ep:untranscribedMusicCount>0</ep:untranscribedMusicCount>
-    <ep:defectiveTokenCount>117</ep:defectiveTokenCount>
+    <ep:defectiveTokenCount>0</ep:defectiveTokenCount>
     <ep:missingChunkCount>0</ep:missingChunkCount>
     <ep:missingPagesCount>0</ep:missingPagesCount>
-    <ep:defectRate>52.74</ep:defectRate>
-    <ep:finalGrade>D</ep:finalGrade>
-    <ep:defectRangePerGrade> The  rate of 52.74 defects per 10,000 words puts this text in the D category of texts with between 35 and 100 defects per 10,000 words.</ep:defectRangePerGrade>
+    <ep:defectRate>0</ep:defectRate>
+    <ep:finalGrade>A</ep:finalGrade>
+    <ep:defectRangePerGrade> This text has no known defects that were recorded as gap elements at the time of transcription</ep:defectRangePerGrade>
    </ep:epHeader>
   </xenoData>
   <revisionDesc>
@@ -2470,7 +2474,7 @@
        <w lemma="of" pos="acp" xml:id="A11155-005-b-3180">of</w>
        <w lemma="our" pos="po" xml:id="A11155-005-b-3190">our</w>
        <w lemma="kingdom" pos="n1" reg="kingdom" xml:id="A11155-005-b-3200">kingdome</w>
-       <pc xml:id="A11155-005-b-3210">▪</pc>
+       <pc xml:id="A11155-005-b-3210">:</pc>
       </l>
       <l xml:id="A11155-e101600">
        <w lemma="scourge" pos="vvb" xml:id="A11155-005-b-3220">Scourge</w>
@@ -8074,7 +8078,7 @@
      </sp>
      <sp who="A11155-unassigned" xml:id="A11155-e107140">
       <speaker>
-       <w lemma="iii" pos="ab" type="unclear" xml:id="A11155-011-b-3060">Iii</w>
+       <w lemma="Iac." pos="ab" xml:id="A11155-011-b-3060">Iac.</w>
        <pc unit="sentence" xml:id="A11155-011-b-3070"/>
       </speaker>
       <l xml:id="A11155-e107150">
@@ -8683,7 +8687,6 @@
        <w lemma="not" pos="xx" xml:id="A11155-012-b-0750">not</w>
        <w lemma="frown" pos="vvi" reg="frown" xml:id="A11155-012-b-0760">frowne</w>
        <pc xml:id="A11155-012-b-0770">,</pc>
-       <w lemma="〈◊〉" pos="zz" xml:id="A11155-012-b-0780">〈◊〉</w>
       </l>
       <l xml:id="A11155-e107790">
        <w lemma="but" pos="acp" xml:id="A11155-012-b-0790">But</w>
@@ -8738,8 +8741,8 @@
        <w lemma="from" pos="acp" xml:id="A11155-012-b-1150">from</w>
        <w lemma="your" pos="po" xml:id="A11155-012-b-1160">your</w>
        <w lemma="humble" pos="j" xml:id="A11155-012-b-1170">humble</w>
-       <w lemma="〈◊〉" pos="zz" xml:id="A11155-012-b-1180">〈◊〉</w>
-       <pc unit="sentence" xml:id="A11155-012-b-1190"/>
+       <w lemma="vassal" pos="n1" xml:id="A11155-012-b-1180">vassayle</w>
+       <pc unit="sentence" xml:id="A11155-012-b-1190">?</pc>
       </l>
      </sp>
      <sp who="A11155-roderigo" xml:id="A11155-e107850">
@@ -10606,7 +10609,7 @@
        <pc xml:id="A11155-014-b-1140">,</pc>
        <w lemma="thou" pos="pns" xml:id="A11155-014-b-1150">thou</w>
        <w lemma="everlasting" pos="vvg" reg="everlasting" xml:id="A11155-014-b-1160">euerlasting</w>
-       <w lemma="ball" pos="n1" type="unclear" xml:id="A11155-014-b-1170">ball</w>
+       <w lemma="ball" pos="n1" xml:id="A11155-014-b-1170">ball</w>
        <pc xml:id="A11155-014-b-1180">,</pc>
       </l>
       <l xml:id="A11155-e109870">
@@ -10695,7 +10698,6 @@
       </speaker>
       <l xml:id="A11155-e109960">
        <w lemma="great" pos="j" xml:id="A11155-014-b-1830">Great</w>
-       <w lemma="mulai" pos="n1" reg="Muly" rend="hi" xml:id="A11155-014-b-1840">Mully</w>
        <w lemma="Mullymumen" pos="nn1" rend="hi" xml:id="A11155-014-b-1850">Mullymumen</w>
        <w lemma="haste" pos="vvb" xml:id="A11155-014-b-1860">haste</w>
        <pc xml:id="A11155-014-b-1870">,</pc>
@@ -10726,8 +10728,8 @@
        <w lemma="and" pos="cc" xml:id="A11155-014-b-2060">and</w>
        <w lemma="baseness" pos="n1" reg="baseness" xml:id="A11155-014-b-2070">basenesse</w>
        <pc xml:id="A11155-014-b-2080">:</pc>
-       <w lemma="b" pos="sy" rend="hi" xml:id="A11155-014-b-2090">B</w>
-       <w lemma="〈…〉" pos="zz" rend="hi" xml:id="A11155-014-b-2100">〈…〉</w>
+       <w lemma="Bennizverian" pos="nn1" rend="hi" xml:id="A11155-014-b-2090">Bennizverian</w>
+       <w lemma="be" pos="vvz" reg="'s" rend="hi" xml:id="A11155-014-b-2100">s</w>
        <w lemma="slay" pos="vvn" reg="slain" xml:id="A11155-014-b-2110">slaine</w>
        <pc xml:id="A11155-014-b-2120">,</pc>
       </l>
@@ -12137,7 +12139,12 @@
        <w lemma="be" pos="vvi" xml:id="A11155-016-a-3190">be</w>
        <w lemma="glad" pos="j" xml:id="A11155-016-a-3200">glad</w>
        <w lemma="to" pos="prt" xml:id="A11155-016-a-3210">to</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-016-a-3220">〈…〉</w>
+       <w lemma="embrace" pos="vvi" xml:id="A11155-016-a-3220">embrace</w>
+       <w lemma="that" pos="d" xml:id="A11155-016-a-3221">that</w>
+       <pc xml:id="A11155-016-a-3222">,</pc>
+       <w join="right" lemma="it" pos="pn" xml:id="A11155-016-a-3223">t</w>
+       <w join="left" lemma="be" pos="vvd" xml:id="A11155-016-a-3224">were</w>
+       <w lemma="pride" pos="n1" xml:id="A11155-016-a-3225">pride</w>
       </l>
       <pb facs="tcp:16776:16" xml:id="A11155-016-b"/>
       <l xml:id="A11155-e111540">
@@ -12529,7 +12536,7 @@
      </sp>
      <sp who="A11155-dionysia" xml:id="A11155-e111930">
       <speaker>
-       <w lemma="Dio." pos="ab" type="unclear" xml:id="A11155-016-b-2860">Dio.</w>
+       <w lemma="Dio." pos="ab" xml:id="A11155-016-b-2860">Dio.</w>
        <pc unit="sentence" xml:id="A11155-016-b-2870"/>
       </speaker>
       <l xml:id="A11155-e111940">
@@ -12558,7 +12565,6 @@
        <w lemma="a" pos="d" xml:id="A11155-016-b-3020">A</w>
        <w lemma="happy" pos="j" xml:id="A11155-016-b-3030">happy</w>
        <w lemma="messenger" pos="n1" xml:id="A11155-016-b-3040">messenger</w>
-       <w lemma="in" pos="acp" xml:id="A11155-016-b-3050">in</w>
        <w lemma="invites" pos="vvz" xml:id="A11155-016-b-3060">invites</w>
        <w lemma="I" pos="pno" xml:id="A11155-016-b-3070">me</w>
        <w lemma="to" pos="acp" xml:id="A11155-016-b-3080">to</w>
@@ -12873,7 +12879,7 @@
      </sp>
      <sp who="A11155-dionysia" xml:id="A11155-e112330">
       <speaker>
-       <w lemma="did" pos="ab" type="unclear" xml:id="A11155-017-a-1670">Did</w>
+       <w lemma="Dio." pos="ab" xml:id="A11155-017-a-1670">Dio.</w>
        <pc unit="sentence" xml:id="A11155-017-a-1680"/>
       </speaker>
       <l xml:id="A11155-e112340">
@@ -12987,12 +12993,12 @@
        <w lemma="kind" pos="j" reg="Kind" xml:id="A11155-017-a-2380">Kinde</w>
        <w lemma="and" pos="cc" xml:id="A11155-017-a-2390">and</w>
        <w lemma="love" pos="j-vg" xml:id="A11155-017-a-2400">loving</w>
-       <pc xml:id="A11155-017-a-2410">▪</pc>
+       <pc xml:id="A11155-017-a-2410">.</pc>
        <w join="right" lemma="it" pos="pn" reg="'t" xml:id="A11155-017-a-2420">t'</w>
        <w join="left" lemma="be" pos="vvd" xml:id="A11155-017-a-2421">were</w>
        <w lemma="a" pos="d" xml:id="A11155-017-a-2430">a</w>
        <w lemma="good" pos="j" xml:id="A11155-017-a-2440">good</w>
-       <w lemma="commendation" pos="n2" xml:id="A11155-017-a-2450">commendations</w>
+       <w lemma="commendation" pos="n1" xml:id="A11155-017-a-2450">commendation</w>
       </l>
       <l xml:id="A11155-e112480">
        <w lemma="for" pos="acp" xml:id="A11155-017-a-2460">For</w>
@@ -13106,9 +13112,7 @@
        <w lemma="two" pos="crd" xml:id="A11155-017-a-3190">two</w>
        <w lemma="edge" pos="n2" xml:id="A11155-017-a-3200">edges</w>
        <w lemma="I" pos="pns" xml:id="A11155-017-a-3210">I</w>
-       <w lemma="pr" pos="zz" xml:id="A11155-017-a-3220">pr</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-017-a-3230">〈…〉</w>
-       <w lemma="st" pos="zz" xml:id="A11155-017-a-3240">st</w>
+       <w lemma="pr" pos="zz" xml:id="A11155-017-a-3220">protest</w>
        <pc unit="sentence" xml:id="A11155-017-a-3250">.</pc>
       </l>
      </sp>
@@ -15309,7 +15313,7 @@
      </sp>
      <sp who="A11155-unassigned" xml:id="A11155-e114760">
       <speaker>
-       <w lemma="cor" pos="ab" type="unclear" xml:id="A11155-019-b-1320">Cor</w>
+       <w lemma="cor" pos="ab" type="unclear" xml:id="A11155-019-b-1320">Cob.</w>
        <pc unit="sentence" xml:id="A11155-019-b-1330"/>
       </speaker>
       <l xml:id="A11155-e114770">
@@ -15456,8 +15460,8 @@
        <pc xml:id="A11155-019-b-2421">?</pc>
       </l>
       <l xml:id="A11155-e114920">
-       <w lemma="thou" pos="zz" reg="Th'" xml:id="A11155-019-b-2430">Th</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-019-b-2440">〈…〉</w>
+       <w join="right" lemma="There" pos="ab" xml:id="A11155-019-b-2430">There</w>
+       <w join="left" lemma="be" pos="vvz" reg="'s" xml:id="A11155-019-b-2440">s</w>
        <w lemma="hell" pos="n1" type="unclear" xml:id="A11155-019-b-2450">hell</w>
        <w lemma="within" pos="acp" xml:id="A11155-019-b-2460">within</w>
        <w lemma="he" pos="pno" xml:id="A11155-019-b-2470">him</w>
@@ -15469,16 +15473,30 @@
        <w lemma="noise" pos="n1" xml:id="A11155-019-b-2540">noise</w>
       </l>
       <l xml:id="A11155-e114930">
-       <w lemma="thou" pos="zz" reg="Th'" xml:id="A11155-019-b-2550">Th</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-019-b-2560">〈…〉</w>
+       <w lemma="the" pos="d" xml:id="A11155-019-b-2550">The</w>
+       <w lemma="fiend" pos="n2" xml:id="A11155-019-b-2560">fiends</w>
+       <w lemma="do" pos="vvb" xml:id="A11155-019-b-2561">do</w>
+       <w lemma="make" pos="vvi" xml:id="A11155-019-b-2562">make</w>
+       <pc xml:id="A11155-019-b-2563">:</pc>
+       <w lemma="oh" pos="uh" xml:id="A11155-019-b-2564">oh</w>
+       <w lemma="have" pos="vvd" xml:id="A11155-019-b-2565">had</w>
+       <w lemma="I" pos="pns" xml:id="A11155-019-b-2566">I</w>
+       <w lemma="but" pos="acp" xml:id="A11155-019-b-2567">but</w>
+       <w lemma="a" pos="d" xml:id="A11155-019-b-2568">a</w>
+       <w lemma="murder" pos="j-vg" xml:id="A11155-019-b-2569">murdering</w>
+       <w lemma="heart" pos="n1" xml:id="A11155-019-b-2570">heart</w>
       </l>
       <l xml:id="A11155-e114940">
-       <w lemma="I" pos="pns" xml:id="A11155-019-b-2570">I</w>
+       <w lemma="I" pos="pns" xml:id="A11155-019-b-257">I</w>
        <w lemma="can" pos="vmd" xml:id="A11155-019-b-2580">could</w>
        <w lemma="with" pos="acp" xml:id="A11155-019-b-2590">with</w>
        <w lemma="his" pos="po" type="unclear" xml:id="A11155-019-b-2600">his</w>
        <w lemma="office" pos="n1" xml:id="A11155-019-b-2610">office</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-019-b-2620">〈…〉</w>
+       <w lemma="beat" pos="vvi" xml:id="A11155-019-b-261">beat</w>
+       <w lemma="out" pos="acp" xml:id="A11155-019-b-2612">out</w>
+       <w lemma="his" pos="po" xml:id="A11155-019-b-2613">his</w>
+       <w lemma="brain" pos="n2" xml:id="A11155-019-b-2614">braines</w>
+       <pc xml:id="A11155-019-b-2615">braines</pc>
       </l>
       <l xml:id="A11155-e114950">
        <w lemma="but" pos="acp" xml:id="A11155-019-b-2630">But</w>
@@ -15496,7 +15514,12 @@
       <l xml:id="A11155-e114960">
        <w lemma="my" pos="po" xml:id="A11155-019-b-2720">My</w>
        <w lemma="release" pos="n1" xml:id="A11155-019-b-2730">release</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-019-b-2740">〈…〉</w>
+       <w lemma="from" pos="zz" xml:id="A11155-019-b-2740">from</w>
+       <w lemma="prison" pos="zz" xml:id="A11155-019-b-2741">prison</w>
+       <pc xml:id="A11155-019-b-2742">:</pc>
+       <w lemma="can" pos="vmb" xml:id="A11155-019-b-2743">Can</w>
+       <w lemma="I" pos="pns" xml:id="A11155-019-b-2744">I</w>
+       <w lemma="think" pos="vvi" xml:id="A11155-019-b-2745">thinke</w>
       </l>
       <pb facs="tcp:16776:20" xml:id="A11155-020-a"/>
       <l xml:id="A11155-e114970">
@@ -15626,9 +15649,7 @@
        <w lemma="the" pos="d" xml:id="A11155-020-a-0990">the</w>
        <w lemma="king" pos="n1" xml:id="A11155-020-a-1000">king</w>
        <w lemma="come" pos="vvg" reg="coming" xml:id="A11155-020-a-1010">comming</w>
-       <w lemma="n/a" pos="fla" xml:id="A11155-020-a-1020">pri</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-020-a-1030">〈…〉</w>
-       <w lemma="Ely" pos="nn1" xml:id="A11155-020-a-1040">ely</w>
+       <w lemma="private" pos="av-j" xml:id="A11155-020-a-1020">privately</w>
       </l>
       <l xml:id="A11155-e115090">
        <w lemma="by" pos="acp" xml:id="A11155-020-a-1050">By</w>
@@ -15806,7 +15827,8 @@
        <pc unit="sentence" xml:id="A11155-020-a-2420"/>
       </speaker>
       <l xml:id="A11155-e115240">
-       <w lemma="H●●s" pos="nn1" type="unclear" xml:id="A11155-020-a-2430">H●●s</w>
+       <w join="right" lemma="he" pos="pns" reg="He" xml:id="A11155-020-a-2430">Hee</w>
+       <w join="left" lemma="be" pos="vvz" reg="'s" xml:id="A11155-020-a-2431">s</w>
        <w lemma="here" pos="av" xml:id="A11155-020-a-2440">here</w>
       </l>
       <l xml:id="A11155-e115250">
@@ -15888,7 +15910,9 @@
        <pc xml:id="A11155-020-a-2980">,</pc>
        <w lemma="her" pos="po" xml:id="A11155-020-a-2990">her</w>
        <w lemma="father" pos="n1" xml:id="A11155-020-a-3000">father</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-020-a-3010">〈…〉</w>
+       <w lemma="send" pos="vvz" xml:id="A11155-020-a-3010">sends</w>
+       <w lemma="I" pos="pno" xml:id="A11155-020-a-3011">me</w>
+       <w lemma="word" pos="n1" xml:id="A11155-020-a-3012">word</w>
        <pc xml:id="A11155-020-a-3020">,</pc>
       </l>
       <l xml:id="A11155-e115340">
@@ -15918,7 +15942,10 @@
        <pc xml:id="A11155-020-a-3230">:</pc>
        <w lemma="therefore" pos="av" xml:id="A11155-020-a-3240">therefore</w>
        <w lemma="I" pos="pns" xml:id="A11155-020-a-3250">I</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-020-a-3260">〈…〉</w>
+       <w lemma="must" pos="vmb" xml:id="A11155-020-a-3260">must</w>
+       <w lemma="now" pos="av" xml:id="A11155-020-a-3261">now</w>
+       <w lemma="be" pos="vvi" xml:id="A11155-020-a-3262">be</w>
+       <w lemma="heedful" pos="j" xml:id="A11155-020-a-3263">heedful</w>
       </l>
       <pb facs="tcp:16776:20" xml:id="A11155-020-b"/>
       <l xml:id="A11155-e115370">
@@ -16387,6 +16414,8 @@
        <w lemma="nay" pos="uhx" xml:id="A11155-020-b-3290">Nay</w>
        <w lemma="but" pos="acp" xml:id="A11155-020-b-3300">but</w>
        <w lemma="my" pos="po" xml:id="A11155-020-b-3310">my</w>
+       <w lemma="lord" pos="n1" xml:id="A11155-020-b-3311">Lord</w>
+       <w xml:id="A11155-020-b-3312">,</w>
        <w lemma="I" pos="pns" xml:id="A11155-020-b-3320">I</w>
        <w lemma="protest" pos="vvb" xml:id="A11155-020-b-3321">protest</w>
        <pc unit="sentence" xml:id="A11155-020-b-3330">.</pc>
@@ -16397,7 +16426,12 @@
        <w lemma="office" pos="n1" xml:id="A11155-020-b-3360">office</w>
        <w lemma="I" pos="nng1" rend="italics-before_hi" xml:id="A11155-020-b-3370">I</w>
        <w lemma="hold" pos="vvi" xml:id="A11155-020-b-3371">hold</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-020-b-3380">〈…〉</w>
+       <w lemma="about" pos="acp" xml:id="A11155-020-b-3380">about</w>
+       <w lemma="you" pos="pn" xml:id="A11155-020-b-3381">you</w>
+       <pc xml:id="A11155-020-b-3382">,</pc>
+       <w lemma="I" pos="pns" xml:id="A11155-020-b-3383">I</w>
+       <w lemma="leave" pos="vvd" xml:id="A11155-020-b-3384">left</w>
+       <w lemma="they" pos="pno" xml:id="A11155-020-b-3385">'em</w>
        <w lemma="by" pos="acp" xml:id="A11155-020-b-3390">by</w>
        <w lemma="I" pos="pno" xml:id="A11155-020-b-3400">me</w>
       </l>
@@ -20947,14 +20981,12 @@
        <w lemma="ulcer" pos="n2" reg="Ulcers" xml:id="A11155-025-b-2030">Vlcers</w>
        <w lemma="must" pos="vmb" xml:id="A11155-025-b-2040">must</w>
        <w lemma="have" pos="vvi" xml:id="A11155-025-b-2050">have</w>
-       <w lemma="co" pos="zz" xml:id="A11155-025-b-2060">co</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-025-b-2070">〈…〉</w>
-       <w lemma="sives" pos="zz" xml:id="A11155-025-b-2080">sives</w>
+       <w lemma="corrosive" pos="n2-j" xml:id="A11155-025-b-2060">corrasives</w>
        <w lemma="to" pos="prt" xml:id="A11155-025-b-2090">to</w>
        <w lemma="eat" pos="vvi" reg="eat" xml:id="A11155-025-b-2100">eate</w>
        <pc xml:id="A11155-025-b-2110">,</pc>
        <w lemma="not" pos="xx" xml:id="A11155-025-b-2120">not</w>
-       <w lemma="skin" pos="vvn" reg="skinned" type="unclear" xml:id="A11155-025-b-2130">skinde</w>
+       <w lemma="skin" pos="vvn" reg="skinned" xml:id="A11155-025-b-2130">skinde</w>
        <pc xml:id="A11155-025-b-2140">,</pc>
       </l>
       <l xml:id="A11155-e120110">
@@ -21010,9 +21042,7 @@
        <w lemma="passage" pos="n1" xml:id="A11155-025-b-2510">passage</w>
        <w lemma="shall" pos="vmb" xml:id="A11155-025-b-2520">shall</w>
        <w lemma="be" pos="vvi" xml:id="A11155-025-b-2530">be</w>
-       <w lemma="inst" pos="ab" xml:id="A11155-025-b-2540">inst</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-025-b-2550">〈…〉</w>
-       <w lemma="lie" pos="vvb" reg="lie" xml:id="A11155-025-b-2560">ly</w>
+       <w lemma="instant" pos="av-j" xml:id="A11155-025-b-2540">instantly</w>
        <w lemma="prepare" pos="vvn" reg="prepared" xml:id="A11155-025-b-2570">preparde</w>
       </l>
       <l xml:id="A11155-e120170">
@@ -21126,7 +21156,6 @@
       <w lemma="with" pos="acp" xml:id="A11155-026-a-0060">with</w>
       <w lemma="a" pos="d" xml:id="A11155-026-a-0070">a</w>
       <w lemma="letter" pos="n1" xml:id="A11155-026-a-0080">letter</w>
-      <pc xml:id="A11155-026-a-0081">,</pc>
       <pc xml:id="A11155-026-a-0090">,</pc>
       <w lemma="and" pos="cc" xml:id="A11155-026-a-0100">and</w>
       <w lemma="n/a" pos="ffr" xml:id="A11155-026-a-0110">Piamentelli</w>
@@ -21212,8 +21241,8 @@
        <w lemma="my" pos="po" xml:id="A11155-026-a-0670">my</w>
        <w lemma="thought" pos="n2" type="unclear" xml:id="A11155-026-a-0680">thoughts</w>
        <w lemma="for" pos="acp" xml:id="A11155-026-a-0690">for</w>
-       <w lemma="be" pos="vvb" xml:id="A11155-026-a-0700">be</w>
-       <w lemma="being" pos="vvg" xml:id="A11155-026-a-0710">being</w>
+       <w lemma="be" pos="vvg" xml:id="A11155-026-a-0700">being</w>
+       <w lemma="troubled" pos="vvn" xml:id="A11155-026-a-0710">troubled</w>
        <pc unit="sentence" xml:id="A11155-026-a-0740">.</pc>
       </l>
       <l xml:id="A11155-e120370">
@@ -21260,7 +21289,6 @@
        <w lemma="loud" pos="j" xml:id="A11155-026-a-1090">loud</w>
        <w lemma="be" pos="vvi" xml:id="A11155-026-a-1100">be</w>
        <w lemma="bellow" pos="vvg" xml:id="A11155-026-a-1110">bellowing</w>
-       <w lemma="g" pos="sy" xml:id="A11155-026-a-1120">g</w>
        <w lemma="voice" pos="n2" reg="voices" type="unclear" xml:id="A11155-026-a-1130">voyces</w>
        <pc xml:id="A11155-026-a-1140">,</pc>
       </l>
@@ -21294,7 +21322,9 @@
        <w lemma="present" pos="j" xml:id="A11155-026-a-1370">present</w>
        <w lemma="object" pos="n1" xml:id="A11155-026-a-1380">object</w>
        <pc xml:id="A11155-026-a-1390">,</pc>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-026-a-1400">〈…〉</w>
+       <w lemma="nothing" pos="pix" xml:id="A11155-026-a-1400">nothing</w>
+       <w lemma="co" pos="prt" xml:id="A11155-026-a-1401">to</w>
+       <w lemma="come" pos="vvi" xml:id="A11155-026-a-1402">come</w>
        <pc xml:id="A11155-026-a-1410">,</pc>
        <w lemma="or" pos="cc" xml:id="A11155-026-a-1420">or</w>
        <w lemma="past" pos="n1" xml:id="A11155-026-a-1430">past</w>
@@ -21331,15 +21361,24 @@
        <pc xml:id="A11155-026-a-1680">,</pc>
        <w lemma="but" pos="acp" xml:id="A11155-026-a-1690">but</w>
        <w lemma="be" pos="vvz" xml:id="A11155-026-a-1700">is</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-026-a-1710">〈…〉</w>
+       <w lemma="their" pos="po" xml:id="A11155-026-a-1711">their</w>
+       <w lemma="king" pos="ng1" xml:id="A11155-026-a-1712">kings</w>
+       <w lemma="own" pos="d" xml:id="A11155-026-a-1713">owne</w>
+       <w lemma="right" pos="n1" xml:id="A11155-026-a-1714">right</w>
+       <pc unit="sentence" xml:id="A11155-026-a-1715">.</pc>
       </l>
       <l xml:id="A11155-e120470">
        <w lemma="due" pos="j" xml:id="A11155-026-a-1720">Due</w>
        <w lemma="as" pos="acp" xml:id="A11155-026-a-1730">as</w>
        <w lemma="their" pos="po" type="unclear" xml:id="A11155-026-a-1740">their</w>
-       <w lemma="crownes" pos="n2" reg="crowns" type="unclear" xml:id="A11155-026-a-1750">crownes</w>
+       <w lemma="crownes" pos="n2" reg="crowns" xml:id="A11155-026-a-1750">crownes</w>
        <pc xml:id="A11155-026-a-1760">;</pc>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-026-a-1770">〈…〉</w>
+       <w join="right" lemma="he" pos="pns" xml:id="A11155-026-a-1770">hee</w>
+       <w join="left" lemma="be" pos="vvz" xml:id="A11155-026-a-1771">s</w>
+       <w lemma="royal" pos="av-j" xml:id="A11155-026-a-1772">royally</w>
+       <w lemma="wise" pos="j" xml:id="A11155-026-a-1773">wise</w>
+       <w join="right" lemma="in" pos="acp" xml:id="A11155-026-a-1774">in</w>
+       <w join="left" pos="pn" xml:id="A11155-026-a-1775">'t</w>
        <pc xml:id="A11155-026-a-1780">,</pc>
       </l>
       <l xml:id="A11155-e120480">
@@ -21349,8 +21388,10 @@
        <w lemma="it" pos="pn" xml:id="A11155-026-a-1820">it</w>
        <w lemma="high" pos="av-j" xml:id="A11155-026-a-1830">highly</w>
        <pc xml:id="A11155-026-a-1840">,</pc>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-026-a-1850">〈…〉</w>
-       <pc unit="sentence" xml:id="A11155-026-a-1851"/>
+       <w lemma="and" pos="cc" xml:id="A11155-026-a-1850">and</w>
+       <w lemma="obey" pos="vvb" xml:id="A11155-026-a-1851">obey</w>
+       <w lemma="it" pos="pn" xml:id="A11155-026-a-1852">it</w>
+       <pc unit="sentence" xml:id="A11155-026-a-1853">.</pc>
       </l>
      </sp>
      <sp who="A11155-piamentelli" xml:id="A11155-e120490">
@@ -21404,15 +21445,17 @@
        <w lemma="our" pos="po" xml:id="A11155-026-a-2220">our</w>
        <w lemma="Camp" pos="n1" reg="Camp" xml:id="A11155-026-a-2230">Campe</w>
        <pc xml:id="A11155-026-a-2231">,</pc>
-       <w lemma="that" orig="y'" pos="cs" xml:id="A11155-026-a-2240">that</w>
-       <w lemma="be" pos="vvn" xml:id="A11155-026-a-2241">are</w>
+       <w join="right" lemma="you" orig="y'" pos="pn" xml:id="A11155-026-a-2240">y'</w>
+       <w join="left" lemma="be" pos="vvn" xml:id="A11155-026-a-2241">are</w>
        <w lemma="noble" pos="av-j" xml:id="A11155-026-a-2250">nobly</w>
        <w lemma="welcome" pos="vvi" xml:id="A11155-026-a-2260">welcome</w>
        <pc xml:id="A11155-026-a-2270">,</pc>
       </l>
       <l xml:id="A11155-e120550">
        <w lemma="the" pos="d" xml:id="A11155-026-a-2280">The</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-026-a-2290">〈…〉</w>
+       <w lemma="king" pos="ng1" reg="king's" xml:id="A11155-026-a-2290">kings</w>
+       <w lemma="health" pos="n1" xml:id="A11155-026-a-2291">health</w>
+       <w lemma="shall" pos="vmb" xml:id="A11155-026-a-2292">shall</w>
        <w lemma="go" pos="vvb" xml:id="A11155-026-a-2300">go</w>
        <w lemma="round" pos="av-j" xml:id="A11155-026-a-2310">round</w>
        <w lemma="the" pos="d" xml:id="A11155-026-a-2320">the</w>
@@ -21504,7 +21547,6 @@
        <w lemma="Iacinta" pos="nn1" rend="hi" xml:id="A11155-026-a-2960">Iacinta</w>
        <w lemma="fare" pos="vvd" reg="fared" xml:id="A11155-026-a-2970">far'de</w>
        <pc xml:id="A11155-026-a-2980">:</pc>
-       <pc xml:id="A11155-026-a-2990">:</pc>
       </l>
       <l xml:id="A11155-e120660">
        <w lemma="but" pos="acp" xml:id="A11155-026-a-3000">But</w>
@@ -23873,8 +23915,6 @@
       <speaker>
        <w lemma="n/a" pos="fla" xml:id="A11155-028-b-3430">Iacin</w>
        <pc xml:id="A11155-028-b-3431">:</pc>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-028-b-3440">〈…〉</w>
-       <pc unit="sentence" xml:id="A11155-028-b-3450">.</pc>
       </speaker>
       <l xml:id="A11155-e123230">
        <w lemma="o" pos="uh" xml:id="A11155-028-b-3460">O</w>
@@ -24148,9 +24188,7 @@
        <w lemma="the" pos="d" xml:id="A11155-029-a-1960">The</w>
        <w lemma="prologue" pos="n1" xml:id="A11155-029-a-1970">Prologue</w>
        <w lemma="to" pos="acp" xml:id="A11155-029-a-1980">to</w>
-       <w lemma="Antony" pos="nng1" reg="Antony's" rend="hi" xml:id="A11155-029-a-1990">Ant</w>
-       <w lemma="〈…〉" pos="zz" rend="hi" xml:id="A11155-029-a-2000">〈…〉</w>
-       <w lemma="s" pos="sy" rend="hi" xml:id="A11155-029-a-2010">s</w>
+       <w lemma="Antonio" pos="nng1" reg="Antonio's" rend="hi" xml:id="A11155-029-a-1990">Antonios</w>
        <w lemma="tragedy" pos="n1" xml:id="A11155-029-a-2020">Tragedy</w>
        <pc unit="sentence" xml:id="A11155-029-a-2030">.</pc>
       </l>
@@ -24161,10 +24199,7 @@
        <pc unit="sentence" xml:id="A11155-029-a-2050"/>
       </speaker>
       <l xml:id="A11155-e123510">
-       <w join="right" lemma="an" pos="cs" rend="hi" xml:id="A11155-029-a-2060">An</w>
-       <w join="left" lemma="it" pos="pn" reg="'t" xml:id="A11155-029-a-2061">t</w>
-       <w lemma="〈…〉" pos="zz" rend="hi" xml:id="A11155-029-a-2070">〈…〉</w>
-       <w lemma="s" pos="sy" rend="hi" xml:id="A11155-029-a-2080">s</w>
+       <w lemma="Antonio" pos="nng1" rend="hi" xml:id="A11155-029-a-2060">Antonios</w>
        <w lemma="tragedy" pos="n1" xml:id="A11155-029-a-2090">Tragedy</w>
        <pc xml:id="A11155-029-a-2100">!</pc>
        <w lemma="that" pos="d" xml:id="A11155-029-a-2110">that</w>
@@ -27826,12 +27861,14 @@
        <w lemma="I" pos="pns" xml:id="A11155-033-b-1510">I</w>
        <w lemma="shall" pos="vmb" xml:id="A11155-033-b-1520">shall</w>
        <w lemma="have" pos="vvi" xml:id="A11155-033-b-1530">have</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-033-b-1540">〈…〉</w>
+       <w lemma="hearty" pos="j" xml:id="A11155-033-b-1540">harty</w>
+       <w lemma="curse" pos="n2" xml:id="A11155-033-b-1541">curses</w>
+       <w lemma="leave" pos="vvn" xml:id="A11155-033-b-1542">left</w>
        <pc unit="sentence" xml:id="A11155-033-b-1550">.</pc>
       </l>
      </sp>
      <stage xml:id="A11155-e127030">
-      <w lemma="〈…〉" pos="zz" xml:id="A11155-033-b-1560">〈…〉</w>
+      <w lemma="〈…〉" pos="zz" xml:id="A11155-033-b-1560">within</w>
       <pc unit="sentence" xml:id="A11155-033-b-1570">.</pc>
      </stage>
      <stage xml:id="A11155-e127040">
@@ -27868,7 +27905,12 @@
        <w lemma="Of" pos="acp" xml:id="A11155-033-b-1830">Of</w>
        <w lemma="sovereign" pos="j" reg="sovereign" xml:id="A11155-033-b-1840">soveraigne</w>
        <w lemma="justice" pos="n1" reg="justice" xml:id="A11155-033-b-1850">Iustice</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-033-b-1860">〈…〉</w>
+       <pc xml:id="A11155-033-b-1851">,</pc>
+       <w lemma="thou" pos="pns" xml:id="A11155-033-b-1852">thou</w>
+       <w lemma="be" pos="vv2" xml:id="A11155-033-b-1853">art</w>
+       <w lemma="a" pos="d" xml:id="A11155-033-b-1854">a</w>
+       <w lemma="severe" pos="j" xml:id="A11155-033-b-1855">severe</w>
+       <w lemma="one" pos="pi" xml:id="A11155-033-b-1856">one</w>
        <pc unit="sentence" xml:id="A11155-033-b-1870">.</pc>
       </l>
       <l xml:id="A11155-e127080">
@@ -27901,7 +27943,10 @@
        <w lemma="myself" pos="pr" reg="myself" xml:id="A11155-033-b-2010">My selfe</w>
        <w lemma="the" pos="d" xml:id="A11155-033-b-2020">the</w>
        <w lemma="murderess" pos="n1" reg="murderess" xml:id="A11155-033-b-2030">murdresse</w>
-       <w lemma="〈◊〉" pos="zz" xml:id="A11155-033-b-2040">〈◊〉</w>
+       <w lemma="of" pos="acp" xml:id="A11155-033-b-2040">of</w>
+       <w lemma="my" pos="po" xml:id="A11155-033-b-2041">my</w>
+       <w lemma="valiant" pos="j" xml:id="A11155-033-b-2042">valiant</w>
+       <w lemma="husband" pos="n1" xml:id="A11155-033-b-2043">husband</w>
        <pc unit="sentence" xml:id="A11155-033-b-2050">.</pc>
       </l>
      </sp>
@@ -27911,14 +27956,16 @@
        <pc unit="sentence" xml:id="A11155-033-b-2070"/>
       </speaker>
       <l xml:id="A11155-e127140">
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-033-b-2080">〈…〉</w>
+       <w lemma="more" pos="dc" xml:id="A11155-033-b-2080">More</w>
+       <w lemma="fruit" pos="n2" xml:id="A11155-033-b-2081">fruits</w>
+       <w lemma="of" pos="acp" xml:id="A11155-033-b-2082">of</w>
+       <w lemma="Christian" pos="nn2" xml:id="A11155-033-b-2083">Christians</w>
        <pc unit="sentence" xml:id="A11155-033-b-2090">.</pc>
       </l>
      </sp>
      <stage xml:id="A11155-e127150">
       <w lemma="enter" pos="vvb" xml:id="A11155-033-b-2100">Enter</w>
       <w lemma="Antonio" pos="nn1" xml:id="A11155-033-b-2120">Antonio</w>
-      <w lemma="w" pos="sy" xml:id="A11155-033-b-2130">w</w>
       <w lemma="wound" pos="vvn" xml:id="A11155-033-b-2140">wounded</w>
       <w lemma="with" pos="acp" xml:id="A11155-033-b-2170">with</w>
       <w lemma="Dionysia" pos="nn1" type="unclear" xml:id="A11155-033-b-2180">Dionysia</w>
@@ -27949,20 +27996,22 @@
        <pc xml:id="A11155-033-b-2370">,</pc>
        <w lemma="yet" pos="av" xml:id="A11155-033-b-2380">yet</w>
        <w lemma="live" pos="vv2" xml:id="A11155-033-b-2381">liv'st</w>
-       <w lemma="thou" pos="pns" xml:id="A11155-033-b-2382">liv'st</w>
+       <w lemma="thou" pos="pns" xml:id="A11155-033-b-2382">thou</w>
        <pc unit="sentence" xml:id="A11155-033-b-2383">?</pc>
       </l>
      </sp>
      <sp who="A11155-unassigned" xml:id="A11155-e127190">
       <speaker>
-       <w lemma="a" pos="d" xml:id="A11155-033-b-2390">A</w>
-       <w lemma="Ant" pos="ab" xml:id="A11155-033-b-2400">Ant</w>
-       <pc unit="sentence" xml:id="A11155-033-b-2410">.</pc>
+       <w lemma="Ant" pos="ab" xml:id="A11155-033-b-2400">Ant.</w>
+       <pc unit="sentence" xml:id="A11155-033-b-2410"/>
       </speaker>
       <l xml:id="A11155-e127200">
        <w lemma="Revenge" pos="n1" xml:id="A11155-033-b-2420">Revenge</w>
        <w lemma="and" pos="cc" xml:id="A11155-033-b-2430">and</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-033-b-2440">〈…〉</w>
+       <w lemma="jealousy" pos="n1" reg="jealousy" xml:id="A11155-033-b-2440">jealousie</w>
+       <w lemma="mislead" pos="vvd" xml:id="A11155-033-b-2441">misled</w>
+       <w lemma="thy" pos="po" xml:id="A11155-033-b-2442">thy</w>
+       <w lemma="arm" pos="n1" reg="arm" xml:id="A11155-033-b-2443">arme</w>
        <pc unit="sentence" xml:id="A11155-033-b-2450">.</pc>
       </l>
       <l xml:id="A11155-e127210">
@@ -28014,7 +28063,7 @@
      </sp>
      <sp who="A11155-antonio" xml:id="A11155-e127260">
       <speaker>
-       <w lemma="Aut." pos="ab" xml:id="A11155-034-a-0090">Aut.</w>
+       <w lemma="Ant." pos="ab" xml:id="A11155-034-a-0090">Ant.</w>
        <pc unit="sentence" xml:id="A11155-034-a-0100"/>
       </speaker>
       <l xml:id="A11155-e127270">
@@ -28292,7 +28341,7 @@
       </l>
      </sp>
      <stage xml:id="A11155-e127530">
-      <w lemma="Fals." pos="ab" xml:id="A11155-034-a-2250">Fals.</w>
+      <w lemma="fall" pos="vvz" reg="Falls" xml:id="A11155-034-a-2250">Fals</w>
       <pc unit="sentence" xml:id="A11155-034-a-2260">.</pc>
      </stage>
      <sp who="A11155-dionysia" xml:id="A11155-e127540">
@@ -28308,7 +28357,11 @@
        <w lemma="A" pos="d" xml:id="A11155-034-a-2320">a</w>
        <w lemma="brace" pos="n1" xml:id="A11155-034-a-2321">brace</w>
        <w lemma="of" pos="acp" xml:id="A11155-034-a-2330">of</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-034-a-2340">〈…〉</w>
+       <w lemma="widow" pos="n2" reg="widows" xml:id="A11155-034-a-2340">widowes</w>
+       <w lemma="now" pos="av" xml:id="A11155-034-a-2341">now</w>
+       <w lemma="at" pos="acp" xml:id="A11155-034-a-2342">at</w>
+       <w lemma="one" pos="crd" xml:id="A11155-034-a-2343">one</w>
+       <w lemma="windfall" pos="n1" xml:id="A11155-034-a-2344">windfall</w>
        <pc xml:id="A11155-034-a-2350">,</pc>
       </l>
       <l xml:id="A11155-e127560">
@@ -28317,7 +28370,7 @@
        <w lemma="example" pos="n1" xml:id="A11155-034-a-2380">example</w>
        <w lemma="to" pos="acp" xml:id="A11155-034-a-2390">to</w>
        <w lemma="all" pos="d" xml:id="A11155-034-a-2400">all</w>
-       <w lemma="successor" pos="n2" xml:id="A11155-034-a-2410">successors</w>
+       <w lemma="successor" pos="n2" xml:id="A11155-034-a-2410">succession</w>
        <pc xml:id="A11155-034-a-2420">;</pc>
       </l>
       <l xml:id="A11155-e127570">
@@ -28336,7 +28389,13 @@
        <w join="right" lemma="it" pos="pn" reg="'t" xml:id="A11155-034-a-2530">T</w>
        <w join="left" lemma="be" pos="vvz" xml:id="A11155-034-a-2531">is</w>
        <w lemma="too" pos="av" type="unclear" xml:id="A11155-034-a-2540">too</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-034-a-2550">〈…〉</w>
+       <w lemma="great" pos="j" xml:id="A11155-034-a-2549">great</w>
+       <w lemma="odds" pos="n2" reg="odds" xml:id="A11155-034-a-2550">ods</w>
+       <pc xml:id="A11155-034-a-2551">,</pc>
+       <w lemma="I" pos="pns" xml:id="A11155-034-a-2552">I</w>
+       <w lemma="dare" pos="vvd" xml:id="A11155-034-a-2553">durst</w>
+       <w lemma="be" pos="vvi" xml:id="A11155-034-a-2554">be</w>
+       <w lemma="one" pos="crd" xml:id="A11155-034-a-2555">one</w>
        <w lemma="of" pos="acp" xml:id="A11155-034-a-2560">of</w>
        <w lemma="the" pos="d" xml:id="A11155-034-a-2570">the</w>
        <w lemma="two" pos="crd" xml:id="A11155-034-a-2580">two</w>
@@ -28347,7 +28406,9 @@
        <w lemma="break" pos="vvi" xml:id="A11155-034-a-2610">break</w>
        <w lemma="one" pos="crd" xml:id="A11155-034-a-2620">one</w>
        <w lemma="of" pos="acp" xml:id="A11155-034-a-2630">of</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-034-a-2640">〈…〉</w>
+       <w lemma="the" pos="d" xml:id="A11155-034-a-2641">the</w>
+       <w lemma="strong" pos="js" xml:id="A11155-034-a-2642">strongest</w>
+       <w lemma="husband" pos="ng2" reg="husbands'" xml:id="A11155-034-a-2643">husbands</w>
        <w lemma="heart" pos="n2" xml:id="A11155-034-a-2650">hearts</w>
        <pc unit="sentence" xml:id="A11155-034-a-2660">.</pc>
       </l>
@@ -28392,8 +28453,10 @@
        <w lemma="on" pos="acp" xml:id="A11155-034-a-2970">On</w>
        <w lemma="we" pos="pno" xml:id="A11155-034-a-2980">us</w>
        <w lemma="both" pos="d" xml:id="A11155-034-a-2990">both</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-034-a-3000">〈…〉</w>
-       <pc unit="sentence" xml:id="A11155-034-a-3001"/>
+       <w lemma="at" pos="acp" xml:id="A11155-034-a-3000">at</w>
+       <w lemma="once" pos="acp" xml:id="A11155-034-a-3001">once</w>
+       <w lemma="again" pos="av" xml:id="A11155-034-a-3002">again</w>
+       <pc unit="sentence" xml:id="A11155-034-a-3003">.</pc>
       </l>
      </sp>
      <sp who="A11155-margaret" xml:id="A11155-e127640">
@@ -28405,7 +28468,10 @@
        <w lemma="do" pos="vv2" xml:id="A11155-034-a-3030">Dost</w>
        <w lemma="thou" pos="pns" xml:id="A11155-034-a-3040">thou</w>
        <w lemma="play" pos="vvi" xml:id="A11155-034-a-3050">play</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-034-a-3060">〈…〉</w>
+       <w lemma="with" pos="acp" xml:id="A11155-034-a-3060">with</w>
+       <w lemma="thunder" pos="n1" xml:id="A11155-034-a-3061">thunder</w>
+       <pc xml:id="A11155-034-a-3062">,</pc>
+       <w lemma="or" pos="cc" xml:id="A11155-034-a-3063">or</w>
        <w lemma="be" pos="vvz" xml:id="A11155-034-a-3070">is</w>
        <w lemma="that" pos="d" xml:id="A11155-034-a-3080">that</w>
        <w lemma="thing" pos="n1" xml:id="A11155-034-a-3090">thing</w>
@@ -28613,7 +28679,7 @@
        <w lemma="will" pos="vmb" xml:id="A11155-034-b-1200">will</w>
        <w lemma="enjoy" pos="vvi" xml:id="A11155-034-b-1210">enjoy</w>
        <w lemma="thy" pos="po" xml:id="A11155-034-b-1220">thy</w>
-       <w lemma="monumental" pos="j" reg="monumental" type="unclear" xml:id="A11155-034-b-1230">monumentall</w>
+       <w lemma="monumental" pos="j" reg="monumental" xml:id="A11155-034-b-1230">monumentall</w>
        <w lemma="bed" pos="n1" xml:id="A11155-034-b-1240">bed</w>
        <pc unit="sentence" xml:id="A11155-034-b-1250">.</pc>
       </l>
@@ -29107,8 +29173,7 @@ w      <w lemma="lead" pos="n1-vg" xml:id="A11155-035-a-0050">leading</w>
        <w lemma="though" pos="cs" reg="though" xml:id="A11155-035-a-1810">tho</w>
        <w lemma="my" pos="po" xml:id="A11155-035-a-1820">my</w>
        <w lemma="wrong" pos="n2-j" xml:id="A11155-035-a-1840">wrongs</w>
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-035-a-1850">〈…〉</w>
-       <w lemma="cked" pos="zz" xml:id="A11155-035-a-1860">cked</w>
+       <w lemma="incite" pos="vvn" xml:id="A11155-035-a-1850">encited</w>
        <w lemma="on" pos="acp" xml:id="A11155-035-a-1870">on</w>
        <w lemma="my" pos="po" xml:id="A11155-035-a-1880">my</w>
        <w lemma="rage" pos="n1" xml:id="A11155-035-a-1890">rage</w>
@@ -29178,7 +29243,15 @@ w      <w lemma="lead" pos="n1-vg" xml:id="A11155-035-a-0050">leading</w>
        <pc unit="sentence" xml:id="A11155-035-a-2380"/>
       </speaker>
       <l xml:id="A11155-e128410">
-       <w lemma="〈…〉" pos="zz" xml:id="A11155-035-a-2390">〈…〉</w>
+       <w lemma="the" pos="d" xml:id="A11155-035-a-2390">The</w>
+       <w lemma="resst" pos="n1" xml:id="A11155-035-a-2391">rest</w>
+       <w lemma="shall" pos="vmb" xml:id="A11155-035-a-2392">shall</w>
+       <w lemma="noble" pos="j" xml:id="A11155-035-a-2393">noble</w>
+       <w lemma="be" pos="vvi" xml:id="A11155-035-a-2394">be</w>
+       <pc xml:id="A11155-035-a-2395">,</pc>
+       <w lemma="he" pos="pns" xml:id="A11155-035-a-2396">He</w>
+       <w lemma="not" pos="xx" xml:id="A11155-035-a-2397">not</w>
+       <w lemma="confine" pos="vvi" xml:id="A11155-035-a-2398">confine</w>
       </l>
       <l xml:id="A11155-e128420">
        <w lemma="nor" pos="ccx" xml:id="A11155-035-a-2400">Nor</w>
@@ -30089,1669 +30162,6 @@ w      <w lemma="lead" pos="n1-vg" xml:id="A11155-035-a-0050">leading</w>
       <seg type="speech_count">1</seg>
      </item>
     </list>
-   </div>
-   <div type="textual_notes">
-    <head>Textual Notes</head>
-    <p>The textual notes below aim at making textual corrections readable in their immediate context and facilitating access to the source text. A five-digit number preceded by 'A' or 'B' represents an EEBO-TCP filenumber. A notation like "6-b-2890" means "look for EEBO page image 6 of that text, word 289 on the right side of the double-page image." That reference is followed by the corrupt reading. A black dot stands for an unidentified letter, a black square for an unidentified punctuation mark, a diamond for a missing word, and the ellipsis for a short span of undefined length. The corrected reading is displayed as a keyword in context.</p>
-    <note target="A11155-002-b-0610" xml:id="A11155-2-b-0610-n">
-     <label>c3bij-002-b-0610</label>
-     <sic>byforce</sic>
-     <seg>not prevailing , hee resolves to enioy her</seg>
-     <corr>by force</corr>
-     <seg>: whilst hee sailes in these lustfull</seg>
-    </note>
-    <note target="A11155-004-a-0490" xml:id="A11155-4-a-0490-n">
-     <label>c3bij-004-a-0490</label>
-     <sic>cryas</sic>
-     <seg>eyes , Shootes through each Scaene : the one</seg>
-     <corr>cry as</corr>
-     <seg>all things downe , T'other hides strangers</seg>
-    </note>
-    <note target="A11155-004-a-0760" xml:id="A11155-4-a-0760-n">
-     <label>c3bij-004-a-0760</label>
-     <sic>S●ng</sic>
-     <seg>Those who out of custome come to geere , (</seg>
-     <corr>Sang</corr>
-     <seg>the full quire of the nine Muses here )</seg>
-    </note>
-    <note target="A11155-004-a-0980" xml:id="A11155-4-a-0980-n">
-     <label>c3bij-004-a-0980</label>
-     <sic>fetherdignorance</sic>
-     <seg>carping , not from wit , but apish spite , And</seg>
-     <corr>fetherd ignorance</corr>
-     <seg>, thus our Poet does slight .</seg>
-    </note>
-    <note target="A11155-004-b-0340" xml:id="A11155-4-b-0340-n">
-     <label>c3bij-004-b-0340</label>
-     <sic>Afide</sic>
-     <seg/>
-     <corr>Aside</corr>
-     <seg>Lords .</seg>
-    </note>
-    <note target="A11155-005-a-1340" xml:id="A11155-5-a-1340-n">
-     <label>c3bij-005-a-1340</label>
-     <sic>Audalusia</sic>
-     <seg>om our Christian Europe in Granado , And</seg>
-     <corr>Andalusia</corr>
-     <seg>; they spred and flourish Their silver moones</seg>
-    </note>
-    <note target="A11155-005-a-2300" xml:id="A11155-5-a-2300-n">
-     <label>c3bij-005-a-2300</label>
-     <sic>m●re</sic>
-     <seg>sacrifice their blouds to us , If that be red , a</seg>
-     <corr>mere</corr>
-     <seg>rubrum , Wee'le make so high to quench their</seg>
-    </note>
-    <note target="A11155-005-a-2480" xml:id="A11155-5-a-2480-n">
-     <label>c3bij-005-a-2480</label>
-     <sic>Is●mus</sic>
-     <seg>silver moones ; And on their carkasses an</seg>
-     <corr>Istmus</corr>
-     <seg>make To passe their straytes agen , and</seg>
-    </note>
-    <note target="A11155-005-b-0330" xml:id="A11155-5-b-0330-n">
-     <label>c3bij-005-b-0330</label>
-     <sic>opethe</sic>
-     <seg>breake the magicke , If spels there be ,</seg>
-     <corr>ope the</corr>
-     <seg>forbidden dores Which twenty of our</seg>
-    </note>
-    <note target="A11155-005-b-0430" xml:id="A11155-5-b-0430-n">
-     <label>c3bij-005-b-0430</label>
-     <sic>refus●e</sic>
-     <seg>dores Which twenty of our predecessors have</seg>
-     <corr>refusde</corr>
-     <seg>, But added each a locke to guard it more</seg>
-    </note>
-    <note target="A11155-005-b-0940" xml:id="A11155-5-b-0940-n">
-     <label>c3bij-005-b-0940</label>
-     <sic>Fatallevents</sic>
-     <seg>And they with fearefull prophesies predict</seg>
-     <corr>Fatall events</corr>
-     <seg>to Spaine , when that shall be Broke</seg>
-    </note>
-    <note target="A11155-005-b-1720" xml:id="A11155-5-b-1720-n">
-     <label>c3bij-005-b-1720</label>
-     <sic>c●n</sic>
-     <seg>supply through hell And her enchantments . Who</seg>
-     <corr>can</corr>
-     <seg>prefixe us A time to see these incantations</seg>
-    </note>
-    <note target="A11155-005-b-3250" xml:id="A11155-5-b-3250-n">
-     <label>c3bij-005-b-3250</label>
-     <sic>th●se</sic>
-     <seg>souldiers of our kingdome ▪ Scourge backe agen</seg>
-     <corr>these</corr>
-     <seg>halfe-nak'd Infidels Into their sun-burnt</seg>
-    </note>
-    <note target="A11155-005-b-3260" xml:id="A11155-5-b-3260-n">
-     <label>c3bij-005-b-3260</label>
-     <sic>halfe-nak'●</sic>
-     <seg>of our kingdome ▪ Scourge backe agen these</seg>
-     <corr>halfe-nak'd</corr>
-     <seg>Infidels Into their sun-burnt Clymate ;</seg>
-    </note>
-    <note target="A11155-005-b-3270" xml:id="A11155-5-b-3270-n">
-     <label>c3bij-005-b-3270</label>
-     <sic>Infide●s</sic>
-     <seg>kingdome ▪ Scourge backe agen these halfe-nak'd</seg>
-     <corr>Infidels</corr>
-     <seg>Into their sun-burnt Clymate ; in thy heart</seg>
-    </note>
-    <note target="A11155-006-a-0130" xml:id="A11155-6-a-0130-n">
-     <label>c3bij-006-a-0130</label>
-     <sic>vaiour</sic>
-     <seg>, strength in thine arme : With christian</seg>
-     <corr>valour</corr>
-     <seg>strike the heathens dead , And for thy triumph</seg>
-    </note>
-    <note target="A11155-006-a-0520" xml:id="A11155-6-a-0520-n">
-     <label>c3bij-006-a-0520</label>
-     <sic>wheretime</sic>
-     <seg>might fit anothers wearing , Of abler limbs ,</seg>
-     <corr>where time</corr>
-     <seg>has not defac't , Nor halfe so many</seg>
-    </note>
-    <note target="A11155-006-a-0740" xml:id="A11155-6-a-0740-n">
-     <label>c3bij-006-a-0740</label>
-     <sic>ag●●</sic>
-     <seg>his bloud , As a new spring it hath revivde</seg>
-     <corr>agen</corr>
-     <seg>This Autumne of my yeeres ; there's but</seg>
-    </note>
-    <note target="A11155-006-a-1570" xml:id="A11155-6-a-1570-n">
-     <label>c3bij-006-a-1570</label>
-     <sic>I●cinta</sic>
-     <seg>noble Iulianus , to see her safe , We love</seg>
-     <corr>Iacinta</corr>
-     <seg>more then you must know , And for her sake</seg>
-    </note>
-    <note target="A11155-006-b-2420" xml:id="A11155-6-b-2420-n">
-     <label>c3bij-006-b-2420</label>
-     <sic>ch●●ity</sic>
-     <seg>Nunneries , And I thinke it was the greater</seg>
-     <corr>charity</corr>
-     <seg>, because They are the poorer , and more</seg>
-    </note>
-    <note target="A11155-009-b-2530" xml:id="A11155-9-b-2530-n">
-     <label>c3bij-009-b-2530</label>
-     <sic>croffe</sic>
-     <seg>be ore sated In its best desires ; and any</seg>
-     <corr>crosse</corr>
-     <seg>euent Should fall upon this your unequall</seg>
-    </note>
-    <note target="A11155-011-a-0080" xml:id="A11155-11-a-0080-n">
-     <label>c3bij-011-a-0080</label>
-     <sic>Mal●●a</sic>
-     <seg>Enter Lotharie , and</seg>
-     <corr>Malena</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-011-a-1250" xml:id="A11155-11-a-1250-n">
-     <label>c3bij-011-a-1250</label>
-     <sic>●●wd</sic>
-     <seg>Little or nothing , it comes short of the</seg>
-     <corr>bawd</corr>
-     <seg>alwaies .</seg>
-    </note>
-    <note target="A11155-011-a-1360" xml:id="A11155-11-a-1360-n">
-     <label>c3bij-011-a-1360</label>
-     <sic>●awd</sic>
-     <seg>A bawd , why whats a</seg>
-     <corr>bawd</corr>
-     <seg>, pander ?</seg>
-    </note>
-    <note target="A11155-011-a-1510" xml:id="A11155-11-a-1510-n">
-     <label>c3bij-011-a-1510</label>
-     <sic>i●</sic>
-     <seg>Why bawd , Ile tell thee what a bawd</seg>
-     <corr>is</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-011-a-1690" xml:id="A11155-11-a-1690-n">
-     <label>c3bij-011-a-1690</label>
-     <sic>bawd●</sic>
-     <seg>A</seg>
-     <corr>bawd's</corr>
-     <seg>a thing that when the deuil plaies at 〈◊〉</seg>
-    </note>
-    <note target="A11155-011-a-1950" xml:id="A11155-11-a-1950-n">
-     <label>c3bij-011-a-1950</label>
-     <sic>pandet</sic>
-     <seg>But the</seg>
-     <corr>pander</corr>
-     <seg>playing with the deuill robs the To make</seg>
-    </note>
-    <note target="A11155-011-b-1070" xml:id="A11155-11-b-1070-n">
-     <label>c3bij-011-b-1070</label>
-     <sic>T were</sic>
-     <seg/>
-     <corr>Twere</corr>
-     <seg>pity Indeed you should be a virgin to my</seg>
-    </note>
-    <note target="A11155-012-b-0100" xml:id="A11155-12-b-0100-n">
-     <label>c3bij-012-b-0100</label>
-     <sic>●●ke</sic>
-     <seg>soone As I , you shoud not be troubled to</seg>
-     <corr>aske</corr>
-     <seg>a duty From me , I woud fall at your feet</seg>
-    </note>
-    <note target="A11155-012-b-0680" xml:id="A11155-12-b-0680-n">
-     <label>c3bij-012-b-0680</label>
-     <sic>thought●</sic>
-     <seg>Your</seg>
-     <corr>thoughts</corr>
-     <seg>instruct you ill , I do not frowne , 〈◊〉</seg>
-    </note>
-    <note target="A11155-012-b-0920" xml:id="A11155-12-b-0920-n">
-     <label>c3bij-012-b-0920</label>
-     <sic>bebd</sic>
-     <seg>I craue your pardon , and</seg>
-     <corr>bend</corr>
-     <seg>My knee , your true obedient servent , my</seg>
-    </note>
-    <note target="A11155-012-b-0940" xml:id="A11155-12-b-0940-n">
-     <label>c3bij-012-b-0940</label>
-     <sic>kbee</sic>
-     <seg>I craue your pardon , and bend My</seg>
-     <corr>knee</corr>
-     <seg>, your true obedient servent , my life I'le</seg>
-    </note>
-    <note target="A11155-012-b-1340" xml:id="A11155-12-b-1340-n">
-     <label>c3bij-012-b-1340</label>
-     <sic>●●ire</sic>
-     <seg>much , But for lesse them eyther , thy love</seg>
-     <corr>faire</corr>
-     <seg>virgin .</seg>
-    </note>
-    <note target="A11155-012-b-1620" xml:id="A11155-12-b-1620-n">
-     <label>c3bij-012-b-1620</label>
-     <sic>d●yly</sic>
-     <seg>A virgin , you have my prayers</seg>
-     <corr>dayly</corr>
-     <seg>to heaven For your long soveraignties ,</seg>
-    </note>
-    <note target="A11155-012-b-2790" xml:id="A11155-12-b-2790-n">
-     <label>c3bij-012-b-2790</label>
-     <sic>●●ve</sic>
-     <seg>〈◊〉 , and the 〈◊〉 below . Can lust be cal'd</seg>
-     <corr>love</corr>
-     <seg>, then let men seeke hell , For there that</seg>
-    </note>
-    <note target="A11155-012-b-2850" xml:id="A11155-12-b-2850-n">
-     <label>c3bij-012-b-2850</label>
-     <sic>h●●●</sic>
-     <seg>Can lust be cal'd love , then let men seeke</seg>
-     <corr>hell</corr>
-     <seg>, For there that 〈◊〉 diety doth dwell .</seg>
-    </note>
-    <note target="A11155-013-a-1090" xml:id="A11155-13-a-1090-n">
-     <label>c3bij-013-a-1090</label>
-     <sic>s●●●ne</sic>
-     <seg>The sacrifice of fooles , the proverbs</seg>
-     <corr>scorne</corr>
-     <seg>, None pitties womens ●●●res , but Ideots</seg>
-    </note>
-    <note target="A11155-013-b-0050" xml:id="A11155-13-b-0050-n">
-     <label>c3bij-013-b-0050</label>
-     <sic>Medi●●</sic>
-     <seg>Enter Iuli 〈…〉 ,</seg>
-     <corr>Medina</corr>
-     <seg>, Antonio , Lezarello .</seg>
-    </note>
-    <note target="A11155-013-b-0070" xml:id="A11155-13-b-0070-n">
-     <label>c3bij-013-b-0070</label>
-     <sic>Anto●i●</sic>
-     <seg>Enter Iuli 〈…〉 , Medina ,</seg>
-     <corr>Antonio</corr>
-     <seg>, Lezarello .</seg>
-    </note>
-    <note target="A11155-013-b-0230" xml:id="A11155-13-b-0230-n">
-     <label>c3bij-013-b-0230</label>
-     <sic>Al●●z●</sic>
-     <seg>returned from the Castle With answer from</seg>
-     <corr>Alonzo</corr>
-     <seg>?</seg>
-    </note>
-    <note target="A11155-013-b-0260" xml:id="A11155-13-b-0260-n">
-     <label>c3bij-013-b-0260</label>
-     <sic>Alons●</sic>
-     <seg>Enter</seg>
-     <corr>Alonso</corr>
-     <seg>and Dionisia .</seg>
-    </note>
-    <note target="A11155-013-b-0280" xml:id="A11155-13-b-0280-n">
-     <label>c3bij-013-b-0280</label>
-     <sic>Di●nisia</sic>
-     <seg>Enter Alonso and</seg>
-     <corr>Dionisia</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-013-b-0430" xml:id="A11155-13-b-0430-n">
-     <label>c3bij-013-b-0430</label>
-     <sic>Iuli●●us</sic>
-     <seg>Noble</seg>
-     <corr>Iulianus</corr>
-     <seg>, the dignity of generall You weare , be</seg>
-    </note>
-    <note target="A11155-013-b-0740" xml:id="A11155-13-b-0740-n">
-     <label>c3bij-013-b-0740</label>
-     <sic>imp●le</sic>
-     <seg>conquests , Then let that threefold one ,</seg>
-     <corr>impale</corr>
-     <seg>your browes , And beare it to king Rod 〈…〉</seg>
-    </note>
-    <note target="A11155-013-b-0910" xml:id="A11155-13-b-0910-n">
-     <label>c3bij-013-b-0910</label>
-     <sic>Al●●za</sic>
-     <seg>Worthy</seg>
-     <corr>Alonzo</corr>
-     <seg>you must helpe your wishes Ere they can</seg>
-    </note>
-    <note target="A11155-013-b-1260" xml:id="A11155-13-b-1260-n">
-     <label>c3bij-013-b-1260</label>
-     <sic>Th●</sic>
-     <seg>have you kept your Castle so unbruis'd ?</seg>
-     <corr>The</corr>
-     <seg>foe not far distant , have you not tane</seg>
-    </note>
-    <note target="A11155-013-b-2240" xml:id="A11155-13-b-2240-n">
-     <label>c3bij-013-b-2240</label>
-     <sic>Sarazi●s</sic>
-     <seg>time , And never squeakt ; Do you thinke a</seg>
-     <corr>Sarazins</corr>
-     <seg>head , Or a Blackamoores face can affright</seg>
-    </note>
-    <note target="A11155-013-b-2720" xml:id="A11155-13-b-2720-n">
-     <label>c3bij-013-b-2720</label>
-     <sic>Iaci●●a</sic>
-     <seg>adoe to keepe her from the field , Poore</seg>
-     <corr>Iacinta</corr>
-     <seg>, had I knowne such a sworne sister for</seg>
-    </note>
-    <note target="A11155-013-b-3200" xml:id="A11155-13-b-3200-n">
-     <label>c3bij-013-b-3200</label>
-     <sic>Menalipp●●s</sic>
-     <seg>strike indeed My girle shoud weare bright</seg>
-     <corr>Menalippaes</corr>
-     <seg>belt She shoud be formost ; and I'le venture</seg>
-    </note>
-    <note target="A11155-014-a-0750" xml:id="A11155-14-a-0750-n">
-     <label>c3bij-014-a-0750</label>
-     <sic>L●zarelle</sic>
-     <seg>So , so , to her batchelloure , Antonio ,</seg>
-     <corr>Lazarelle</corr>
-     <seg>, Medina , Come Alonzo , You and I must</seg>
-    </note>
-    <note target="A11155-014-a-0770" xml:id="A11155-14-a-0770-n">
-     <label>c3bij-014-a-0770</label>
-     <sic>M●di●●</sic>
-     <seg>her batchelloure , Antonio , Lazarelle ,</seg>
-     <corr>Medina</corr>
-     <seg>, Come Alonzo , You and I must 〈◊〉 more</seg>
-    </note>
-    <note target="A11155-014-a-0800" xml:id="A11155-14-a-0800-n">
-     <label>c3bij-014-a-0800</label>
-     <sic>Al●●z●</sic>
-     <seg>batchelloure , Antonio , Lazarelle , Medina , Come</seg>
-     <corr>Alonzo</corr>
-     <seg>, You and I must 〈◊〉 more seriously upon</seg>
-    </note>
-    <note target="A11155-014-a-1870" xml:id="A11155-14-a-1870-n">
-     <label>c3bij-014-a-1870</label>
-     <sic>utter●</sic>
-     <seg>you must needs Like her tayle , for the one</seg>
-     <corr>utters</corr>
-     <seg>the other● Lady What would you give now</seg>
-    </note>
-    <note target="A11155-014-a-2430" xml:id="A11155-14-a-2430-n">
-     <label>c3bij-014-a-2430</label>
-     <sic>o●cheefe</sic>
-     <seg>You talke of chalke , and I</seg>
-     <corr>of cheese</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-014-b-0610" xml:id="A11155-14-b-0610-n">
-     <label>c3bij-014-b-0610</label>
-     <sic>dru●</sic>
-     <seg>gaine your love , nobly for Spaine speake</seg>
-     <corr>drum,</corr>
-     <seg>, , And if they call , answer for us , they</seg>
-    </note>
-    <note target="A11155-014-b-1440" xml:id="A11155-14-b-1440-n">
-     <label>c3bij-014-b-1440</label>
-     <sic>away●</sic>
-     <seg>seale , Which the whole ocean cannot wash</seg>
-     <corr>away:</corr>
-     <seg>: Shall those cold ague cheeks that nature</seg>
-    </note>
-    <note target="A11155-014-b-1490" xml:id="A11155-14-b-1490-n">
-     <label>c3bij-014-b-1490</label>
-     <sic>●gue</sic>
-     <seg>ocean cannot wash away : Shall those cold</seg>
-     <corr>ague</corr>
-     <seg>cheeks that nature moulds Within her winter</seg>
-    </note>
-    <note target="A11155-014-b-1620" xml:id="A11155-14-b-1620-n">
-     <label>c3bij-014-b-1620</label>
-     <sic>●kins</sic>
-     <seg>Within her winter shop , those smoothe white</seg>
-     <corr>skins</corr>
-     <seg>, That with a palsey hand she paints the</seg>
-    </note>
-    <note target="A11155-014-b-1670" xml:id="A11155-14-b-1670-n">
-     <label>c3bij-014-b-1670</label>
-     <sic>p●lsey</sic>
-     <seg>, those smoothe white skins , That with a</seg>
-     <corr>palsey</corr>
-     <seg>hand she paints the limbes , Make us recoyle</seg>
-    </note>
-    <note target="A11155-014-b-1700" xml:id="A11155-14-b-1700-n">
-     <label>c3bij-014-b-1700</label>
-     <sic>paint●</sic>
-     <seg>white skins , That with a palsey hand she</seg>
-     <corr>paints</corr>
-     <seg>the limbes , Make us recoyle .</seg>
-    </note>
-    <note target="A11155-014-b-1720" xml:id="A11155-14-b-1720-n">
-     <label>c3bij-014-b-1720</label>
-     <sic>li●●bes</sic>
-     <seg>, That with a palsey hand she paints the</seg>
-     <corr>limbes</corr>
-     <seg>, Make us recoyle .</seg>
-    </note>
-    <note target="A11155-014-b-2770" xml:id="A11155-14-b-2770-n">
-     <label>c3bij-014-b-2770</label>
-     <sic>●●sely</sic>
-     <seg>with him , They are both noble , but too</seg>
-     <corr>basely</corr>
-     <seg>fli● Is to preserve life , and let honour</seg>
-    </note>
-    <note target="A11155-015-a-0410" xml:id="A11155-15-a-0410-n">
-     <label>c3bij-015-a-0410</label>
-     <sic>Al●●z●</sic>
-     <seg>Alarum . Enter Iulianus , Antonio , and</seg>
-     <corr>Alonzo</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-015-a-1950" xml:id="A11155-15-a-1950-n">
-     <label>c3bij-015-a-1950</label>
-     <sic>Ex●●rsions</sic>
-     <seg>Alarum ,</seg>
-     <corr>Excursions</corr>
-     <seg>. Enter Iuli 〈…〉 and Medina , with two prisoners</seg>
-    </note>
-    <note target="A11155-015-a-3020" xml:id="A11155-15-a-3020-n">
-     <label>c3bij-015-a-3020</label>
-     <sic>conq 〈…〉 ours</sic>
-     <seg>have cause to blame Your fortunes , not your</seg>
-     <corr>conquerours</corr>
-     <seg>, where's 〈◊〉 The best deserver of this</seg>
-    </note>
-    <note target="A11155-015-b-1200" xml:id="A11155-15-b-1200-n">
-     <label>c3bij-015-b-1200</label>
-     <sic>sl●ope</sic>
-     <seg>, youle take it up againe , come , come ,</seg>
-     <corr>sloope</corr>
-     <seg>, This is Dio 〈…〉 character : a hand worth</seg>
-    </note>
-    <note target="A11155-015-b-1260" xml:id="A11155-15-b-1260-n">
-     <label>c3bij-015-b-1260</label>
-     <sic>characte●</sic>
-     <seg>, come , come , sloope , This is Dio 〈…〉</seg>
-     <corr>character</corr>
-     <seg>: a hand worth your heart , Peruse it better</seg>
-    </note>
-    <note target="A11155-016-a-1210" xml:id="A11155-16-a-1210-n">
-     <label>c3bij-016-a-1210</label>
-     <sic>ch●●ke</sic>
-     <seg>I'le</seg>
-     <corr>choake</corr>
-     <seg>freedome ; Oh what a bed of 〈◊〉 struggle</seg>
-    </note>
-    <note target="A11155-016-a-2020" xml:id="A11155-16-a-2020-n">
-     <label>c3bij-016-a-2020</label>
-     <sic>Mo●●●</sic>
-     <seg>Perswade me to turne Turk , or</seg>
-     <corr>Moore</corr>
-     <seg>Mahometan , For by the lustfull lawes of</seg>
-    </note>
-    <note target="A11155-016-b-0330" xml:id="A11155-16-b-0330-n">
-     <label>c3bij-016-b-0330</label>
-     <sic>beauti●●</sic>
-     <seg>shame then yours ; a common thing : Poore</seg>
-     <corr>beauties</corr>
-     <seg>are proud of noble bastardie .</seg>
-    </note>
-    <note target="A11155-016-b-0380" xml:id="A11155-16-b-0380-n">
-     <label>c3bij-016-b-0380</label>
-     <sic>bas●ardie</sic>
-     <seg>thing : Poore beauties are proud of noble</seg>
-     <corr>bastardie</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-016-b-0930" xml:id="A11155-16-b-0930-n">
-     <label>c3bij-016-b-0930</label>
-     <sic>ling●ing</sic>
-     <seg>twere lesse 〈◊〉 To kill at once , then by a</seg>
-     <corr>lingring</corr>
-     <seg>poyson .</seg>
-    </note>
-    <note target="A11155-016-b-0940" xml:id="A11155-16-b-0940-n">
-     <label>c3bij-016-b-0940</label>
-     <sic>po●son</sic>
-     <seg>〈◊〉 To kill at once , then by a lingring</seg>
-     <corr>poyson</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-016-b-1050" xml:id="A11155-16-b-1050-n">
-     <label>c3bij-016-b-1050</label>
-     <sic>pr●●pted</sic>
-     <seg>Ha ? poyson ? what white devill</seg>
-     <corr>prompted</corr>
-     <seg>that ? Poyson , brave , the very change</seg>
-    </note>
-    <note target="A11155-016-b-1220" xml:id="A11155-16-b-1220-n">
-     <label>c3bij-016-b-1220</label>
-     <sic>friend●</sic>
-     <seg>very change of friendship , the triall Of a</seg>
-     <corr>friends</corr>
-     <seg>love to death , would you 〈◊〉 sure Of a</seg>
-    </note>
-    <note target="A11155-016-b-2110" xml:id="A11155-16-b-2110-n">
-     <label>c3bij-016-b-2110</label>
-     <sic>perfor 〈…〉</sic>
-     <seg>to make worse A positive bad , by a vilde</seg>
-     <corr>performance</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-017-a-1340" xml:id="A11155-17-a-1340-n">
-     <label>c3bij-017-a-1340</label>
-     <sic>w●x</sic>
-     <seg>You may , no doubt they have</seg>
-     <corr>wax</corr>
-     <seg>o'their owne .</seg>
-    </note>
-    <note target="A11155-017-a-1350" xml:id="A11155-17-a-1350-n">
-     <label>c3bij-017-a-1350</label>
-     <sic>●'their</sic>
-     <seg>You may , no doubt they have wax</seg>
-     <corr>o'their</corr>
-     <seg>owne .</seg>
-    </note>
-    <note target="A11155-017-a-1440" xml:id="A11155-17-a-1440-n">
-     <label>c3bij-017-a-1440</label>
-     <sic>f●●ther</sic>
-     <seg>Venture thy 〈◊〉 no</seg>
-     <corr>farther</corr>
-     <seg>good 〈◊〉 , She will endanger 'em , but Lady</seg>
-    </note>
-    <note target="A11155-017-a-2670" xml:id="A11155-17-a-2670-n">
-     <label>c3bij-017-a-2670</label>
-     <sic>●●●her</sic>
-     <seg>the reason why I enquirde your age of your</seg>
-     <corr>father</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-017-a-2810" xml:id="A11155-17-a-2810-n">
-     <label>c3bij-017-a-2810</label>
-     <sic>●ith</sic>
-     <seg>Tis true Sir , for what have you to do</seg>
-     <corr>with</corr>
-     <seg>my age ?</seg>
-    </note>
-    <note target="A11155-017-b-0240" xml:id="A11155-17-b-0240-n">
-     <label>c3bij-017-b-0240</label>
-     <sic>opinion●</sic>
-     <seg>You and I may be of two</seg>
-     <corr>opinions</corr>
-     <seg>, I thinke not so now .</seg>
-    </note>
-    <note target="A11155-017-b-0880" xml:id="A11155-17-b-0880-n">
-     <label>c3bij-017-b-0880</label>
-     <sic>i●</sic>
-     <seg>matcht At a game of shittlecocke , the meaning</seg>
-     <corr>is</corr>
-     <seg>, For a couple of light headed things we</seg>
-    </note>
-    <note target="A11155-017-b-3700" xml:id="A11155-17-b-3700-n">
-     <label>c3bij-017-b-3700</label>
-     <sic>diver●</sic>
-     <seg>report it to you , tis a thing framde With</seg>
-     <corr>divers</corr>
-     <seg>corners , and into every corner A man may</seg>
-    </note>
-    <note target="A11155-018-a-1360" xml:id="A11155-18-a-1360-n">
-     <label>c3bij-018-a-1360</label>
-     <sic>s●oot</sic>
-     <seg>lopt off , or of themselves wither , And new</seg>
-     <corr>shoot</corr>
-     <seg>in their roomes . As for example ; Your</seg>
-    </note>
-    <note target="A11155-018-a-1880" xml:id="A11155-18-a-1880-n">
-     <label>c3bij-018-a-1880</label>
-     <sic>bud●</sic>
-     <seg>that branch withers againe , and another</seg>
-     <corr>buds</corr>
-     <seg>In his roome , shall I give you history</seg>
-    </note>
-    <note target="A11155-018-a-2120" xml:id="A11155-18-a-2120-n">
-     <label>c3bij-018-a-2120</label>
-     <sic>M●rg●●att●</sic>
-     <seg>No , I can doot my selfe , oh</seg>
-     <corr>Margaretta</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-018-a-2450" xml:id="A11155-18-a-2450-n">
-     <label>c3bij-018-a-2450</label>
-     <sic>Lazarell●</sic>
-     <seg>I am lost</seg>
-     <corr>Lazarella</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-018-a-2550" xml:id="A11155-18-a-2550-n">
-     <label>c3bij-018-a-2550</label>
-     <sic>D●●is●es</sic>
-     <seg>I shall finde you againe In</seg>
-     <corr>Dionisiaes</corr>
-     <seg>armes .</seg>
-    </note>
-    <note target="A11155-018-a-3560" xml:id="A11155-18-a-3560-n">
-     <label>c3bij-018-a-3560</label>
-     <sic>●low</sic>
-     <seg>destruction . Downe hill we run , 〈◊〉 〈◊〉 a</seg>
-     <corr>slow</corr>
-     <seg>〈◊〉 Easie discents to hell , 〈…〉 .</seg>
-    </note>
-    <note target="A11155-018-b-0050" xml:id="A11155-18-b-0050-n">
-     <label>c3bij-018-b-0050</label>
-     <sic>L●th●●i●</sic>
-     <seg>Enter</seg>
-     <corr>Lothario</corr>
-     <seg>, and Iacenta .</seg>
-    </note>
-    <note target="A11155-018-b-0080" xml:id="A11155-18-b-0080-n">
-     <label>c3bij-018-b-0080</label>
-     <sic>I●centa</sic>
-     <seg>Enter Lothario , and</seg>
-     <corr>Iacenta</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-018-b-0380" xml:id="A11155-18-b-0380-n">
-     <label>c3bij-018-b-0380</label>
-     <sic>●rt</sic>
-     <seg>Quiet my tongue ?</seg>
-     <corr>art</corr>
-     <seg>officer of hell ! Thou Iaylor to the devill</seg>
-    </note>
-    <note target="A11155-018-b-1880" xml:id="A11155-18-b-1880-n">
-     <label>c3bij-018-b-1880</label>
-     <sic>Spi●●</sic>
-     <seg/>
-     <corr>Spits</corr>
-     <seg>at him .</seg>
-    </note>
-    <note target="A11155-018-b-2730" xml:id="A11155-18-b-2730-n">
-     <label>c3bij-018-b-2730</label>
-     <sic>bl●●ing</sic>
-     <seg>store-house of some shaggy meteor , Some</seg>
-     <corr>blazing</corr>
-     <seg>fire shon o're thy 〈◊〉 birth , And laid</seg>
-    </note>
-    <note target="A11155-018-b-2910" xml:id="A11155-18-b-2910-n">
-     <label>c3bij-018-b-2910</label>
-     <sic>Gout●</sic>
-     <seg>And laid up all her sad effects in that ,</seg>
-     <corr>Gouts</corr>
-     <seg>, aches , dropsies , and a hundred more</seg>
-    </note>
-    <note target="A11155-019-a-0410" xml:id="A11155-19-a-0410-n">
-     <label>c3bij-019-a-0410</label>
-     <sic>counterseits</sic>
-     <seg>; Some there be that can passe away these</seg>
-     <corr>counterfeits</corr>
-     <seg>. For currant , as brasse money may be taken</seg>
-    </note>
-    <note target="A11155-019-a-1320" xml:id="A11155-19-a-1320-n">
-     <label>c3bij-019-a-1320</label>
-     <sic>vaule</sic>
-     <seg>rending up thy bosome , I should but ope A</seg>
-     <corr>vault</corr>
-     <seg>to poyson me ( detested wretch ) The hangmans</seg>
-    </note>
-    <note target="A11155-019-a-3590" xml:id="A11155-19-a-3590-n">
-     <label>c3bij-019-a-3590</label>
-     <sic>●●fte</sic>
-     <seg>the king my Master , I have some hope to</seg>
-     <corr>taste</corr>
-     <seg>This dish after him ; but tis yet too hot</seg>
-    </note>
-    <note target="A11155-019-b-1300" xml:id="A11155-19-b-1300-n">
-     <label>c3bij-019-b-1300</label>
-     <sic>rning</sic>
-     <seg>recreation , if you do , descend , And give me 〈…〉</seg>
-     <corr>warning</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-019-b-1430" xml:id="A11155-19-b-1430-n">
-     <label>c3bij-019-b-1430</label>
-     <sic>fslls</sic>
-     <seg>A song wit him . 〈◊〉</seg>
-     <corr>falls</corr>
-     <seg>asleepe .</seg>
-    </note>
-    <note target="A11155-019-b-1620" xml:id="A11155-19-b-1620-n">
-     <label>c3bij-019-b-1620</label>
-     <sic>hearily</sic>
-     <seg>Lord asleepe , I see he takes my musique</seg>
-     <corr>heavily</corr>
-     <seg>, Therefore I'le sing no more : now to my</seg>
-    </note>
-    <note target="A11155-020-a-2490" xml:id="A11155-20-a-2490-n">
-     <label>c3bij-020-a-2490</label>
-     <sic>meditation●</sic>
-     <seg>H●●s h 〈…〉 In his private</seg>
-     <corr>meditations</corr>
-     <seg>, my Leige .</seg>
-    </note>
-    <note target="A11155-020-a-2520" xml:id="A11155-20-a-2520-n">
-     <label>c3bij-020-a-2520</label>
-     <sic>L●i●●</sic>
-     <seg>H●●s h 〈…〉 In his private meditations , my</seg>
-     <corr>Leige</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-020-a-2910" xml:id="A11155-20-a-2910-n">
-     <label>c3bij-020-a-2910</label>
-     <sic>disco●d●</sic>
-     <seg>musique of her tongue , but they 〈◊〉 all</seg>
-     <corr>discord</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-020-a-2960" xml:id="A11155-20-a-2960-n">
-     <label>c3bij-020-a-2960</label>
-     <sic>h●●</sic>
-     <seg>Command</seg>
-     <corr>here</corr>
-     <seg>〈◊〉 , her father 〈…〉 , He has a noble fortune</seg>
-    </note>
-    <note target="A11155-020-b-0240" xml:id="A11155-20-b-0240-n">
-     <label>c3bij-020-b-0240</label>
-     <sic>b●wd</sic>
-     <seg>your sinne will be the lesse , in being My</seg>
-     <corr>bawd</corr>
-     <seg>. Now where is she ?</seg>
-    </note>
-    <note target="A11155-020-b-0970" xml:id="A11155-20-b-0970-n">
-     <label>c3bij-020-b-0970</label>
-     <sic>he●r'st</sic>
-     <seg>Rogue , thou neither feest , nor</seg>
-     <corr>hear'st</corr>
-     <seg>more if I see not her :</seg>
-    </note>
-    <note target="A11155-020-b-1130" xml:id="A11155-20-b-1130-n">
-     <label>c3bij-020-b-1130</label>
-     <sic>L●ige</sic>
-     <seg>I'le go seeke better , my</seg>
-     <corr>Leige</corr>
-     <seg>, I doubt some legerdemaine , But if I finde</seg>
-    </note>
-    <note target="A11155-020-b-2230" xml:id="A11155-20-b-2230-n">
-     <label>c3bij-020-b-2230</label>
-     <sic>●oggerhead</sic>
-     <seg>Sir death , I'le tickle you for this ,</seg>
-     <corr>loggerhead</corr>
-     <seg>, where's 〈…〉 ?</seg>
-    </note>
-    <note target="A11155-020-b-2370" xml:id="A11155-20-b-2370-n">
-     <label>c3bij-020-b-2370</label>
-     <sic>Mai●sty</sic>
-     <seg>O my Leige , is it your</seg>
-     <corr>Maiesty</corr>
-     <seg>, I beseech you pardon me : These after</seg>
-    </note>
-    <note target="A11155-020-b-2470" xml:id="A11155-20-b-2470-n">
-     <label>c3bij-020-b-2470</label>
-     <sic>dinner-n●●●</sic>
-     <seg>Maiesty , I beseech you pardon me : These after</seg>
-     <corr>dinner-naps</corr>
-     <seg>are the repasts to my body .</seg>
-    </note>
-    <note target="A11155-020-b-2500" xml:id="A11155-20-b-2500-n">
-     <label>c3bij-020-b-2500</label>
-     <sic>rep●sts</sic>
-     <seg>pardon me : These after dinner-naps are the</seg>
-     <corr>repasts</corr>
-     <seg>to my body .</seg>
-    </note>
-    <note target="A11155-020-b-2750" xml:id="A11155-20-b-2750-n">
-     <label>c3bij-020-b-2750</label>
-     <sic>k●y●s</sic>
-     <seg>Safe , safe , my Leige , my</seg>
-     <corr>keyes</corr>
-     <seg>, where he my keyes , Saw you my keyes ,</seg>
-    </note>
-    <note target="A11155-020-b-2770" xml:id="A11155-20-b-2770-n">
-     <label>c3bij-020-b-2770</label>
-     <sic>wh●r●</sic>
-     <seg>Safe , safe , my Leige , my keyes ,</seg>
-     <corr>where</corr>
-     <seg>he my keyes , Saw you my keyes , my 〈◊〉</seg>
-    </note>
-    <note target="A11155-020-b-2940" xml:id="A11155-20-b-2940-n">
-     <label>c3bij-020-b-2940</label>
-     <sic>●he</sic>
-     <seg>Confirmde ,</seg>
-     <corr>she</corr>
-     <seg>has the keyes , and is fled the castle ,</seg>
-    </note>
-    <note target="A11155-021-a-2900" xml:id="A11155-21-a-2900-n">
-     <label>c3bij-021-a-2900</label>
-     <sic>t●me</sic>
-     <seg>fooles coat . Such are my trappings ; oh for</seg>
-     <corr>time</corr>
-     <seg>thats gone , Equality , oh sweet equality</seg>
-    </note>
-    <note target="A11155-021-a-3450" xml:id="A11155-21-a-3450-n">
-     <label>c3bij-021-a-3450</label>
-     <sic>Fid●lla</sic>
-     <seg>Hai a dangerous conceit , call my brother ,</seg>
-     <corr>Fidella</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-021-b-1690" xml:id="A11155-21-b-1690-n">
-     <label>c3bij-021-b-1690</label>
-     <sic>f●r</sic>
-     <seg>would trust none willingly But your selfe</seg>
-     <corr>for</corr>
-     <seg>the delivery .</seg>
-    </note>
-    <note target="A11155-022-a-0920" xml:id="A11155-22-a-0920-n">
-     <label>c3bij-022-a-0920</label>
-     <sic>di●●●ste</sic>
-     <seg>your rude approach does not move him to any</seg>
-     <corr>distaste</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-022-a-3910" xml:id="A11155-22-a-3910-n">
-     <label>c3bij-022-a-3910</label>
-     <sic>look●</sic>
-     <seg>I cannot chuse but see thee as long as I</seg>
-     <corr>looke</corr>
-     <seg>upon thee .</seg>
-    </note>
-    <note target="A11155-022-b-0900" xml:id="A11155-22-b-0900-n">
-     <label>c3bij-022-b-0900</label>
-     <sic>●ntend</sic>
-     <seg>I do</seg>
-     <corr>intend</corr>
-     <seg>no such viragoes part , But in shape , a</seg>
-    </note>
-    <note target="A11155-023-a-2610" xml:id="A11155-23-a-2610-n">
-     <label>c3bij-023-a-2610</label>
-     <sic>Lazarell●</sic>
-     <seg>Waft him hence good</seg>
-     <corr>Lazarello</corr>
-     <seg>, I am undone else , Looke here Dionisia</seg>
-    </note>
-    <note target="A11155-023-a-3130" xml:id="A11155-23-a-3130-n">
-     <label>c3bij-023-a-3130</label>
-     <sic>bow●</sic>
-     <seg>He gives me ayme , I am three</seg>
-     <corr>bows</corr>
-     <seg>too short , I'le come up nearer next time</seg>
-    </note>
-    <note target="A11155-023-b-3290" xml:id="A11155-23-b-3290-n">
-     <label>c3bij-023-b-3290</label>
-     <sic>●oole</sic>
-     <seg>Taylor : So your Lords foole , and your Ladies</seg>
-     <corr>foole</corr>
-     <seg>, I am for the tongue , not for the bauble</seg>
-    </note>
-    <note target="A11155-024-a-0090" xml:id="A11155-24-a-0090-n">
-     <label>c3bij-024-a-0090</label>
-     <sic>T will</sic>
-     <seg/>
-     <corr>Twill</corr>
-     <seg>out .</seg>
-    </note>
-    <note target="A11155-024-a-0870" xml:id="A11155-24-a-0870-n">
-     <label>c3bij-024-a-0870</label>
-     <sic>ra●●all</sic>
-     <seg>white for thee from the little honourable</seg>
-     <corr>rascall</corr>
-     <seg>my sister , and a thousand commendations</seg>
-    </note>
-    <note target="A11155-024-b-3490" xml:id="A11155-24-b-3490-n">
-     <label>c3bij-024-b-3490</label>
-     <sic>speak●</sic>
-     <seg>laundies ? no , thought is free , whatsoever I</seg>
-     <corr>speake</corr>
-     <seg>, I'le say nothing ; Vale , valete , valete</seg>
-    </note>
-    <note target="A11155-025-a-2930" xml:id="A11155-25-a-2930-n">
-     <label>c3bij-025-a-2930</label>
-     <sic>Dionisia●s</sic>
-     <seg>My heart's triangled , two points</seg>
-     <corr>Dionisiaes</corr>
-     <seg>, And that downwards Margarets , and that's</seg>
-    </note>
-    <note target="A11155-025-b-2130" xml:id="A11155-25-b-2130-n">
-     <label>c3bij-025-b-2130</label>
-     <sic>●kinde</sic>
-     <seg>Vlcers must have co 〈…〉 sives to eate , not</seg>
-     <corr>skinde</corr>
-     <seg>, Extreames must have extreames to coape</seg>
-    </note>
-    <note target="A11155-025-b-2200" xml:id="A11155-25-b-2200-n">
-     <label>c3bij-025-b-2200</label>
-     <sic>co●pe</sic>
-     <seg>skinde , Extreames must have extreames to</seg>
-     <corr>coape</corr>
-     <seg>withall . It will not yeeld else .</seg>
-    </note>
-    <note target="A11155-025-b-2620" xml:id="A11155-25-b-2620-n">
-     <label>c3bij-025-b-2620</label>
-     <sic>wearin●●</sic>
-     <seg>shall be inst 〈…〉 ly preparde With some of my</seg>
-     <corr>wearings</corr>
-     <seg>, brought as neare my selfe As art can make</seg>
-    </note>
-    <note target="A11155-025-b-2970" xml:id="A11155-25-b-2970-n">
-     <label>c3bij-025-b-2970</label>
-     <sic>●ain●s</sic>
-     <seg>heale her iniury , and quite blot out That</seg>
-     <corr>taints</corr>
-     <seg>mine honour , being voyc't , It must be</seg>
-    </note>
-    <note target="A11155-025-b-3260" xml:id="A11155-25-b-3260-n">
-     <label>c3bij-025-b-3260</label>
-     <sic>r●p●ire</sic>
-     <seg>falling from what's good , Which nothing can</seg>
-     <corr>repaire</corr>
-     <seg>in's but our bloud .</seg>
-    </note>
-    <note target="A11155-026-a-0280" xml:id="A11155-26-a-0280-n">
-     <label>c3bij-026-a-0280</label>
-     <sic>co●ntrey</sic>
-     <seg>be in scorne remov'de From Court unto my</seg>
-     <corr>countrey</corr>
-     <seg>house ! for what ? Tis very strange ; know</seg>
-    </note>
-    <note target="A11155-026-a-0680" xml:id="A11155-26-a-0680-n">
-     <label>c3bij-026-a-0680</label>
-     <sic>●ho●ghts</sic>
-     <seg>Sir , and my king mercy , And I beshrew my</seg>
-     <corr>thoughts</corr>
-     <seg>for be 〈…〉 g troubled . I know the canst</seg>
-    </note>
-    <note target="A11155-026-a-1130" xml:id="A11155-26-a-1130-n">
-     <label>c3bij-026-a-1130</label>
-     <sic>voyce●</sic>
-     <seg>slaves , The multitude in their loud be 〈…〉 g</seg>
-     <corr>voyces</corr>
-     <seg>, Might adde so much to me Sir , as might</seg>
-    </note>
-    <note target="A11155-026-a-1480" xml:id="A11155-26-a-1480-n">
-     <label>c3bij-026-a-1480</label>
-     <sic>saf●ty</sic>
-     <seg>present 〈◊〉 , 〈…〉 , or 〈◊〉 , He gives me</seg>
-     <corr>safety</corr>
-     <seg>〈◊〉 〈◊〉 , 〈◊〉 〈◊〉 Himselfe much worth and</seg>
-    </note>
-    <note target="A11155-026-a-1740" xml:id="A11155-26-a-1740-n">
-     <label>c3bij-026-a-1740</label>
-     <sic>●heir</sic>
-     <seg>honour Can subiects have , but is 〈…〉 Due 〈◊〉</seg>
-     <corr>their</corr>
-     <seg>Crowne● , 〈…〉 , I do app 〈…〉 〈◊〉 , 〈…〉</seg>
-    </note>
-    <note target="A11155-026-a-2390" xml:id="A11155-26-a-2390-n">
-     <label>c3bij-026-a-2390</label>
-     <sic>●●swer</sic>
-     <seg>〈…〉 go 〈◊〉 the 〈◊〉 ●oo This very night 〈◊〉</seg>
-     <corr>answer</corr>
-     <seg>and confirme What he command● .</seg>
-    </note>
-    <note target="A11155-026-a-2410" xml:id="A11155-26-a-2410-n">
-     <label>c3bij-026-a-2410</label>
-     <sic>conf●r●e</sic>
-     <seg>the 〈◊〉 ●oo This very night 〈◊〉 answer and</seg>
-     <corr>confirme</corr>
-     <seg>What he command● .</seg>
-    </note>
-    <note target="A11155-026-a-2770" xml:id="A11155-26-a-2770-n">
-     <label>c3bij-026-a-2770</label>
-     <sic>●●nt</sic>
-     <seg>us : Command●d 〈◊〉 ●he Co 〈…〉 my prisoners</seg>
-     <corr>sent</corr>
-     <seg>for ! Tis strange ; oh my forgetfull m 〈…〉</seg>
-    </note>
-    <note target="A11155-026-b-0130" xml:id="A11155-26-b-0130-n">
-     <label>c3bij-026-b-0130</label>
-     <sic>forede</sic>
-     <seg>Sir , heres a woman (</seg>
-     <corr>forcde</corr>
-     <seg>by some tide of sorrow ) With teares intreats</seg>
-    </note>
-    <note target="A11155-026-b-0550" xml:id="A11155-26-b-0550-n">
-     <label>c3bij-026-b-0550</label>
-     <sic>he●</sic>
-     <seg>, Death shall divide him from us , Fetch</seg>
-     <corr>her</corr>
-     <seg>in .</seg>
-    </note>
-    <note target="A11155-026-b-0770" xml:id="A11155-26-b-0770-n">
-     <label>c3bij-026-b-0770</label>
-     <sic>ne●d●</sic>
-     <seg>, 〈◊〉 on whose face But thinking , I must</seg>
-     <corr>neede</corr>
-     <seg>be pitifull : And when I ha told my conquest</seg>
-    </note>
-    <note target="A11155-026-b-1400" xml:id="A11155-26-b-1400-n">
-     <label>c3bij-026-b-1400</label>
-     <sic>down-c●●●</sic>
-     <seg>Leave us : a sad one ! The</seg>
-     <corr>down-cast</corr>
-     <seg>loo 〈…〉 , calls up compassion in me , A</seg>
-    </note>
-    <note target="A11155-026-b-1460" xml:id="A11155-26-b-1460-n">
-     <label>c3bij-026-b-1460</label>
-     <sic>comp●ssion</sic>
-     <seg>sad one ! The down-cast loo 〈…〉 , calls up</seg>
-     <corr>compassion</corr>
-     <seg>in me , A Coarse going to the gr●●e looks</seg>
-    </note>
-    <note target="A11155-026-b-2570" xml:id="A11155-26-b-2570-n">
-     <label>c3bij-026-b-2570</label>
-     <sic>R●d●●icke</sic>
-     <seg>Spaines Armies , And thats the king , king</seg>
-     <corr>Rodericke</corr>
-     <seg>; hees all goodnesse . He cannot wrong thy</seg>
-    </note>
-    <note target="A11155-027-a-0510" xml:id="A11155-27-a-0510-n">
-     <label>c3bij-027-a-0510</label>
-     <sic>s●ke</sic>
-     <seg>O for your daughters</seg>
-     <corr>sake</corr>
-     <seg>then heare my woes .</seg>
-    </note>
-    <note target="A11155-027-a-1740" xml:id="A11155-27-a-1740-n">
-     <label>c3bij-027-a-1740</label>
-     <sic>perfu●e</sic>
-     <seg>more , Did to it selfe keepe in its owne</seg>
-     <corr>perfume</corr>
-     <seg>: Say that some rapine hand had pluckt the</seg>
-    </note>
-    <note target="A11155-027-a-2750" xml:id="A11155-27-a-2750-n">
-     <label>c3bij-027-a-2750</label>
-     <sic>don●</sic>
-     <seg>Say this were</seg>
-     <corr>done</corr>
-     <seg>by him that carried The fairest seeming</seg>
-    </note>
-    <note target="A11155-027-b-0230" xml:id="A11155-27-b-0230-n">
-     <label>c3bij-027-b-0230</label>
-     <sic>Rod●ricke</sic>
-     <seg>Say then that</seg>
-     <corr>Rodericke</corr>
-     <seg>, your king and Master , To quit the honours</seg>
-    </note>
-    <note target="A11155-027-b-0850" xml:id="A11155-27-b-0850-n">
-     <label>c3bij-027-b-0850</label>
-     <sic>it●</sic>
-     <seg>treason , gainst my king ? Durst any man</seg>
-     <corr>ith</corr>
-     <seg>world , bring me this lye , By this , had</seg>
-    </note>
-    <note target="A11155-027-b-1230" xml:id="A11155-27-b-1230-n">
-     <label>c3bij-027-b-1230</label>
-     <sic>Lucr●ce</sic>
-     <seg>she done her part ) Should be the second</seg>
-     <corr>Lucrece</corr>
-     <seg>: view me well , I am Iacinta .</seg>
-    </note>
-    <note target="A11155-028-a-1080" xml:id="A11155-28-a-1080-n">
-     <label>c3bij-028-a-1080</label>
-     <sic>prisoner●</sic>
-     <seg>Call up the army , and let them present His</seg>
-     <corr>prisoners</corr>
-     <seg>to him , such a sight as that Will brooke</seg>
-    </note>
-    <note target="A11155-028-a-1640" xml:id="A11155-28-a-1640-n">
-     <label>c3bij-028-a-1640</label>
-     <sic>perhap●</sic>
-     <seg>weigh them , With my full griefes , they may</seg>
-     <corr>perhaps</corr>
-     <seg>orecome .</seg>
-    </note>
-    <note target="A11155-028-a-1650" xml:id="A11155-28-a-1650-n">
-     <label>c3bij-028-a-1650</label>
-     <sic>o●●come</sic>
-     <seg>, With my full griefes , they may perhaps</seg>
-     <corr>orecome</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-028-a-2300" xml:id="A11155-28-a-2300-n">
-     <label>c3bij-028-a-2300</label>
-     <sic>orewhelm●</sic>
-     <seg>subdued , Then let no female passions thus</seg>
-     <corr>orewhelme</corr>
-     <seg>you .</seg>
-    </note>
-    <note target="A11155-028-a-3200" xml:id="A11155-28-a-3200-n">
-     <label>c3bij-028-a-3200</label>
-     <sic>There●</sic>
-     <seg>for thy lust confine me from the Court ,</seg>
-     <corr>Theres</corr>
-     <seg>reason in thy shame , thou shouldst not</seg>
-    </note>
-    <note target="A11155-028-a-3610" xml:id="A11155-28-a-3610-n">
-     <label>c3bij-028-a-3610</label>
-     <sic>Affr</sic>
-     <seg>Enter Anton is with the</seg>
-     <corr>Affrican</corr>
-     <seg>〈…〉 king , 〈◊〉 other M 〈…〉 prisoners .</seg>
-    </note>
-    <note target="A11155-028-b-0350" xml:id="A11155-28-b-0350-n">
-     <label>c3bij-028-b-0350</label>
-     <sic>●le</sic>
-     <seg>enemies , yet welcome brave Moores , With you</seg>
-     <corr>Ile</corr>
-     <seg>parley ; first I defle you all .</seg>
-    </note>
-    <note target="A11155-028-b-0600" xml:id="A11155-28-b-0600-n">
-     <label>c3bij-028-b-0600</label>
-     <sic>Rod●rique</sic>
-     <seg>I am a vowd for to your King , to</seg>
-     <corr>Roderique</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-028-b-1630" xml:id="A11155-28-b-1630-n">
-     <label>c3bij-028-b-1630</label>
-     <sic>Rod●rique</sic>
-     <seg>Why then should</seg>
-     <corr>Roderique</corr>
-     <seg>doe this base deed ?</seg>
-    </note>
-    <note target="A11155-028-b-2140" xml:id="A11155-28-b-2140-n">
-     <label>c3bij-028-b-2140</label>
-     <sic>Rod●rique</sic>
-     <seg>Yes , by</seg>
-     <corr>Roderique</corr>
-     <seg>, by 〈◊〉 , tyr 〈…〉 , Roderique :</seg>
-    </note>
-    <note target="A11155-028-b-2220" xml:id="A11155-28-b-2220-n">
-     <label>c3bij-028-b-2220</label>
-     <sic>Rod●rique</sic>
-     <seg>Yes , by Roderique , by 〈◊〉 , tyr 〈…〉 ,</seg>
-     <corr>Roderique</corr>
-     <seg>:</seg>
-    </note>
-    <note target="A11155-028-b-2370" xml:id="A11155-28-b-2370-n">
-     <label>c3bij-028-b-2370</label>
-     <sic>Spaniard●</sic>
-     <seg>Ioyne with me noble</seg>
-     <corr>Spaniards</corr>
-     <seg>in Revenge .</seg>
-    </note>
-    <note target="A11155-028-b-2650" xml:id="A11155-28-b-2650-n">
-     <label>c3bij-028-b-2650</label>
-     <sic>Prince●y</sic>
-     <seg>Then</seg>
-     <corr>Princely</corr>
-     <seg>〈◊〉 , here I free thee , And all thy valiant</seg>
-    </note>
-    <note target="A11155-028-b-2940" xml:id="A11155-28-b-2940-n">
-     <label>c3bij-028-b-2940</label>
-     <sic>●nd</sic>
-     <seg>and incorporate Their strengths with mine ,</seg>
-     <corr>and</corr>
-     <seg>with me march through Spaine , Sharpning</seg>
-    </note>
-    <note target="A11155-028-b-3160" xml:id="A11155-28-b-3160-n">
-     <label>c3bij-028-b-3160</label>
-     <sic>●●nde</sic>
-     <seg>Most willingly , to</seg>
-     <corr>binde</corr>
-     <seg>me father to thee , Plight me thy ravisht</seg>
-    </note>
-    <note target="A11155-028-b-3180" xml:id="A11155-28-b-3180-n">
-     <label>c3bij-028-b-3180</label>
-     <sic>f●●●er</sic>
-     <seg>Most willingly , to binde me</seg>
-     <corr>father</corr>
-     <seg>to thee , Plight me thy ravisht daughter</seg>
-    </note>
-    <note target="A11155-028-b-3480" xml:id="A11155-28-b-3480-n">
-     <label>c3bij-028-b-3480</label>
-     <sic>secon●</sic>
-     <seg>O my</seg>
-     <corr>second</corr>
-     <seg>hell , A Christians armes embrace an infidell</seg>
-    </note>
-    <note target="A11155-029-a-0870" xml:id="A11155-29-a-0870-n">
-     <label>c3bij-029-a-0870</label>
-     <sic>Ex●unt</sic>
-     <seg/>
-     <corr>Exeunt</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-029-a-1070" xml:id="A11155-29-a-1070-n">
-     <label>c3bij-029-a-1070</label>
-     <sic>●alter</sic>
-     <seg>〈…〉 : Enter Margaretta and Fydella with a</seg>
-     <corr>halter</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-029-a-1130" xml:id="A11155-29-a-1130-n">
-     <label>c3bij-029-a-1130</label>
-     <sic>Fyd●lla</sic>
-     <seg>Sleepes he</seg>
-     <corr>Fydella</corr>
-     <seg>?</seg>
-    </note>
-    <note target="A11155-029-a-2240" xml:id="A11155-29-a-2240-n">
-     <label>c3bij-029-a-2240</label>
-     <sic>Antoni●</sic>
-     <seg>strike even sparkes of pitty from the flint :</seg>
-     <corr>Antonio</corr>
-     <seg>! husband A 〈…〉 .</seg>
-    </note>
-    <note target="A11155-029-b-0480" xml:id="A11155-29-b-0480-n">
-     <label>c3bij-029-b-0480</label>
-     <sic>Antoni●</sic>
-     <seg>he shall A while , and that but deafly :</seg>
-     <corr>Antonio</corr>
-     <seg>, I was your wife , Lordly Antonio , And</seg>
-    </note>
-    <note target="A11155-029-b-0560" xml:id="A11155-29-b-0560-n">
-     <label>c3bij-029-b-0560</label>
-     <sic>Ant●ni●</sic>
-     <seg>deafly : Antonio , I was your wife , Lordly</seg>
-     <corr>Antonio</corr>
-     <seg>, And in that balance equal'd with your selfe</seg>
-    </note>
-    <note target="A11155-030-b-1100" xml:id="A11155-30-b-1100-n">
-     <label>c3bij-030-b-1100</label>
-     <sic>Rod●rique</sic>
-     <seg>Thunder and Lightning . Enter</seg>
-     <corr>Roderique</corr>
-     <seg>againe at another doore .</seg>
-    </note>
-    <note target="A11155-030-b-1470" xml:id="A11155-30-b-1470-n">
-     <label>c3bij-030-b-1470</label>
-     <sic>Ant●●i●</sic>
-     <seg>Enter Iulianus , Moore , Iaciuta ,</seg>
-     <corr>Antonio</corr>
-     <seg>, Alonzo , one presenting Roderique .</seg>
-    </note>
-    <note target="A11155-030-b-1490" xml:id="A11155-30-b-1490-n">
-     <label>c3bij-030-b-1490</label>
-     <sic>Al●nz●</sic>
-     <seg>Enter Iulianus , Moore , Iaciuta , Antonio ,</seg>
-     <corr>Alonzo</corr>
-     <seg>, one presenting Roderique .</seg>
-    </note>
-    <note target="A11155-030-b-1530" xml:id="A11155-30-b-1530-n">
-     <label>c3bij-030-b-1530</label>
-     <sic>Rod●rique</sic>
-     <seg>Iaciuta , Antonio , Alonzo , one presenting</seg>
-     <corr>Roderique</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-032-a-2390" xml:id="A11155-32-a-2390-n">
-     <label>c3bij-032-a-2390</label>
-     <sic>a long</sic>
-     <seg>thy clothes , and thy money . And so come</seg>
-     <corr>along</corr>
-     <seg>with to me the next tree , where thou</seg>
-    </note>
-    <note target="A11155-032-a-2890" xml:id="A11155-32-a-2890-n">
-     <label>c3bij-032-a-2890</label>
-     <sic>Pia●●●telli</sic>
-     <seg>Alarum , Excursions , Enter Rodorique and</seg>
-     <corr>Piamentelli</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-032-b-0780" xml:id="A11155-32-b-0780-n">
-     <label>c3bij-032-b-0780</label>
-     <sic>al●es</sic>
-     <seg>most poore , To beg of them receiv'd mine</seg>
-     <corr>almes</corr>
-     <seg>, before . I have defended them :</seg>
-    </note>
-    <note target="A11155-032-b-1470" xml:id="A11155-32-b-1470-n">
-     <label>c3bij-032-b-1470</label>
-     <sic>hatterd</sic>
-     <seg>but not long ? This poyson'd Iuli 〈…〉 has</seg>
-     <corr>batterd</corr>
-     <seg>him . Thou art my subject still Piamentelli</seg>
-    </note>
-    <note target="A11155-032-b-1550" xml:id="A11155-32-b-1550-n">
-     <label>c3bij-032-b-1550</label>
-     <sic>Pia●●●telli</sic>
-     <seg>has batterd him . Thou art my subject still</seg>
-     <corr>Piamentelli</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-032-b-1620" xml:id="A11155-32-b-1620-n">
-     <label>c3bij-032-b-1620</label>
-     <sic>Pia●●●telli</sic>
-     <seg>Whilst I am</seg>
-     <corr>Piamentelli</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-032-b-2310" xml:id="A11155-32-b-2310-n">
-     <label>c3bij-032-b-2310</label>
-     <sic>Th'at●</sic>
-     <seg/>
-     <corr>Th'ats</corr>
-     <seg>frightfull to me .</seg>
-    </note>
-    <note target="A11155-033-a-0950" xml:id="A11155-33-a-0950-n">
-     <label>c3bij-033-a-0950</label>
-     <sic>sc●p't</sic>
-     <seg>Oh Iulianus , what hast thou done ? thast</seg>
-     <corr>scap't</corr>
-     <seg>The raging Lion , to wrastle with a Dragon</seg>
-    </note>
-    <note target="A11155-033-a-1360" xml:id="A11155-33-a-1360-n">
-     <label>c3bij-033-a-1360</label>
-     <sic>●●●●ound</sic>
-     <seg>fate By him to fall , then thus , by such a</seg>
-     <corr>helhound</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-033-b-0250" xml:id="A11155-33-b-0250-n">
-     <label>c3bij-033-b-0250</label>
-     <sic>●o</sic>
-     <seg>, thy last doome , A tyrants Axe sends me</seg>
-     <corr>to</corr>
-     <seg>a ●●●st home .</seg>
-    </note>
-    <note target="A11155-033-b-0460" xml:id="A11155-33-b-0460-n">
-     <label>c3bij-033-b-0460</label>
-     <sic>sarrow</sic>
-     <seg>her exclaiming tongue , She shall in silent</seg>
-     <corr>sorrow</corr>
-     <seg>then lead him , Her eyes shall be his starres</seg>
-    </note>
-    <note target="A11155-033-b-0560" xml:id="A11155-33-b-0560-n">
-     <label>c3bij-033-b-0560</label>
-     <sic>st●●●●●</sic>
-     <seg>sorrow then lead him , Her eyes shall be his</seg>
-     <corr>starres</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-033-b-1080" xml:id="A11155-33-b-1080-n">
-     <label>c3bij-033-b-1080</label>
-     <sic>Entr●●t</sic>
-     <seg/>
-     <corr>Entreat</corr>
-     <seg>for me ? forbeare Sir , Either be you dumbe</seg>
-    </note>
-    <note target="A11155-033-b-1800" xml:id="A11155-33-b-1800-n">
-     <label>c3bij-033-b-1800</label>
-     <sic>●ilst</sic>
-     <seg>O Iustice , Iustice , thou that</seg>
-     <corr>filst</corr>
-     <seg>the throne 〈◊〉 〈◊〉 Iustice 〈…〉 . Give me</seg>
-    </note>
-    <note target="A11155-033-b-2180" xml:id="A11155-33-b-2180-n">
-     <label>c3bij-033-b-2180</label>
-     <sic>Di●●●</sic>
-     <seg>Enter A 〈…〉 w 〈…〉 ed , with</seg>
-     <corr>Dionisia</corr>
-     <seg>sin .</seg>
-    </note>
-    <note target="A11155-034-a-0970" xml:id="A11155-34-a-0970-n">
-     <label>c3bij-034-a-0970</label>
-     <sic>Iul●●●●●</sic>
-     <seg/>
-     <corr>Iulianus</corr>
-     <seg>, for a wrong done to his daughter , ( The</seg>
-    </note>
-    <note target="A11155-034-a-1360" xml:id="A11155-34-a-1360-n">
-     <label>c3bij-034-a-1360</label>
-     <sic>the●</sic>
-     <seg>up , Who now insults , being but a captive</seg>
-     <corr>then</corr>
-     <seg>, And cause in honest language I was just</seg>
-    </note>
-    <note target="A11155-034-a-1490" xml:id="A11155-34-a-1490-n">
-     <label>c3bij-034-a-1490</label>
-     <sic>revole</sic>
-     <seg>honest language I was just In taxing this</seg>
-     <corr>revolt</corr>
-     <seg>of 〈◊〉 , He bid a soldier kill me , who</seg>
-    </note>
-    <note target="A11155-034-a-1880" xml:id="A11155-34-a-1880-n">
-     <label>c3bij-034-a-1880</label>
-     <sic>p●ngs</sic>
-     <seg>clensing of my conscience : I feele deathe</seg>
-     <corr>pangs</corr>
-     <seg>, forgive me both , and all , Let my soule</seg>
-    </note>
-    <note target="A11155-034-a-2040" xml:id="A11155-34-a-2040-n">
-     <label>c3bij-034-a-2040</label>
-     <sic>f●ll</sic>
-     <seg>and all , Let my soule 〈◊〉 , 〈◊〉 any body</seg>
-     <corr>full</corr>
-     <seg>With honor I got honor , 〈◊〉 my 〈◊〉 thrives</seg>
-    </note>
-    <note target="A11155-034-a-2090" xml:id="A11155-34-a-2090-n">
-     <label>c3bij-034-a-2090</label>
-     <sic>hon●●</sic>
-     <seg>〈◊〉 , 〈◊〉 any body full With honor I got</seg>
-     <corr>honor</corr>
-     <seg>, 〈◊〉 my 〈◊〉 thrives , Thus fals the wretched</seg>
-    </note>
-    <note target="A11155-034-a-2140" xml:id="A11155-34-a-2140-n">
-     <label>c3bij-034-a-2140</label>
-     <sic>●hr●ves</sic>
-     <seg>full With honor I got honor , 〈◊〉 my 〈◊〉</seg>
-     <corr>thrives</corr>
-     <seg>, Thus fals the wretched husband of two</seg>
-    </note>
-    <note target="A11155-034-a-2230" xml:id="A11155-34-a-2230-n">
-     <label>c3bij-034-a-2230</label>
-     <sic>wiv●s</sic>
-     <seg>thrives , Thus fals the wretched husband of two</seg>
-     <corr>wives</corr>
-     <seg/>
-    </note>
-    <note target="A11155-034-a-2410" xml:id="A11155-34-a-2410-n">
-     <label>c3bij-034-a-2410</label>
-     <sic>succ 〈…〉</sic>
-     <seg>here's 〈◊〉 of 〈…〉 , A wholsome example to all</seg>
-     <corr>successors</corr>
-     <seg>▪ Let every wise man take heed of two 〈◊〉</seg>
-    </note>
-    <note target="A11155-034-a-2480" xml:id="A11155-34-a-2480-n">
-     <label>c3bij-034-a-2480</label>
-     <sic>h●●d</sic>
-     <seg>all successors ▪ Let every wise man take</seg>
-     <corr>heed</corr>
-     <seg>of two 〈◊〉 , Tis ●●o 〈…〉 of the 〈◊〉 My selfe</seg>
-    </note>
-    <note target="A11155-034-b-1080" xml:id="A11155-34-b-1080-n">
-     <label>c3bij-034-b-1080</label>
-     <sic>Sta●s</sic>
-     <seg/>
-     <corr>Stabs</corr>
-     <seg>herselfe .</seg>
-    </note>
-    <note target="A11155-034-b-1230" xml:id="A11155-34-b-1230-n">
-     <label>c3bij-034-b-1230</label>
-     <sic>monu●●●●all</sic>
-     <seg>forsake me living , being 〈◊〉 I will enjoy thy</seg>
-     <corr>monumentall</corr>
-     <seg>bed .</seg>
-    </note>
-    <note target="A11155-034-b-2320" xml:id="A11155-34-b-2320-n">
-     <label>c3bij-034-b-2320</label>
-     <sic>th●●'●</sic>
-     <seg>left side , And have as many kisses too ,</seg>
-     <corr>that's</corr>
-     <seg>my bargaine ; My sinnes are all upon thy</seg>
-    </note>
-    <note target="A11155-034-b-2340" xml:id="A11155-34-b-2340-n">
-     <label>c3bij-034-b-2340</label>
-     <sic>bargai●●</sic>
-     <seg>, And have as many kisses too , that's my</seg>
-     <corr>bargaine</corr>
-     <seg>; My sinnes are all upon thy conscience</seg>
-    </note>
-    <note target="A11155-034-b-2540" xml:id="A11155-34-b-2540-n">
-     <label>c3bij-034-b-2540</label>
-     <sic>to'●</sic>
-     <seg>But I forgive thee , and 〈◊〉 〈◊〉 the Clarke</seg>
-     <corr>to't</corr>
-     <seg>, My soule will have 〈◊〉 passage , my body</seg>
-    </note>
-    <note target="A11155-034-b-2660" xml:id="A11155-34-b-2660-n">
-     <label>c3bij-034-b-2660</label>
-     <sic>b●queath</sic>
-     <seg>My soule will have 〈◊〉 passage , my body I</seg>
-     <corr>bequeath</corr>
-     <seg>To thee Antonio , I am your wife , And will</seg>
-    </note>
-    <note target="A11155-034-b-2690" xml:id="A11155-34-b-2690-n">
-     <label>c3bij-034-b-2690</label>
-     <sic>Aut●●io</sic>
-     <seg>〈◊〉 passage , my body I bequeath To thee</seg>
-     <corr>Antonio</corr>
-     <seg>, I am your wife , And will come to bed</seg>
-    </note>
-    <note target="A11155-034-b-2800" xml:id="A11155-34-b-2800-n">
-     <label>c3bij-034-b-2800</label>
-     <sic>●●d</sic>
-     <seg>Antonio , I am your wife , And will come to</seg>
-     <corr>bed</corr>
-     <seg>to you , thus I make unready , Thus I lie</seg>
-    </note>
-    <note target="A11155-034-b-3230" xml:id="A11155-34-b-3230-n">
-     <label>c3bij-034-b-3230</label>
-     <sic>pasti●●●</sic>
-     <seg>Excellent</seg>
-     <corr>pastime</corr>
-     <seg/>
-    </note>
-    <note target="A11155-035-a-0180" xml:id="A11155-35-a-0180-n">
-     <label>c3bij-035-a-0180</label>
-     <sic>where'●</sic>
-     <seg>Tis night with me for ever ,</seg>
-     <corr>where's</corr>
-     <seg>this tyrant ? Turne me but to him , and</seg>
-    </note>
-    <note target="A11155-035-a-0200" xml:id="A11155-35-a-0200-n">
-     <label>c3bij-035-a-0200</label>
-     <sic>ty●ant</sic>
-     <seg>Tis night with me for ever , where's this</seg>
-     <corr>tyrant</corr>
-     <seg>? Turne me but to him , and from these darkned</seg>
-    </note>
-    <note target="A11155-035-a-0300" xml:id="A11155-35-a-0300-n">
-     <label>c3bij-035-a-0300</label>
-     <sic>th●se</sic>
-     <seg>this tyrant ? Turne me but to him , and from</seg>
-     <corr>these</corr>
-     <seg>darkned eyes I shall discover his Cymerian</seg>
-    </note>
-    <note target="A11155-035-a-1040" xml:id="A11155-35-a-1040-n">
-     <label>c3bij-035-a-1040</label>
-     <sic>l●●●●est</sic>
-     <seg>Thou</seg>
-     <corr>laughest</corr>
-     <seg>at misery . Tis well , thou giuest a gr●●e</seg>
-    </note>
-    <note target="A11155-035-a-1410" xml:id="A11155-35-a-1410-n">
-     <label>c3bij-035-a-1410</label>
-     <sic>ar●</sic>
-     <seg>tis heavens mercifull iustice , For thou</seg>
-     <corr>art</corr>
-     <seg>but the 〈◊〉 , The master 〈◊〉 , and th●se</seg>
-    </note>
-    <note target="A11155-035-a-1590" xml:id="A11155-35-a-1590-n">
-     <label>c3bij-035-a-1590</label>
-     <sic>upon'●</sic>
-     <seg>and th●se 〈◊〉 That did these bloody 〈◊〉 〈◊〉</seg>
-     <corr>upon't</corr>
-     <seg>, Thy second slaves , and yet I more deserve</seg>
-    </note>
-    <note target="A11155-035-a-1740" xml:id="A11155-35-a-1740-n">
-     <label>c3bij-035-a-1740</label>
-     <sic>tra● to●</sic>
-     <seg>slaves , and yet I more deserve , I was a</seg>
-     <corr>traytor</corr>
-     <seg>to my lawfull King , And tho my w 〈…〉 〈…〉</seg>
-    </note>
-    <note target="A11155-035-a-2060" xml:id="A11155-35-a-2060-n">
-     <label>c3bij-035-a-2060</label>
-     <sic>tyr●n●●</sic>
-     <seg>revenge , Tis the peoples sinnes that makes</seg>
-     <corr>tyrants</corr>
-     <seg>Kings , And such was ●●ne for thee , now</seg>
-    </note>
-    <note target="A11155-035-a-2070" xml:id="A11155-35-a-2070-n">
-     <label>c3bij-035-a-2070</label>
-     <sic>King●</sic>
-     <seg>Tis the peoples sinnes that makes tyrants</seg>
-     <corr>Kings</corr>
-     <seg>, And such was ●●ne for thee , now I obey</seg>
-    </note>
-    <note target="A11155-035-a-2700" xml:id="A11155-35-a-2700-n">
-     <label>c3bij-035-a-2700</label>
-     <sic>no●●●</sic>
-     <seg>Thou art good in th●● , and</seg>
-     <corr>noble</corr>
-     <seg>.</seg>
-    </note>
-    <note target="A11155-035-a-2780" xml:id="A11155-35-a-2780-n">
-     <label>c3bij-035-a-2780</label>
-     <sic>●e</sic>
-     <seg>Nay it shall nobler</seg>
-     <corr>be</corr>
-     <seg>in the performance , Give him weapons ,</seg>
-    </note>
-    <note target="A11155-035-a-2810" xml:id="A11155-35-a-2810-n">
-     <label>c3bij-035-a-2810</label>
-     <sic>perfor 〈…〉</sic>
-     <seg>Nay it shall nobler be in the</seg>
-     <corr>performance</corr>
-     <seg>, Give him weapons , thou art a soldier</seg>
-    </note>
-    <note target="A11155-035-a-3000" xml:id="A11155-35-a-3000-n">
-     <label>c3bij-035-a-3000</label>
-     <sic>opp 〈…〉</sic>
-     <seg>a soldier , And shalt end so ; Ile be thy</seg>
-     <corr>opposite</corr>
-     <seg>, With ods of eyes , but not of armes ,</seg>
-    </note>
-    <note target="A11155-035-a-3030" xml:id="A11155-35-a-3030-n">
-     <label>c3bij-035-a-3030</label>
-     <sic>od●</sic>
-     <seg>shalt end so ; Ile be thy opposite , With</seg>
-     <corr>ods</corr>
-     <seg>of eyes , but not of armes , I vow , If</seg>
-    </note>
-    <note target="A11155-035-b-0060" xml:id="A11155-35-b-0060-n">
-     <label>c3bij-035-b-0060</label>
-     <sic>pen●●ence</sic>
-     <seg>Thoul't hurt my</seg>
-     <corr>penitence</corr>
-     <seg>, for I shall blesse All the ill deeds 〈◊〉</seg>
-    </note>
-    <note target="A11155-035-b-1770" xml:id="A11155-35-b-1770-n">
-     <label>c3bij-035-b-1770</label>
-     <sic>Cl●●patra</sic>
-     <seg>overtake me , if thou beest stayd , Thinke of</seg>
-     <corr>Cleopatra</corr>
-     <seg>and Brutus wife , There's many wayes to</seg>
-    </note>
-    <note target="A11155-035-b-2520" xml:id="A11155-35-b-2520-n">
-     <label>c3bij-035-b-2520</label>
-     <sic>homic●de</sic>
-     <seg>O bloody</seg>
-     <corr>homicide</corr>
-     <seg>, thou hast slaine thy daughter .</seg>
-    </note>
-    <note target="A11155-036-a-0410" xml:id="A11155-36-a-0410-n">
-     <label>c3bij-036-a-0410</label>
-     <sic>thro●●</sic>
-     <seg>unto none Vpon this stayre we do ascend our</seg>
-     <corr>throne</corr>
-     <seg>, Give us our title .</seg>
-    </note>
-    <note target="A11155-036-a-0780" xml:id="A11155-36-a-0780-n">
-     <label>c3bij-036-a-0780</label>
-     <sic>th●●</sic>
-     <seg>bodies , Give them to Christians , and let</seg>
-     <corr>them</corr>
-     <seg>bestow What ceremonious funerals they please</seg>
-    </note>
-    <note target="A11155-036-a-0820" xml:id="A11155-36-a-0820-n">
-     <label>c3bij-036-a-0820</label>
-     <sic>sunerals</sic>
-     <seg>Christians , and let them bestow What ceremonious</seg>
-     <corr>funerals</corr>
-     <seg>they please . We must pursue the flying</seg>
-    </note>
-    <note target="A11155-036-a-1030" xml:id="A11155-36-a-1030-n">
-     <label>c3bij-036-a-1030</label>
-     <sic>sh●●er</sic>
-     <seg>All must be ours , weele have no Kingdome</seg>
-     <corr>sharer</corr>
-     <seg>, Let Chroniclers write , here we begin</seg>
-    </note>
-    <note target="A11155-036-a-1200" xml:id="A11155-36-a-1200-n">
-     <label>c3bij-036-a-1200</label>
-     <sic>●re</sic>
-     <seg>begin our raigne , The first of Moores that</seg>
-     <corr>ere</corr>
-     <seg>was King of Spaine .</seg>
-    </note>
    </div>
   </back>
  </text>
