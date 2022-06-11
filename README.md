@@ -4,6 +4,17 @@ This repository maintains the selection of documents from the
 [EarlyPrint Project](https://earlyprint.org) that serve as the sources of the
 [EPDraCor](https://github.com/dracor-org/epdracor) corpus.
 
+The EarlyPrint IDs of the selected documents are maintained in the
+[ids.txt](ids.txt) file.
+
+To update the selection from a cloned bitbucket repository or from bitbucket
+directly the [update](scripts/update) script can be used:
+
+```sh
+./scripts/update --help
+./scripts/update --all --copy ../eebotcp
+./scripts/update --download
+```
 ## eXist DB integration
 
 For development purposes this repository provides an eXist DB integration that
