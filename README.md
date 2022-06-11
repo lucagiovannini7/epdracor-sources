@@ -48,7 +48,7 @@ Finally an uploaded query can conveniently be executed with the query script:
 
 ```sh
 ./scripts/query plays.xq
-./scripts/query speeches.xq?id=A36645
+./scripts/query 'speeches.xq?id=A36645'
 ```
 
 ### .existdb.json
