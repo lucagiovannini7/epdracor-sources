@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+if [ -f .env ]; then
+  export $(echo $(cat .env | sed 's/#.*//g'| xargs) | envsubst)
+fi
+
+query=$1
+
+if [ -z "$1" ]; then
+  echo "Execute query in local eXist DB"
+  echo
+  echo "Usage: $0 query-file.xq"
+  echo
+  exit 1
+fi
+
+EXIST_HOST=${EXIST_HOST:-localhost}
+EXIST_PORT=${EXIST_PORT:-8080}
+EXIST_COLLECTION=${EXIST_COLLECTION:-/db/epdracor-sources}
+
+server_url=http://admin:$EXIST_ADMIN_PASSWORD@$EXIST_HOST:$EXIST_PORT/exist/rest
+query_url=$server_url$EXIST_COLLECTION/xquery/$query
+
+curl --silent $query_url

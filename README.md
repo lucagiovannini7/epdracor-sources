@@ -33,6 +33,15 @@ Now you can upload either individual TEI files or the entire xml directory using
 ./scripts/load --help
 ```
 
+Finally an uploaded query can conveniently be executed with the query script:
+
+```sh
+./scripts/query plays.xq
+./scripts/query speeches.xq?id=A36645
+```
+
+### .existdb.json
+
 To support the integration with editor plugins for
 [Atom](https://github.com/eXist-db/atom-existdb) or
 [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=eXist-db.existdb-vscode)
