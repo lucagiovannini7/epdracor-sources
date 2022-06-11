@@ -1,0 +1,24 @@
+{
+  "servers": {
+    "$EXIST_HOST": {
+      "server": "http://$EXIST_HOST:$EXIST_PORT/exist",
+      "user": "admin",
+      "password": "$EXIST_ADMIN_PASSWORD"
+    }
+  },
+  "sync": {
+    "server": "$EXIST_HOST",
+    "root": "$EXIST_COLLECTION",
+    "active": true,
+    "ignore": [
+      ".existdb.json",
+      ".git/**",
+      ".gitignore",
+      "scripts/**",
+      "*.json",
+      "*.log",
+      "*.sh",
+      "*.txt"
+    ]
+  }
+}

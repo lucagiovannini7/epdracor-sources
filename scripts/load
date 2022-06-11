@@ -1,0 +1,102 @@
+#!/usr/bin/env bash
+
+usage () {
+  cat <<EOF
+Load TEI documents into local database.
+
+Usage: $0 [-c /db/path/to/collection] [FILE1 [FILE2 ...]]
+
+OPTIONS:
+  -c, --collection  collection path (default: $COLLECTION)
+  -H, --hostname    name of database server (default: $EXIST_HOST)
+  -p, --port        port of the database server (default: $EXIST_PORT)
+  -D, --delete      delete collection before loading files
+  -h, --help        show this message
+
+EOF
+}
+
+EXIST_HOST=localhost
+EXIST_PORT=8080
+EXIST_COLLECTION="/db/epdracor-sources"
+DELETE=""
+
+if [ -f .env ]; then
+  export $(echo $(cat .env | sed 's/#.*//g'| xargs) | envsubst)
+fi
+
+COLLECTION=$EXIST_COLLECTION/xml
+
+while (( "$#" )); do
+  case "$1" in
+    -h|--help)
+      usage
+      exit 0
+      ;;
+    -D|--delete)
+      DELETE=yes
+      shift
+      ;;
+    -v|--verbose)
+      VERBOSE=yes
+      shift
+      ;;
+    -c|--collection)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        COLLECTION=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    -H|--host|--hostname)
+      EXIST_HOST=$2
+      shift 2
+      ;;
+    -p|--port)
+      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
+        re='^[0-9]+$'
+        if ! [[ $2 =~ $re ]]; then
+          echo "Port argument must be a number!"
+          exit 1
+        fi
+        EXIST_PORT=$2
+        shift 2
+      else
+        echo "Error: Argument for $1 is missing" >&2
+        exit 1
+      fi
+      ;;
+    -*|--*=) # unsupported flags
+      echo "Error: Unsupported flag $1" >&2
+      exit 1
+      ;;
+    *) # preserve positional arguments
+      PARAMS="$PARAMS $1"
+      shift
+      ;;
+  esac
+done
+
+# set positional arguments in their proper place
+eval set -- "$PARAMS"
+
+server_url=http://admin:$EXIST_ADMIN_PASSWORD@$EXIST_HOST:$EXIST_PORT/exist/rest
+
+if [[ -n "$DELETE" ]]; then
+  curl -X DELETE $server_url$COLLECTION
+fi
+
+FILES=$@
+if [ -z "$FILES" ]; then
+  FILES=xml/*.xml
+fi
+
+for f in $FILES; do
+  n=$(basename $f)
+  echo $n
+  # echo $server_url$COLLECTION/$n
+  curl -X PUT -H 'Content-type: application/xml' --data-binary @$f \
+    $server_url$COLLECTION/$n
+done

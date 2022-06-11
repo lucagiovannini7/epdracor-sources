@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+
+if [ -f .env ]; then
+  export $(echo $(cat .env | sed 's/#.*//g'| xargs) | envsubst)
+else
+  echo "No .env file!"
+  echo "Copy .env.sample ('cp .env-sample .env') and edit .env if necessary."
+  echo "Then rerun this script."
+  echo
+  exit 1
+fi
+
+if [ $1 = "-j" ]; then
+  echo "Creating .existdb.json"
+  envsubst < .existdb.json.sample > .existdb.json
+fi
+
+server_url=http://admin:$EXIST_ADMIN_PASSWORD@$EXIST_HOST:$EXIST_PORT/exist/rest
+collection_url=$server_url$EXIST_COLLECTION
+
+echo "Creating collection '$EXIST_COLLECTION'..."
+curl -X PUT -H 'Content-Type: text/plain' \
+  --data-binary @ids.txt \
+  $collection_url/ids.txt
+curl -X DELETE $collection_url/ids.txt
+
+echo "Configuring collection..."
+curl -X PUT -H 'Content-type: text/xml' --data-binary @collection.xconf \
+  $server_url/db/system/config$EXIST_COLLECTION/xml/collection.xconf
+
+echo "Uploading XQueries..."
+for file in xquery/*.xq; do
+  [ -z $VERBOSE ] || echo "$file"
+  name=$(basename $file)
+  curl -X PUT -H 'Content-Type: application/xquery' \
+    --data-binary @$file \
+    $collection_url/xquery/$name
+done
