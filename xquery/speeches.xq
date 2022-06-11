@@ -49,11 +49,13 @@ return if (not($id)) then (
     },
     "speeches": array {
       for $sp in $tei//tei:sp[tei:speaker]
-      return map {
-        "id": $sp/@xml:id/string(),
-        "who": $sp/@who/string(),
-        "pb": $sp/preceding::tei:pb[1]/@xml:id/string(),
-        "speaker": $sp/tei:speaker/normalize-space()
-      }
+      return map:merge((
+        map {
+          "id": $sp/@xml:id/string(),
+          "pb": $sp/preceding::tei:pb[1]/@xml:id/string(),
+          "speaker": $sp/tei:speaker/normalize-space()
+        },
+        if ($sp/@who) then map:entry("who", $sp/@who/string()) else ()
+      ))
     }
   }
