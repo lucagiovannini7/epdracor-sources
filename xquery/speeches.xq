@@ -30,10 +30,16 @@ return if (not($id)) then (
         tei:*[1][local-name()='pb'] | preceding::tei:pb[1]
       )[1]/@xml:id/string(),
       "items": array {
-        if (count($dp//tei:list) > 0) then
+        if (count($dp//tei:list[tei:label]) > 0) then
+          for $label in $dp//tei:list/tei:label
+          return array {(
+            normalize-space($label),
+            normalize-space($label/following-sibling::tei:item[1])
+          )}
+        else if (count($dp//tei:list) > 0) then
           for $item in $dp//tei:list/tei:item
           return array { (replace(normalize-space($item), ' ([.,:])', '$1')) }
-        else if (count($dp//tei:list) > 0) then
+        else if (count($dp//tei:table) > 0) then
           for $row in $dp//tei:table/tei:row
           return array { (normalize-space($row/tei:cell[1]), normalize-space($row)) }
         else
