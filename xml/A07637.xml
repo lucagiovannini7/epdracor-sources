@@ -5593,11 +5593,13 @@
       <w lemma="door" pos="n1" reg="door" xml:id="A07637-011-a-1230">dore</w>
       <pc unit="sentence" xml:id="A07637-011-a-1240">.</pc>
      </stage>
-     <stage xml:id="A07637-e104370">
+    </sp>
+    <sp xml:id="A07637-e104370">
+     <speaker>
       <w lemma="sergeant" pos="n1" reg="Sergeant" xml:id="A07637-011-a-1250">Serieant</w>
       <w lemma="Goodfellow" pos="nn1" xml:id="A07637-011-a-1260">Goodfellow</w>
       <pc unit="sentence" xml:id="A07637-011-a-1270">.</pc>
-     </stage>
+     </speaker>
      <l xml:id="A07637-e104380">
       <w lemma="good" pos="j" xml:id="A07637-011-a-1280">Good</w>
       <w lemma="morrow" pos="n1" xml:id="A07637-011-a-1290">morrow</w>
