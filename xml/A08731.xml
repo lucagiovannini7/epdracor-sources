@@ -24980,35 +24980,45 @@
        <pc unit="sentence" xml:id="A08731-020-b-1450">.</pc>
       </stage>
      </sp>
+     <stage xml:id="A08731-e128660">
+      <w lemma="enter" pos="vvb" rend="hi" xml:id="A08731-020-b-1460">Enter</w>
+      <w lemma="Hermione" pos="nn1" xml:id="A08731-020-b-1470">HERMIONE</w>
+      <w lemma="and" pos="cc" rend="hi" xml:id="A08731-020-b-1480">and</w>
+      <w lemma="Phillida" pos="nn1" xml:id="A08731-020-b-1490">PHILLIDA</w>
+      <pc unit="sentence" xml:id="A08731-020-b-1500">.</pc>
+     </stage>
      <sp who="A08731-missing" xml:id="A08731-e128650">
-      <stage xml:id="A08731-e128660">
-       <w lemma="enter" pos="vvb" rend="hi" xml:id="A08731-020-b-1460">Enter</w>
-       <w lemma="Hermione" pos="nn1" xml:id="A08731-020-b-1470">HERMIONE</w>
-       <w lemma="and" pos="cc" rend="hi" xml:id="A08731-020-b-1480">and</w>
-       <w lemma="Phillida" pos="nn1" xml:id="A08731-020-b-1490">PHILLIDA</w>
-       <pc unit="sentence" xml:id="A08731-020-b-1500">.</pc>
+      <speaker xml:id="A08731-e128661">
        <w lemma="her" pos="po" xml:id="A08731-020-b-1510">HER</w>
        <pc xml:id="A08731-020-b-1520">,</pc>
-       <w lemma="Philly" pos="nn1" rend="hi" xml:id="A08731-020-b-1530">Philly</w>
-       <pc rend="hi" xml:id="A08731-020-b-1540">,</pc>
-       <w lemma="take" pos="vvb" xml:id="A08731-020-b-1550">take</w>
-       <w lemma="thy" pos="po" xml:id="A08731-020-b-1560">thy</w>
-       <w lemma="lute" pos="n1" xml:id="A08731-020-b-1570">Lute</w>
-       <pc xml:id="A08731-020-b-1580">,</pc>
-       <w lemma="and" pos="cc" xml:id="A08731-020-b-1590">and</w>
-       <w lemma="sing" pos="vvi" xml:id="A08731-020-b-1600">sing</w>
-       <w lemma="the" pos="d" xml:id="A08731-020-b-1610">the</w>
-       <w lemma="song" pos="n1" xml:id="A08731-020-b-1620">song</w>
-       <w lemma="be" pos="vvd" xml:id="A08731-020-b-1630">Was</w>
-       <w lemma="give" pos="vvn" xml:id="A08731-020-b-1640">given</w>
-       <w lemma="thou" pos="pno" xml:id="A08731-020-b-1650">thee</w>
-       <w lemma="last" pos="ord" xml:id="A08731-020-b-1660">last</w>
-       <pc unit="sentence" xml:id="A08731-020-b-1670">.</pc>
-      </stage>
+      </speaker>
+      <lg xml:id="A08731-e128662">
+       <l xml:id="A08731-e128663">
+        <w lemma="Philly" pos="nn1" rend="hi" xml:id="A08731-020-b-1530">Philly</w>
+        <pc rend="hi" xml:id="A08731-020-b-1540">,</pc>
+        <w lemma="take" pos="vvb" xml:id="A08731-020-b-1550">take</w>
+        <w lemma="thy" pos="po" xml:id="A08731-020-b-1560">thy</w>
+        <w lemma="lute" pos="n1" xml:id="A08731-020-b-1570">Lute</w>
+        <pc xml:id="A08731-020-b-1580">,</pc>
+        <w lemma="and" pos="cc" xml:id="A08731-020-b-1590">and</w>
+        <w lemma="sing" pos="vvi" xml:id="A08731-020-b-1600">sing</w>
+        <w lemma="the" pos="d" xml:id="A08731-020-b-1610">the</w>
+        <w lemma="song" pos="n1" xml:id="A08731-020-b-1620">song</w>
+       </l>
+       <l xml:id="A08731-e128664">
+        <w lemma="be" pos="vvd" xml:id="A08731-020-b-1630">Was</w>
+        <w lemma="give" pos="vvn" xml:id="A08731-020-b-1640">given</w>
+        <w lemma="thou" pos="pno" xml:id="A08731-020-b-1650">thee</w>
+        <w lemma="last" pos="ord" xml:id="A08731-020-b-1660">last</w>
+        <pc unit="sentence" xml:id="A08731-020-b-1670">.</pc>
+       </l>
+      </lg>
       <stage xml:id="A08731-e128670">
        <w lemma="n/a" pos="fla" xml:id="A08731-020-b-1680">Exeunt</w>
        <pc unit="sentence" xml:id="A08731-020-b-1690">.</pc>
       </stage>
+     </sp>
+     <sp who="A08731-phillida" xml:id="A08731-e128675">
       <lg xml:id="A08731-e128680">
        <head>
         <w lemma="song" pos="n1" xml:id="A08731-020-b-1700">SONG</w>
@@ -25353,15 +25363,13 @@
        </l>
       </lg>
      </sp>
-     <sp who="A08731-missing" xml:id="A08731-e129070">
-      <stage xml:id="A08731-e129080">
-       <w lemma="enter" pos="vvb" rend="hi" xml:id="A08731-020-b-4180">Enter</w>
-       <w lemma="Eugenio" pos="nn1" reg="EUGENIO" xml:id="A08731-020-b-4190">EVGENIO</w>
-       <w lemma="and" pos="cc" rend="hi" xml:id="A08731-020-b-4200">and</w>
-       <w lemma="Phillida" pos="nn1" xml:id="A08731-020-b-4210">PHILLIDA</w>
-       <pc unit="sentence" xml:id="A08731-020-b-4220">.</pc>
-      </stage>
-     </sp>
+     <stage xml:id="A08731-e129080">
+      <w lemma="enter" pos="vvb" rend="hi" xml:id="A08731-020-b-4180">Enter</w>
+      <w lemma="Eugenio" pos="nn1" reg="EUGENIO" xml:id="A08731-020-b-4190">EVGENIO</w>
+      <w lemma="and" pos="cc" rend="hi" xml:id="A08731-020-b-4200">and</w>
+      <w lemma="Phillida" pos="nn1" xml:id="A08731-020-b-4210">PHILLIDA</w>
+      <pc unit="sentence" xml:id="A08731-020-b-4220">.</pc>
+     </stage>
      <sp who="A08731-eugenio" xml:id="A08731-e129090">
       <speaker>
        <w lemma="EV." pos="ab" xml:id="A08731-020-b-4230">EV.</w>
@@ -26307,6 +26315,10 @@
         <w lemma="be" pos="vvd" xml:id="A08731-021-b-1890">were</w>
         <pc unit="sentence" xml:id="A08731-021-b-1900">.</pc>
        </l>
+      </lg>
+     </sp>
+     <sp who="A08731-eugenio" xml:id="A08731-e129992">
+      <lg xml:id="A08731-e129994">
        <l xml:id="A08731-e130000">
         <w lemma="turn" pos="vvb" reg="Turn" xml:id="A08731-021-b-1910">Turne</w>
         <w lemma="not" pos="xx" xml:id="A08731-021-b-1920">not</w>
@@ -32181,21 +32193,25 @@
         <w lemma="help" pos="n1" reg="help" xml:id="A08731-026-a-0600">helpe</w>
         <pc unit="sentence" xml:id="A08731-026-a-0610">.</pc>
        </l>
-       <l xml:id="A08731-e136610">
-        <w lemma="within" pos="acp" rend="hi" xml:id="A08731-026-a-0620">Within</w>
-        <pc rend="hi" unit="sentence" xml:id="A08731-026-a-0630">.</pc>
-        <w join="right" lemma="where" pos="crq" xml:id="A08731-026-a-0640">Where</w>
-        <w join="left" lemma="be" pos="vvz" xml:id="A08731-026-a-0641">'s</w>
-        <w lemma="prince" pos="n1" xml:id="A08731-026-a-0650">Prince</w>
-        <w lemma="Lysicles" pos="nn1" rend="hi" xml:id="A08731-026-a-0660">Lysicles</w>
-        <pc rend="hi" xml:id="A08731-026-a-0670">?</pc>
-        <w join="right" lemma="where" pos="crq" xml:id="A08731-026-a-0680">where</w>
-        <w join="left" lemma="be" pos="vvz" xml:id="A08731-026-a-0681">'s</w>
-        <w lemma="prince" pos="n1" xml:id="A08731-026-a-0690">Prince</w>
-        <w lemma="Lysicles" pos="nn1" rend="hi" xml:id="A08731-026-a-0700">Lysicles</w>
-        <pc rend="hi" unit="sentence" xml:id="A08731-026-a-0710">?</pc>
-       </l>
       </lg>
+     </sp>
+     <stage xml:id="A08731-e136601">
+      <w lemma="within" pos="acp" rend="hi" xml:id="A08731-026-a-0620">Within</w>
+      <pc rend="hi" unit="sentence" xml:id="A08731-026-a-0630">.</pc>
+     </stage>
+     <sp who="A08731-servant" xml:id="A08731-e136602">
+      <l xml:id="A08731-e136610">
+       <w join="right" lemma="where" pos="crq" xml:id="A08731-026-a-0640">Where</w>
+       <w join="left" lemma="be" pos="vvz" xml:id="A08731-026-a-0641">'s</w>
+       <w lemma="prince" pos="n1" xml:id="A08731-026-a-0650">Prince</w>
+       <w lemma="Lysicles" pos="nn1" rend="hi" xml:id="A08731-026-a-0660">Lysicles</w>
+       <pc rend="hi" xml:id="A08731-026-a-0670">?</pc>
+       <w join="right" lemma="where" pos="crq" xml:id="A08731-026-a-0680">where</w>
+       <w join="left" lemma="be" pos="vvz" xml:id="A08731-026-a-0681">'s</w>
+       <w lemma="prince" pos="n1" xml:id="A08731-026-a-0690">Prince</w>
+       <w lemma="Lysicles" pos="nn1" rend="hi" xml:id="A08731-026-a-0700">Lysicles</w>
+       <pc rend="hi" unit="sentence" xml:id="A08731-026-a-0710">?</pc>
+      </l>
      </sp>
      <sp who="A08731-lysicles" xml:id="A08731-e136620">
       <speaker>
@@ -32306,21 +32322,25 @@
         <w lemma="live" pos="vvg" xml:id="A08731-026-a-1510">living</w>
         <pc unit="sentence" xml:id="A08731-026-a-1520">.</pc>
        </l>
-       <l xml:id="A08731-e136740">
-        <w lemma="within" pos="acp" rend="hi" xml:id="A08731-026-a-1530">Within</w>
-        <pc rend="hi" unit="sentence" xml:id="A08731-026-a-1540">.</pc>
-        <w join="right" lemma="where" pos="crq" xml:id="A08731-026-a-1550">Where</w>
-        <w join="left" lemma="be" pos="vvz" xml:id="A08731-026-a-1551">'s</w>
-        <w lemma="prince" pos="n1" xml:id="A08731-026-a-1560">Prince</w>
-        <w lemma="Lysicles" pos="nn1" rend="hi" xml:id="A08731-026-a-1570">Lysicles</w>
-        <pc rend="hi" xml:id="A08731-026-a-1580">?</pc>
-        <w join="right" lemma="where" pos="crq" xml:id="A08731-026-a-1590">where</w>
-        <w join="left" lemma="be" pos="vvz" xml:id="A08731-026-a-1591">'s</w>
-        <w lemma="prince" pos="n1" xml:id="A08731-026-a-1600">Prince</w>
-        <w lemma="Lysicles" pos="nn1" rend="hi" xml:id="A08731-026-a-1610">Lysicles</w>
-        <pc rend="hi" unit="sentence" xml:id="A08731-026-a-1620">?</pc>
-       </l>
       </lg>
+     </sp>
+     <stage xml:id="A08731-e136731">
+      <w lemma="within" pos="acp" rend="hi" xml:id="A08731-026-a-1530">Within</w>
+      <pc rend="hi" unit="sentence" xml:id="A08731-026-a-1540">.</pc>
+     </stage>
+     <sp who="A08731-servant" xml:id="A08731-e136732">
+      <l xml:id="A08731-e136740">
+       <w join="right" lemma="where" pos="crq" xml:id="A08731-026-a-1550">Where</w>
+       <w join="left" lemma="be" pos="vvz" xml:id="A08731-026-a-1551">'s</w>
+       <w lemma="prince" pos="n1" xml:id="A08731-026-a-1560">Prince</w>
+       <w lemma="Lysicles" pos="nn1" rend="hi" xml:id="A08731-026-a-1570">Lysicles</w>
+       <pc rend="hi" xml:id="A08731-026-a-1580">?</pc>
+       <w join="right" lemma="where" pos="crq" xml:id="A08731-026-a-1590">where</w>
+       <w join="left" lemma="be" pos="vvz" xml:id="A08731-026-a-1591">'s</w>
+       <w lemma="prince" pos="n1" xml:id="A08731-026-a-1600">Prince</w>
+       <w lemma="Lysicles" pos="nn1" rend="hi" xml:id="A08731-026-a-1610">Lysicles</w>
+       <pc rend="hi" unit="sentence" xml:id="A08731-026-a-1620">?</pc>
+      </l>
      </sp>
      <sp who="A08731-eugenio" xml:id="A08731-e136750">
       <speaker>
