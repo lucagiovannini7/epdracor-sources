@@ -978,16 +978,14 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-003-b-0110">prima</w>
        <pc unit="sentence" xml:id="A50090-003-b-0120">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e100530">
-       <stage xml:id="A50090-e100540">
-        <w lemma="enter" pos="vvb" xml:id="A50090-003-b-0130">Enter</w>
-        <w lemma="Goldwire" pos="nn1" xml:id="A50090-003-b-0140">Goldwire</w>
-        <pc xml:id="A50090-003-b-0150">,</pc>
-        <w lemma="and" pos="cc" xml:id="A50090-003-b-0160">and</w>
-        <w lemma="Tradewell" pos="nn1" xml:id="A50090-003-b-0170">Tradewell</w>
-        <pc unit="sentence" xml:id="A50090-003-b-0180">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e100540">
+       <w lemma="enter" pos="vvb" xml:id="A50090-003-b-0130">Enter</w>
+       <w lemma="Goldwire" pos="nn1" xml:id="A50090-003-b-0140">Goldwire</w>
+       <pc xml:id="A50090-003-b-0150">,</pc>
+       <w lemma="and" pos="cc" xml:id="A50090-003-b-0160">and</w>
+       <w lemma="Tradewell" pos="nn1" xml:id="A50090-003-b-0170">Tradewell</w>
+       <pc unit="sentence" xml:id="A50090-003-b-0180">.</pc>
+      </stage>
       <sp who="A50090-goldwire" xml:id="A50090-e100550">
        <speaker>
         <w lemma="Goldwire" pos="nn1" xml:id="A50090-003-b-0190">Goldwire</w>
@@ -3202,19 +3200,19 @@
         <w lemma="n/a" pos="fla" xml:id="A50090-006-a-2310">Exit</w>
         <w lemma="luke" pos="nn1" xml:id="A50090-006-a-2320">Luke</w>
         <pc xml:id="A50090-006-a-2330">.</pc>
+       </stage>
+      </sp>
+      <sp who="A50090-john" xml:id="A50090-e103040">
+       <speaker>
         <w lemma="Sr." orig="Sʳ˙" pos="ab" xml:id="A50090-006-a-2340">Sr.</w>
         <pc rend="hi" xml:id="A50090-006-a-2350"/>
         <w lemma="John" pos="nn1" xml:id="A50090-006-a-2360">John</w>
         <w lemma="within" pos="acp" xml:id="A50090-006-a-2370">within</w>
         <pc unit="sentence" xml:id="A50090-006-a-2380">:</pc>
-       </stage>
-      </sp>
-      <sp who="A50090-goldwire" xml:id="A50090-e103040">
-       <speaker>
-        <w lemma="Goldwire" pos="nn1" xml:id="A50090-006-a-2390">Goldwire</w>
-        <pc unit="sentence" xml:id="A50090-006-a-2400">.</pc>
        </speaker>
        <l xml:id="A50090-e103050">
+        <w lemma="Goldwire" pos="nn1" xml:id="A50090-006-a-2390">Goldwire</w>
+        <pc unit="sentence" xml:id="A50090-006-a-2400">.</pc>
         <w lemma="Tradewell" pos="nn1" xml:id="A50090-006-a-2410">Tradewell</w>
         <pc unit="sentence" xml:id="A50090-006-a-2420">.</pc>
        </l>
@@ -3550,16 +3548,14 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-006-b-1580">secunda</w>
        <pc unit="sentence" xml:id="A50090-006-b-1590">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e103430">
-       <stage xml:id="A50090-e103440">
-        <w lemma="enter" pos="vvb" xml:id="A50090-006-b-1600">Enter</w>
-        <w lemma="Lacie" pos="nn1" reg="lacy" xml:id="A50090-006-b-1610">Lacie</w>
-        <pc xml:id="A50090-006-b-1620">,</pc>
-        <w lemma="and" pos="cc" xml:id="A50090-006-b-1630">and</w>
-        <w lemma="page" pos="n1" xml:id="A50090-006-b-1640">Page</w>
-        <pc unit="sentence" xml:id="A50090-006-b-1650">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e103440">
+       <w lemma="enter" pos="vvb" xml:id="A50090-006-b-1600">Enter</w>
+       <w lemma="Lacie" pos="nn1" reg="lacy" xml:id="A50090-006-b-1610">Lacie</w>
+       <pc xml:id="A50090-006-b-1620">,</pc>
+       <w lemma="and" pos="cc" xml:id="A50090-006-b-1630">and</w>
+       <w lemma="page" pos="n1" xml:id="A50090-006-b-1640">Page</w>
+       <pc unit="sentence" xml:id="A50090-006-b-1650">.</pc>
+      </stage>
       <sp who="A50090-lacy" xml:id="A50090-e103450">
        <speaker>
         <w lemma="Lacy" pos="nn1" reg="lacy" xml:id="A50090-006-b-1660">Lacie</w>
@@ -5781,22 +5777,20 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-009-a-2030">tertia</w>
        <pc unit="sentence" xml:id="A50090-009-a-2040">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e105730">
-       <stage xml:id="A50090-e105740">
-        <w lemma="enter" pos="vvb" xml:id="A50090-009-a-2050">Enter</w>
-        <w lemma="sir" pos="n1" xml:id="A50090-009-a-2060">Sir</w>
-        <w lemma="John" pos="nn1" xml:id="A50090-009-a-2070">John</w>
-        <pc xml:id="A50090-009-a-2080">,</pc>
-        <w lemma="Hoyst" pos="nn1" xml:id="A50090-009-a-2090">Hoyst</w>
-        <pc xml:id="A50090-009-a-2100">,</pc>
-        <w lemma="fortune" pos="n1" xml:id="A50090-009-a-2110">Fortune</w>
-        <pc xml:id="A50090-009-a-2120">,</pc>
-        <w lemma="penury" pos="n1" reg="Penury" xml:id="A50090-009-a-2130">Penurie</w>
-        <pc xml:id="A50090-009-a-2140">,</pc>
-        <w lemma="Goldwire" pos="nn1" xml:id="A50090-009-a-2150">Goldwire</w>
-        <pc unit="sentence" xml:id="A50090-009-a-2160">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e105740">
+       <w lemma="enter" pos="vvb" xml:id="A50090-009-a-2050">Enter</w>
+       <w lemma="sir" pos="n1" xml:id="A50090-009-a-2060">Sir</w>
+       <w lemma="John" pos="nn1" xml:id="A50090-009-a-2070">John</w>
+       <pc xml:id="A50090-009-a-2080">,</pc>
+       <w lemma="Hoyst" pos="nn1" xml:id="A50090-009-a-2090">Hoyst</w>
+       <pc xml:id="A50090-009-a-2100">,</pc>
+       <w lemma="fortune" pos="n1" xml:id="A50090-009-a-2110">Fortune</w>
+       <pc xml:id="A50090-009-a-2120">,</pc>
+       <w lemma="penury" pos="n1" reg="Penury" xml:id="A50090-009-a-2130">Penurie</w>
+       <pc xml:id="A50090-009-a-2140">,</pc>
+       <w lemma="Goldwire" pos="nn1" xml:id="A50090-009-a-2150">Goldwire</w>
+       <pc unit="sentence" xml:id="A50090-009-a-2160">.</pc>
+      </stage>
       <sp who="A50090-john" xml:id="A50090-e105750">
        <speaker>
         <w lemma="sir" pos="n1" xml:id="A50090-009-a-2170">Sir</w>
@@ -8185,19 +8179,17 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-012-a-0050">prima</w>
        <pc unit="sentence" xml:id="A50090-012-a-0060">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e108300">
-       <stage xml:id="A50090-e108310">
-        <w lemma="enter" pos="vvb" xml:id="A50090-012-a-0070">Enter</w>
-        <w lemma="luke" pos="nn1" xml:id="A50090-012-a-0080">Luke</w>
-        <pc xml:id="A50090-012-a-0090">,</pc>
-        <w lemma="Holdfast" pos="nn1" xml:id="A50090-012-a-0100">Holdfast</w>
-        <pc xml:id="A50090-012-a-0110">,</pc>
-        <w lemma="Goldwire" pos="nn1" xml:id="A50090-012-a-0120">Goldwire</w>
-        <pc xml:id="A50090-012-a-0130">,</pc>
-        <w lemma="Tradewell" pos="nn1" xml:id="A50090-012-a-0140">Tradewell</w>
-        <pc unit="sentence" xml:id="A50090-012-a-0150">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e108310">
+       <w lemma="enter" pos="vvb" xml:id="A50090-012-a-0070">Enter</w>
+       <w lemma="luke" pos="nn1" xml:id="A50090-012-a-0080">Luke</w>
+       <pc xml:id="A50090-012-a-0090">,</pc>
+       <w lemma="Holdfast" pos="nn1" xml:id="A50090-012-a-0100">Holdfast</w>
+       <pc xml:id="A50090-012-a-0110">,</pc>
+       <w lemma="Goldwire" pos="nn1" xml:id="A50090-012-a-0120">Goldwire</w>
+       <pc xml:id="A50090-012-a-0130">,</pc>
+       <w lemma="Tradewell" pos="nn1" xml:id="A50090-012-a-0140">Tradewell</w>
+       <pc unit="sentence" xml:id="A50090-012-a-0150">.</pc>
+      </stage>
       <sp who="A50090-holdfast" xml:id="A50090-e108320">
        <speaker>
         <w lemma="holdfast" pos="nn1" xml:id="A50090-012-a-0160">Holdfast</w>
@@ -13932,17 +13924,15 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-018-b-0050">tertia</w>
        <pc unit="sentence" xml:id="A50090-018-b-0060">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e114640">
-       <stage xml:id="A50090-e114650">
-        <w lemma="enter" pos="vvb" xml:id="A50090-018-b-0070">Enter</w>
-        <w lemma="lord" pos="n1" xml:id="A50090-018-b-0080">Lord</w>
-        <pc xml:id="A50090-018-b-0090">,</pc>
-        <w lemma="and" pos="cc" xml:id="A50090-018-b-0100">and</w>
-        <w lemma="sir" pos="n1" xml:id="A50090-018-b-0110">Sir</w>
-        <w lemma="John" pos="nn1" xml:id="A50090-018-b-0120">John</w>
-        <pc unit="sentence" xml:id="A50090-018-b-0131">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e114650">
+       <w lemma="enter" pos="vvb" xml:id="A50090-018-b-0070">Enter</w>
+       <w lemma="lord" pos="n1" xml:id="A50090-018-b-0080">Lord</w>
+       <pc xml:id="A50090-018-b-0090">,</pc>
+       <w lemma="and" pos="cc" xml:id="A50090-018-b-0100">and</w>
+       <w lemma="sir" pos="n1" xml:id="A50090-018-b-0110">Sir</w>
+       <w lemma="John" pos="nn1" xml:id="A50090-018-b-0120">John</w>
+       <pc unit="sentence" xml:id="A50090-018-b-0131">.</pc>
+      </stage>
       <sp who="A50090-lord" xml:id="A50090-e114660">
        <speaker>
         <w lemma="lord" pos="n1" xml:id="A50090-018-b-0140">Lord</w>
@@ -14888,15 +14878,13 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-019-b-0910">prima</w>
        <pc unit="sentence" xml:id="A50090-019-b-0920">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e115820">
-       <stage xml:id="A50090-e115830">
-        <w lemma="enter" pos="vvb" xml:id="A50090-019-b-0930">Enter</w>
-        <w lemma="shaveem" pos="vvb" xml:id="A50090-019-b-0940">Shaveem</w>
-        <w lemma="and" pos="cc" xml:id="A50090-019-b-0950">and</w>
-        <w lemma="secret" pos="nn1" xml:id="A50090-019-b-0960">Secret</w>
-        <pc unit="sentence" xml:id="A50090-019-b-0970">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e115830">
+       <w lemma="enter" pos="vvb" xml:id="A50090-019-b-0930">Enter</w>
+       <w lemma="shaveem" pos="vvb" xml:id="A50090-019-b-0940">Shaveem</w>
+       <w lemma="and" pos="cc" xml:id="A50090-019-b-0950">and</w>
+       <w lemma="secret" pos="nn1" xml:id="A50090-019-b-0960">Secret</w>
+       <pc unit="sentence" xml:id="A50090-019-b-0970">.</pc>
+      </stage>
       <sp who="A50090-secret" xml:id="A50090-e115840">
        <speaker>
         <w lemma="secret" pos="n1" xml:id="A50090-019-b-0980">Secret</w>
@@ -15398,26 +15386,26 @@
        </l>
       </sp>
       <sp who="A50090-ramble" xml:id="A50090-e116390">
-       <speaker>
-        <w lemma="Ramble" pos="nn1" xml:id="A50090-020-a-1650">Ramble</w>
-        <pc unit="sentence" xml:id="A50090-020-a-1660">.</pc>
-       </speaker>
-       <stage xml:id="A50090-e116400">
+       <speaker xml:id="A50090-e116400">
         <w lemma="within" pos="acp" xml:id="A50090-020-a-1670">Within</w>
         <w lemma="Ramble" pos="nn1" xml:id="A50090-020-a-1680">Ramble</w>
         <pc unit="sentence" xml:id="A50090-020-a-1690">.</pc>
-       </stage>
+       </speaker>
+       <l xml:id="A50090-e116401">
+        <w lemma="Ramble" pos="nn1" xml:id="A50090-020-a-1650">Ramble</w>
+        <pc unit="sentence" xml:id="A50090-020-a-1660">.</pc>
+       </l>
       </sp>
       <sp who="A50090-scuffle" xml:id="A50090-e116410">
-       <speaker>
-        <w lemma="scuffle" pos="nn1" xml:id="A50090-020-a-1700">Scuffle</w>
-        <pc unit="sentence" xml:id="A50090-020-a-1710">.</pc>
-       </speaker>
-       <stage xml:id="A50090-e116420">
+       <speaker xml:id="A50090-e116420">
         <w lemma="within" pos="acp" xml:id="A50090-020-a-1720">Within</w>
         <w lemma="scuffle" pos="vvb" xml:id="A50090-020-a-1730">Scuffle</w>
         <pc unit="sentence" xml:id="A50090-020-a-1740">.</pc>
-       </stage>
+       </speaker>
+       <l xml:id="A50090-e116421">
+        <w lemma="scuffle" pos="nn1" xml:id="A50090-020-a-1700">Scuffle</w>
+        <pc unit="sentence" xml:id="A50090-020-a-1710">.</pc>
+       </l>
       </sp>
       <sp who="A50090-ramble" xml:id="A50090-e116430">
        <speaker>
@@ -16754,13 +16742,11 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-021-b-1320">secunda</w>
        <pc unit="sentence" xml:id="A50090-021-b-1330">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e118030">
-       <stage xml:id="A50090-e118040">
-        <w lemma="enter" pos="vvb" xml:id="A50090-021-b-1340">Enter</w>
-        <w lemma="luke" pos="nn1" xml:id="A50090-021-b-1350">Luke</w>
-        <pc unit="sentence" xml:id="A50090-021-b-1360">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e118040">
+       <w lemma="enter" pos="vvb" xml:id="A50090-021-b-1340">Enter</w>
+       <w lemma="luke" pos="nn1" xml:id="A50090-021-b-1350">Luke</w>
+       <pc unit="sentence" xml:id="A50090-021-b-1360">.</pc>
+      </stage>
       <sp who="A50090-anne" xml:id="A50090-e118050">
        <speaker>
         <w lemma="within" pos="acp" xml:id="A50090-021-b-1370">Within</w>
@@ -19779,16 +19765,14 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-025-a-1110">tertia</w>
        <pc unit="sentence" xml:id="A50090-025-a-1120">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e121440">
-       <stage xml:id="A50090-e121450">
-        <w lemma="enter" pos="vvb" xml:id="A50090-025-a-1130">Enter</w>
-        <w lemma="luke" pos="nn1" xml:id="A50090-025-a-1140">Luke</w>
-        <w lemma="with" pos="acp" xml:id="A50090-025-a-1150">with</w>
-        <w lemma="a" pos="d" xml:id="A50090-025-a-1160">a</w>
-        <w lemma="key" pos="n1" xml:id="A50090-025-a-1170">key</w>
-        <pc unit="sentence" xml:id="A50090-025-a-1180">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e121450">
+       <w lemma="enter" pos="vvb" xml:id="A50090-025-a-1130">Enter</w>
+       <w lemma="luke" pos="nn1" xml:id="A50090-025-a-1140">Luke</w>
+       <w lemma="with" pos="acp" xml:id="A50090-025-a-1150">with</w>
+       <w lemma="a" pos="d" xml:id="A50090-025-a-1160">a</w>
+       <w lemma="key" pos="n1" xml:id="A50090-025-a-1170">key</w>
+       <pc unit="sentence" xml:id="A50090-025-a-1180">.</pc>
+      </stage>
       <sp who="A50090-luke" xml:id="A50090-e121460">
        <speaker>
         <w lemma="Luke" pos="nn1" xml:id="A50090-025-a-1190">Luke</w>
@@ -21475,18 +21459,16 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-027-a-1350">prima</w>
        <pc unit="sentence" xml:id="A50090-027-a-1360">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e123240">
-       <stage xml:id="A50090-e123250">
-        <w lemma="enter" pos="vvb" xml:id="A50090-027-a-1370">Enter</w>
-        <w lemma="dingem" pos="nn1" xml:id="A50090-027-a-1380">Dingem</w>
-        <pc xml:id="A50090-027-a-1390">,</pc>
-        <w lemma="Gettall" pos="nn1" xml:id="A50090-027-a-1400">Gettall</w>
-        <pc xml:id="A50090-027-a-1410">,</pc>
-        <w lemma="and" pos="cc" xml:id="A50090-027-a-1420">and</w>
-        <w lemma="Holdfast" pos="nn1" xml:id="A50090-027-a-1430">Holdfast</w>
-        <pc unit="sentence" xml:id="A50090-027-a-1440">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e123250">
+       <w lemma="enter" pos="vvb" xml:id="A50090-027-a-1370">Enter</w>
+       <w lemma="dingem" pos="nn1" xml:id="A50090-027-a-1380">Dingem</w>
+       <pc xml:id="A50090-027-a-1390">,</pc>
+       <w lemma="Gettall" pos="nn1" xml:id="A50090-027-a-1400">Gettall</w>
+       <pc xml:id="A50090-027-a-1410">,</pc>
+       <w lemma="and" pos="cc" xml:id="A50090-027-a-1420">and</w>
+       <w lemma="Holdfast" pos="nn1" xml:id="A50090-027-a-1430">Holdfast</w>
+       <pc unit="sentence" xml:id="A50090-027-a-1440">.</pc>
+      </stage>
       <sp who="A50090-dingem" xml:id="A50090-e123260">
        <speaker>
         <w lemma="Dingem." pos="ab" xml:id="A50090-027-a-1450">Dingem.</w>
@@ -23531,24 +23513,22 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-029-b-0630">secunda</w>
        <pc unit="sentence" xml:id="A50090-029-b-0640">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e125640">
-       <stage xml:id="A50090-e125650">
-        <w lemma="enter" pos="vvb" xml:id="A50090-029-b-0650">Enter</w>
-        <w lemma="Goldwire" pos="nn1" xml:id="A50090-029-b-0660">Goldwire</w>
-        <pc xml:id="A50090-029-b-0670">,</pc>
-        <w lemma="Tradewell" pos="nn1" xml:id="A50090-029-b-0680">Tradewell</w>
-        <pc unit="sentence" xml:id="A50090-029-b-0690">.</pc>
-        <w lemma="Shavem" pos="nn1" xml:id="A50090-029-b-0700">Shavem</w>
-        <pc xml:id="A50090-029-b-0710">,</pc>
-        <w lemma="secret" pos="nn1" xml:id="A50090-029-b-0720">Secret</w>
-        <pc xml:id="A50090-029-b-0730">,</pc>
-        <w lemma="Gettal" pos="nn1" xml:id="A50090-029-b-0740">Gettal</w>
-        <pc xml:id="A50090-029-b-0750">,</pc>
-        <w lemma="and" pos="cc" xml:id="A50090-029-b-0760">and</w>
-        <w lemma="Dingem." pos="ab" xml:id="A50090-029-b-0770">Dingem.</w>
-        <pc unit="sentence" xml:id="A50090-029-b-0780"/>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e125650">
+       <w lemma="enter" pos="vvb" xml:id="A50090-029-b-0650">Enter</w>
+       <w lemma="Goldwire" pos="nn1" xml:id="A50090-029-b-0660">Goldwire</w>
+       <pc xml:id="A50090-029-b-0670">,</pc>
+       <w lemma="Tradewell" pos="nn1" xml:id="A50090-029-b-0680">Tradewell</w>
+       <pc unit="sentence" xml:id="A50090-029-b-0690">.</pc>
+       <w lemma="Shavem" pos="nn1" xml:id="A50090-029-b-0700">Shavem</w>
+       <pc xml:id="A50090-029-b-0710">,</pc>
+       <w lemma="secret" pos="nn1" xml:id="A50090-029-b-0720">Secret</w>
+       <pc xml:id="A50090-029-b-0730">,</pc>
+       <w lemma="Gettal" pos="nn1" xml:id="A50090-029-b-0740">Gettal</w>
+       <pc xml:id="A50090-029-b-0750">,</pc>
+       <w lemma="and" pos="cc" xml:id="A50090-029-b-0760">and</w>
+       <w lemma="Dingem." pos="ab" xml:id="A50090-029-b-0770">Dingem.</w>
+       <pc unit="sentence" xml:id="A50090-029-b-0780"/>
+      </stage>
       <sp who="A50090-goldwire" xml:id="A50090-e125660">
        <speaker>
         <w lemma="Goldwire" pos="nn1" xml:id="A50090-029-b-0790">Goldwire</w>
@@ -24033,13 +24013,11 @@
         <pc unit="sentence" xml:id="A50090-030-a-1560">.</pc>
        </stage>
       </sp>
-      <sp who="A50090-missing" xml:id="A50090-e126210">
-       <stage xml:id="A50090-e126220">
-        <w lemma="enter" pos="vvb" xml:id="A50090-030-a-1570">Enter</w>
-        <w lemma="luke" pos="nn1" xml:id="A50090-030-a-1580">Luke</w>
-        <pc unit="sentence" xml:id="A50090-030-a-1590">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e126220">
+       <w lemma="enter" pos="vvb" xml:id="A50090-030-a-1570">Enter</w>
+       <w lemma="luke" pos="nn1" xml:id="A50090-030-a-1580">Luke</w>
+       <pc unit="sentence" xml:id="A50090-030-a-1590">.</pc>
+      </stage>
       <sp who="A50090-tradewell" xml:id="A50090-e126230">
        <speaker>
         <w lemma="Tradewell" pos="nn1" xml:id="A50090-030-a-1600">Tradewell</w>
@@ -25623,19 +25601,17 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-032-a-0050">tertia</w>
        <pc unit="sentence" xml:id="A50090-032-a-0060">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e128000">
-       <stage xml:id="A50090-e128010">
-        <w lemma="enter" pos="vvb" xml:id="A50090-032-a-0070">Enter</w>
-        <w lemma="sergeant" pos="n2" reg="Sergeants" xml:id="A50090-032-a-0080">Serjeants</w>
-        <pc xml:id="A50090-032-a-0090">,</pc>
-        <w lemma="fortune" pos="n1" xml:id="A50090-032-a-0100">Fortune</w>
-        <pc xml:id="A50090-032-a-0110">,</pc>
-        <w lemma="Hoyst" pos="nn1" xml:id="A50090-032-a-0120">Hoyst</w>
-        <pc xml:id="A50090-032-a-0130">,</pc>
-        <w lemma="penury" pos="n1" reg="Penury" xml:id="A50090-032-a-0140">Penurie</w>
-        <pc unit="sentence" xml:id="A50090-032-a-0150">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e128010">
+       <w lemma="enter" pos="vvb" xml:id="A50090-032-a-0070">Enter</w>
+       <w lemma="sergeant" pos="n2" reg="Sergeants" xml:id="A50090-032-a-0080">Serjeants</w>
+       <pc xml:id="A50090-032-a-0090">,</pc>
+       <w lemma="fortune" pos="n1" xml:id="A50090-032-a-0100">Fortune</w>
+       <pc xml:id="A50090-032-a-0110">,</pc>
+       <w lemma="Hoyst" pos="nn1" xml:id="A50090-032-a-0120">Hoyst</w>
+       <pc xml:id="A50090-032-a-0130">,</pc>
+       <w lemma="penury" pos="n1" reg="Penury" xml:id="A50090-032-a-0140">Penurie</w>
+       <pc unit="sentence" xml:id="A50090-032-a-0150">.</pc>
+      </stage>
       <sp who="A50090-fortune" xml:id="A50090-e128020">
        <speaker>
         <w lemma="fortune" pos="n1" xml:id="A50090-032-a-0160">Fortune</w>
@@ -26924,18 +26900,16 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-033-b-0050">quarta</w>
        <pc unit="sentence" xml:id="A50090-033-b-0060">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e129500">
-       <stage xml:id="A50090-e129510">
-        <w lemma="enter" pos="vvb" xml:id="A50090-033-b-0070">Enter</w>
-        <w lemma="Holdfast" pos="nn1" xml:id="A50090-033-b-0080">Holdfast</w>
-        <pc xml:id="A50090-033-b-0090">,</pc>
-        <w lemma="Stargaze" pos="nn1" xml:id="A50090-033-b-0100">Stargaze</w>
-        <pc xml:id="A50090-033-b-0110">,</pc>
-        <w lemma="and" pos="cc" xml:id="A50090-033-b-0120">and</w>
-        <w lemma="Millicent" pos="nn1" xml:id="A50090-033-b-0130">Milliscent</w>
-        <pc unit="sentence" xml:id="A50090-033-b-0140">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e129510">
+       <w lemma="enter" pos="vvb" xml:id="A50090-033-b-0070">Enter</w>
+       <w lemma="Holdfast" pos="nn1" xml:id="A50090-033-b-0080">Holdfast</w>
+       <pc xml:id="A50090-033-b-0090">,</pc>
+       <w lemma="Stargaze" pos="nn1" xml:id="A50090-033-b-0100">Stargaze</w>
+       <pc xml:id="A50090-033-b-0110">,</pc>
+       <w lemma="and" pos="cc" xml:id="A50090-033-b-0120">and</w>
+       <w lemma="Millicent" pos="nn1" xml:id="A50090-033-b-0130">Milliscent</w>
+       <pc unit="sentence" xml:id="A50090-033-b-0140">.</pc>
+      </stage>
       <sp who="A50090-stargaze" xml:id="A50090-e129520">
        <speaker>
         <w lemma="Stargaze" pos="nn1" xml:id="A50090-033-b-0150">Stargaze</w>
@@ -27314,22 +27288,20 @@
        </l>
       </sp>
       <pb facs="tcp:93607:34" n="62" xml:id="A50090-034-a"/>
-      <sp who="A50090-xxxx" xml:id="A50090-e129940">
-       <stage xml:id="A50090-e129950">
-        <w lemma="enter" pos="vvb" xml:id="A50090-034-a-0010">Enter</w>
-        <w lemma="lady" pos="n1" xml:id="A50090-034-a-0020">Lady</w>
-        <pc xml:id="A50090-034-a-0030">,</pc>
-        <w lemma="Anne" pos="nn1" xml:id="A50090-034-a-0040">Anne</w>
-        <pc xml:id="A50090-034-a-0050">,</pc>
-        <w lemma="marry" pos="uh" reg="Marry" xml:id="A50090-034-a-0060">Mary</w>
-        <pc xml:id="A50090-034-a-0070">,</pc>
-        <w lemma="in" pos="acp" xml:id="A50090-034-a-0080">in</w>
-        <w lemma="course" pos="n1" xml:id="A50090-034-a-0090">course</w>
-        <w lemma="habit" pos="n1" xml:id="A50090-034-a-0100">habit</w>
-        <w lemma="weep" pos="vvg" xml:id="A50090-034-a-0110">weeping</w>
-        <pc unit="sentence" xml:id="A50090-034-a-0120">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e129950">
+       <w lemma="enter" pos="vvb" xml:id="A50090-034-a-0010">Enter</w>
+       <w lemma="lady" pos="n1" xml:id="A50090-034-a-0020">Lady</w>
+       <pc xml:id="A50090-034-a-0030">,</pc>
+       <w lemma="Anne" pos="nn1" xml:id="A50090-034-a-0040">Anne</w>
+       <pc xml:id="A50090-034-a-0050">,</pc>
+       <w lemma="marry" pos="uh" reg="Marry" xml:id="A50090-034-a-0060">Mary</w>
+       <pc xml:id="A50090-034-a-0070">,</pc>
+       <w lemma="in" pos="acp" xml:id="A50090-034-a-0080">in</w>
+       <w lemma="course" pos="n1" xml:id="A50090-034-a-0090">course</w>
+       <w lemma="habit" pos="n1" xml:id="A50090-034-a-0100">habit</w>
+       <w lemma="weep" pos="vvg" xml:id="A50090-034-a-0110">weeping</w>
+       <pc unit="sentence" xml:id="A50090-034-a-0120">.</pc>
+      </stage>
       <sp who="A50090-millescent" xml:id="A50090-e129960">
        <speaker>
         <w lemma="Millescent" pos="nn1" xml:id="A50090-034-a-0130">Milliscent</w>
@@ -29372,20 +29344,18 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-036-a-1830">prima</w>
        <pc unit="sentence" xml:id="A50090-036-a-1840">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e132210">
-       <stage xml:id="A50090-e132220">
-        <w lemma="enter" pos="vvb" xml:id="A50090-036-a-1850">Enter</w>
-        <w lemma="luke" pos="nn1" xml:id="A50090-036-a-1860">Luke</w>
-        <pc xml:id="A50090-036-a-1870">,</pc>
-        <w lemma="sir" pos="n1" xml:id="A50090-036-a-1880">Sir</w>
-        <w lemma="John" pos="nn1" xml:id="A50090-036-a-1890">John</w>
-        <pc xml:id="A50090-036-a-1900">,</pc>
-        <w lemma="Lacie" pos="nn1" reg="lacy" xml:id="A50090-036-a-1910">Lacie</w>
-        <w lemma="and" pos="cc" xml:id="A50090-036-a-1920">and</w>
-        <w lemma="Plenty" pos="nn1" xml:id="A50090-036-a-1930">Plenty</w>
-        <pc unit="sentence" xml:id="A50090-036-a-1940">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e132220">
+       <w lemma="enter" pos="vvb" xml:id="A50090-036-a-1850">Enter</w>
+       <w lemma="luke" pos="nn1" xml:id="A50090-036-a-1860">Luke</w>
+       <pc xml:id="A50090-036-a-1870">,</pc>
+       <w lemma="sir" pos="n1" xml:id="A50090-036-a-1880">Sir</w>
+       <w lemma="John" pos="nn1" xml:id="A50090-036-a-1890">John</w>
+       <pc xml:id="A50090-036-a-1900">,</pc>
+       <w lemma="Lacie" pos="nn1" reg="lacy" xml:id="A50090-036-a-1910">Lacie</w>
+       <w lemma="and" pos="cc" xml:id="A50090-036-a-1920">and</w>
+       <w lemma="Plenty" pos="nn1" xml:id="A50090-036-a-1930">Plenty</w>
+       <pc unit="sentence" xml:id="A50090-036-a-1940">.</pc>
+      </stage>
       <sp who="A50090-luke" xml:id="A50090-e132230">
        <speaker>
         <w lemma="Luke" pos="nn1" xml:id="A50090-036-a-1950">Luke</w>
@@ -31639,20 +31609,18 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-039-a-0050">secunda</w>
        <pc unit="sentence" xml:id="A50090-039-a-0060">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e134670">
-       <stage xml:id="A50090-e134680">
-        <w lemma="enter" pos="vvb" xml:id="A50090-039-a-0070">Enter</w>
-        <w lemma="lord" pos="n1" xml:id="A50090-039-a-0080">Lord</w>
-        <pc xml:id="A50090-039-a-0090">,</pc>
-        <w lemma="old" pos="j" xml:id="A50090-039-a-0100">Old</w>
-        <w lemma="Goldwire" pos="nn1" xml:id="A50090-039-a-0110">Goldwire</w>
-        <pc xml:id="A50090-039-a-0120">,</pc>
-        <w lemma="and" pos="cc" xml:id="A50090-039-a-0130">and</w>
-        <w lemma="old" pos="j" xml:id="A50090-039-a-0140">Old</w>
-        <w lemma="Tradewell" pos="nn1" xml:id="A50090-039-a-0150">Tradewell</w>
-        <pc unit="sentence" xml:id="A50090-039-a-0160">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e134680">
+       <w lemma="enter" pos="vvb" xml:id="A50090-039-a-0070">Enter</w>
+       <w lemma="lord" pos="n1" xml:id="A50090-039-a-0080">Lord</w>
+       <pc xml:id="A50090-039-a-0090">,</pc>
+       <w lemma="old" pos="j" xml:id="A50090-039-a-0100">Old</w>
+       <w lemma="Goldwire" pos="nn1" xml:id="A50090-039-a-0110">Goldwire</w>
+       <pc xml:id="A50090-039-a-0120">,</pc>
+       <w lemma="and" pos="cc" xml:id="A50090-039-a-0130">and</w>
+       <w lemma="old" pos="j" xml:id="A50090-039-a-0140">Old</w>
+       <w lemma="Tradewell" pos="nn1" xml:id="A50090-039-a-0150">Tradewell</w>
+       <pc unit="sentence" xml:id="A50090-039-a-0160">.</pc>
+      </stage>
       <sp who="A50090-lord" xml:id="A50090-e134690">
        <speaker>
         <w lemma="lord" pos="n1" xml:id="A50090-039-a-0170">Lord</w>
@@ -33076,16 +33044,14 @@
        <w lemma="n/a" pos="fla" xml:id="A50090-040-b-0690">ultima</w>
        <pc unit="sentence" xml:id="A50090-040-b-0700">.</pc>
       </head>
-      <sp who="A50090-xxxx" xml:id="A50090-e136230">
-       <stage xml:id="A50090-e136240">
-        <w lemma="enter" pos="vvb" xml:id="A50090-040-b-0710">Enter</w>
-        <w lemma="sir" pos="n1" xml:id="A50090-040-b-0720">Sir</w>
-        <w lemma="John" pos="nn1" xml:id="A50090-040-b-0730">John</w>
-        <w lemma="and" pos="cc" xml:id="A50090-040-b-0740">and</w>
-        <w lemma="Holdfast" pos="nn1" xml:id="A50090-040-b-0750">Holdfast</w>
-        <pc unit="sentence" xml:id="A50090-040-b-0760">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A50090-e136240">
+       <w lemma="enter" pos="vvb" xml:id="A50090-040-b-0710">Enter</w>
+       <w lemma="sir" pos="n1" xml:id="A50090-040-b-0720">Sir</w>
+       <w lemma="John" pos="nn1" xml:id="A50090-040-b-0730">John</w>
+       <w lemma="and" pos="cc" xml:id="A50090-040-b-0740">and</w>
+       <w lemma="Holdfast" pos="nn1" xml:id="A50090-040-b-0750">Holdfast</w>
+       <pc unit="sentence" xml:id="A50090-040-b-0760">.</pc>
+      </stage>
       <sp who="A50090-john" xml:id="A50090-e136250">
        <speaker>
         <w lemma="sir" pos="n1" xml:id="A50090-040-b-0770">Sir</w>
@@ -35585,10 +35551,6 @@
      <item n="17" xml:id="A50090-dingem">
       <seg type="character_name">A50090-dingem</seg>
       <seg type="speech_count">17</seg>
-     </item>
-     <item n="16" xml:id="A50090-xxxx">
-      <seg type="character_name">A50090-xxxx</seg>
-      <seg type="speech_count">16</seg>
      </item>
      <item n="16" xml:id="A50090-hoyst">
       <seg type="character_name">A50090-hoyst</seg>
