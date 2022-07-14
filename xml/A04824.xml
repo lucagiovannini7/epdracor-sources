@@ -19187,8 +19187,6 @@
       <w lemma="thence" pos="av" xml:id="A04824-023-b-0570">thence</w>
       <pc unit="sentence" xml:id="A04824-023-b-0580">.</pc>
      </l>
-    </sp>
-    <sp who="A04824-missing" xml:id="A04824-e113420">
      <l xml:id="A04824-e113430">
       <w lemma="the" pos="d" xml:id="A04824-023-b-0590">The</w>
       <w lemma="fierce" pos="jc" reg="fiercer" xml:id="A04824-023-b-0600">feircer</w>
@@ -33109,18 +33107,16 @@
       <w join="left" lemma="it" pos="pn" xml:id="A04824-037-b-4381">'t</w>
       <pc unit="sentence" xml:id="A04824-037-b-4390">.</pc>
      </p>
-    </sp>
-    <stage xml:id="A04824-e121440">
-     <w lemma="the" pos="d" xml:id="A04824-037-b-4400">The</w>
-     <w lemma="soldier" pos="n2" reg="Soldiers" xml:id="A04824-037-b-4410">Souldiers</w>
-     <w lemma="retire" pos="vvi" reg="retire" xml:id="A04824-037-b-4420">retyre</w>
-     <pc xml:id="A04824-037-b-4430">,</pc>
-     <w lemma="and" pos="cc" xml:id="A04824-037-b-4440">and</w>
-     <w lemma="go" pos="vvi" reg="go" xml:id="A04824-037-b-4450">goe</w>
-     <w lemma="out" pos="av" xml:id="A04824-037-b-4460">out</w>
-     <pc unit="sentence" xml:id="A04824-037-b-4470">.</pc>
-    </stage>
-    <sp who="A04824-missing" xml:id="A04824-e121450">
+     <stage xml:id="A04824-e121440">
+      <w lemma="the" pos="d" xml:id="A04824-037-b-4400">The</w>
+      <w lemma="soldier" pos="n2" reg="Soldiers" xml:id="A04824-037-b-4410">Souldiers</w>
+      <w lemma="retire" pos="vvi" reg="retire" xml:id="A04824-037-b-4420">retyre</w>
+      <pc xml:id="A04824-037-b-4430">,</pc>
+      <w lemma="and" pos="cc" xml:id="A04824-037-b-4440">and</w>
+      <w lemma="go" pos="vvi" reg="go" xml:id="A04824-037-b-4450">goe</w>
+      <w lemma="out" pos="av" xml:id="A04824-037-b-4460">out</w>
+      <pc unit="sentence" xml:id="A04824-037-b-4470">.</pc>
+     </stage>
      <p xml:id="A04824-e121460">
       <w lemma="these" pos="d" xml:id="A04824-037-b-4480">These</w>
       <w lemma="villain" pos="n2" xml:id="A04824-037-b-4490">Villains</w>
@@ -39796,28 +39792,32 @@
      <w lemma="attendant" pos="n2-j" xml:id="A04824-045-b-2360">attendants</w>
      <pc unit="sentence" xml:id="A04824-045-b-2370">.</pc>
     </stage>
-    <p xml:id="A04824-e124190">
-     <w lemma="people" pos="n1" rend="hi" xml:id="A04824-045-b-2380">People</w>
-     <w lemma="Jove" pos="nn1" rend="hi" xml:id="A04824-045-b-2390">Jove</w>
-     <pc rend="hi" xml:id="A04824-045-b-2400">,</pc>
-     <w lemma="Neptune" pos="nn1" rend="hi" xml:id="A04824-045-b-2410">Neptune</w>
-     <pc rend="hi" xml:id="A04824-045-b-2420">,</pc>
-     <w lemma="Apollo" pos="nn1" rend="hi" xml:id="A04824-045-b-2430">Apollo</w>
-     <pc rend="hi" xml:id="A04824-045-b-2440">,</pc>
-     <w lemma="and" pos="cc" xml:id="A04824-045-b-2450">and</w>
-     <w lemma="the" pos="d" xml:id="A04824-045-b-2460">the</w>
-     <w lemma="god" pos="n2" xml:id="A04824-045-b-2470">gods</w>
-     <w lemma="of" pos="acp" xml:id="A04824-045-b-2480">of</w>
-     <w lemma="Greece" pos="nn1" rend="hi" xml:id="A04824-045-b-2490">Greece</w>
-     <pc xml:id="A04824-045-b-2500">;</pc>
-     <w lemma="preserve" pos="vvb" xml:id="A04824-045-b-2510">preserve</w>
-     <pc xml:id="A04824-045-b-2520">,</pc>
-     <w lemma="and" pos="cc" xml:id="A04824-045-b-2530">and</w>
-     <w lemma="bless" pos="vvb" reg="bless" xml:id="A04824-045-b-2540">blesse</w>
-     <w lemma="the" pos="d" xml:id="A04824-045-b-2550">the</w>
-     <w lemma="king" pos="n1" xml:id="A04824-045-b-2560">King</w>
-     <pc unit="sentence" xml:id="A04824-045-b-2570">.</pc>
-    </p>
+    <sp xml:id="A04824-e124181">
+     <speaker>
+      <w lemma="people" pos="n1" rend="hi" xml:id="A04824-045-b-2380">People</w>
+     </speaker>
+     <p xml:id="A04824-e124190">
+      <w lemma="Jove" pos="nn1" rend="hi" xml:id="A04824-045-b-2390">Jove</w>
+      <pc rend="hi" xml:id="A04824-045-b-2400">,</pc>
+      <w lemma="Neptune" pos="nn1" rend="hi" xml:id="A04824-045-b-2410">Neptune</w>
+      <pc rend="hi" xml:id="A04824-045-b-2420">,</pc>
+      <w lemma="Apollo" pos="nn1" rend="hi" xml:id="A04824-045-b-2430">Apollo</w>
+      <pc rend="hi" xml:id="A04824-045-b-2440">,</pc>
+      <w lemma="and" pos="cc" xml:id="A04824-045-b-2450">and</w>
+      <w lemma="the" pos="d" xml:id="A04824-045-b-2460">the</w>
+      <w lemma="god" pos="n2" xml:id="A04824-045-b-2470">gods</w>
+      <w lemma="of" pos="acp" xml:id="A04824-045-b-2480">of</w>
+      <w lemma="Greece" pos="nn1" rend="hi" xml:id="A04824-045-b-2490">Greece</w>
+      <pc xml:id="A04824-045-b-2500">;</pc>
+      <w lemma="preserve" pos="vvb" xml:id="A04824-045-b-2510">preserve</w>
+      <pc xml:id="A04824-045-b-2520">,</pc>
+      <w lemma="and" pos="cc" xml:id="A04824-045-b-2530">and</w>
+      <w lemma="bless" pos="vvb" reg="bless" xml:id="A04824-045-b-2540">blesse</w>
+      <w lemma="the" pos="d" xml:id="A04824-045-b-2550">the</w>
+      <w lemma="king" pos="n1" xml:id="A04824-045-b-2560">King</w>
+      <pc unit="sentence" xml:id="A04824-045-b-2570">.</pc>
+     </p>
+    </sp>
     <sp who="A04824-king" xml:id="A04824-e124200">
      <speaker>
       <w lemma="king" pos="n1" xml:id="A04824-045-b-2580">King</w>
