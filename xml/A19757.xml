@@ -27768,9 +27768,11 @@
         <w lemma="but" pos="acp" xml:id="A19757-031-a-3110">but</w>
         <w lemma="death" pos="n1" xml:id="A19757-031-a-3120">death</w>
         <pc xml:id="A19757-031-a-3130">,</pc>
-        <w lemma="n/a" pos="fla" rend="hi" xml:id="A19757-031-a-3140">moritur</w>
-        <pc rend="hi" unit="sentence" xml:id="A19757-031-a-3150"/>
        </l>
+       <stage xml:id="A19757-e124511">
+         <w lemma="n/a" pos="fla" rend="hi" xml:id="A19757-031-a-3140">moritur</w>
+         <pc rend="hi" unit="sentence" xml:id="A19757-031-a-3150"/>
+       </stage>
       </sp>
       <sp who="A19757-ward" xml:id="A19757-e124520">
        <speaker>
