@@ -7981,7 +7981,7 @@
       </l>
      </sp>
      <pb facs="tcp:178306:17" n="20" xml:id="B07101-017-a"/>
-     <sp who="FB07101-guard_1" xml:id="B07101-e106190">
+     <sp who="B07101-guard_1" xml:id="B07101-e106190">
       <speaker>
        <w lemma="1" pos="crd" xml:id="B07101-017-a-0010">1</w>
        <w lemma="Gu." pos="ab" rend="hi" xml:id="B07101-017-a-0020">Gu.</w>
@@ -8061,7 +8061,7 @@
        <pc unit="sentence" xml:id="B07101-017-a-0600">.</pc>
       </p>
      </sp>
-     <sp who="FB07101-guard_2" xml:id="B07101-e106250">
+     <sp who="B07101-guard_2" xml:id="B07101-e106250">
       <speaker>
        <w lemma="2" pos="crd" xml:id="B07101-017-a-0610">2</w>
        <w lemma="Gu." pos="ab" rend="hi" xml:id="B07101-017-a-0620">Gu.</w>
