@@ -19010,7 +19010,7 @@
      </sp>
      <sp who="A04633-unassigned" xml:id="A04633_01-e108590">
       <speaker>
-       <w lemma="ERA." pos="ab" xml:id="A04633-020-b-01320">ERA.</w>
+       <w lemma="ERA." pos="ab" xml:id="A04633-020-b-01320">TRA.</w>
        <pc unit="sentence" xml:id="A04633-020-b-01330"/>
       </speaker>
       <p xml:id="A04633_01-e108600">
@@ -55657,6 +55657,7 @@
      <sp who="A04633-pup" xml:id="A04633_01-e130850">
       <speaker>
        <w lemma="PVP." pos="ab" xml:id="A04633-048-a-03670">PVP.</w>
+       <w lemma="p" pos="sy" xml:id="A04633-048-a-03671">P</w>
        <pc unit="sentence" xml:id="A04633-048-a-03680"/>
       </speaker>
       <p xml:id="A04633_01-e130860">

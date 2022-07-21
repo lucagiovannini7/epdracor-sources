@@ -4068,12 +4068,12 @@
         <pc unit="sentence" xml:id="A02227-006-b-0600">.</pc>
        </l>
       </sp>
-      <lg xml:id="A02227-e103530">
-       <head>
+      <sp xml:id="A02227-e103530">
+       <speaker>
         <w lemma="chorus" pos="n1" xml:id="A02227-006-b-0610">Chorus</w>
         <w lemma="n/a" pos="fla" xml:id="A02227-006-b-0620">Sacerdotum</w>
         <pc unit="sentence" xml:id="A02227-006-b-0630">.</pc>
-       </head>
+       </speaker>
        <l xml:id="A02227-e103540">
         <w lemma="o" pos="uh" xml:id="A02227-006-b-0640">O</w>
         <w lemma="wearisome" pos="j" xml:id="A02227-006-b-0650">wearisome</w>
@@ -4337,7 +4337,7 @@
         <w lemma="book" pos="n2" reg="books" xml:id="A02227-006-b-2770">bookes</w>
         <pc unit="sentence" xml:id="A02227-006-b-2780">.</pc>
        </l>
-      </lg>
+      </sp>
      </div>
     </div>
     <div n="2" type="act" xml:id="A02227-e103780">
@@ -9479,13 +9479,11 @@
        <w lemma="I." pos="ord" xml:id="A02227-012-b-0980">I.</w>
        <pc unit="sentence" xml:id="A02227-012-b-0990"/>
       </head>
-      <sp who="A02227-xxxx" xml:id="A02227-e108660">
-       <stage xml:id="A02227-e108670">
-        <w lemma="Achmatt" pos="nn1" xml:id="A02227-012-b-1000">Achmatt</w>
-        <w lemma="alone" pos="av-j" xml:id="A02227-012-b-1010">alone</w>
-        <pc unit="sentence" xml:id="A02227-012-b-1020">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A02227-e108670">
+       <w lemma="Achmatt" pos="nn1" xml:id="A02227-012-b-1000">Achmatt</w>
+       <w lemma="alone" pos="av-j" xml:id="A02227-012-b-1010">alone</w>
+       <pc unit="sentence" xml:id="A02227-012-b-1020">.</pc>
+      </stage>
       <sp who="A02227-acmat" xml:id="A02227-e108680">
        <speaker>
         <w lemma="Achmat." pos="ab" xml:id="A02227-012-b-1030">Achmat.</w>
@@ -10413,15 +10411,13 @@
        <w lemma="2." pos="crd" xml:id="A02227-013-b-2430">2.</w>
        <pc unit="sentence" xml:id="A02227-013-b-2440"/>
       </head>
-      <sp who="A02227-xxxx" xml:id="A02227-e109520">
-       <stage xml:id="A02227-e109530">
-        <w lemma="enter" pos="vvb" xml:id="A02227-013-b-2450">Enter</w>
-        <w lemma="Solyman" pos="nn1" xml:id="A02227-013-b-2460">Solyman</w>
-        <w lemma="and" pos="cc" xml:id="A02227-013-b-2470">and</w>
-        <w lemma="Acmat" pos="nn1" xml:id="A02227-013-b-2480">Acmat</w>
-        <pc unit="sentence" xml:id="A02227-013-b-2490">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A02227-e109530">
+       <w lemma="enter" pos="vvb" xml:id="A02227-013-b-2450">Enter</w>
+       <w lemma="Solyman" pos="nn1" xml:id="A02227-013-b-2460">Solyman</w>
+       <w lemma="and" pos="cc" xml:id="A02227-013-b-2470">and</w>
+       <w lemma="Acmat" pos="nn1" xml:id="A02227-013-b-2480">Acmat</w>
+       <pc unit="sentence" xml:id="A02227-013-b-2490">.</pc>
+      </stage>
       <sp who="A02227-soliman" xml:id="A02227-e109540">
        <speaker>
         <w lemma="Soly." pos="ab" xml:id="A02227-013-b-2500">Soly.</w>
@@ -12105,23 +12101,21 @@
      <div n="3" type="scene" xml:id="A02227-e111110">
       <pb facs="tcp:3586:16" xml:id="A02227-016-a"/>
       <head>
-       <w lemma="Acuts" pos="nn1" xml:id="A02227-016-a-0010">Acuts</w>
+       <w lemma="Actus" pos="nn1" xml:id="A02227-016-a-0010">Actus</w>
        <w lemma="n/a" pos="fla" xml:id="A02227-016-a-0020">tertius</w>
        <pc xml:id="A02227-016-a-0030">,</pc>
        <w lemma="n/a" pos="fla" xml:id="A02227-016-a-0040">Scena</w>
        <w lemma="n/a" pos="fla" xml:id="A02227-016-a-0050">tertia</w>
        <pc unit="sentence" xml:id="A02227-016-a-0060">.</pc>
       </head>
-      <sp who="A02227-xxxx" xml:id="A02227-e111120">
-       <stage xml:id="A02227-e111130">
-        <w lemma="enter" pos="vvb" xml:id="A02227-016-a-0070">Enter</w>
-        <w lemma="Solyman" pos="nn1" xml:id="A02227-016-a-0080">Solyman</w>
-        <pc xml:id="A02227-016-a-0090">,</pc>
-        <w lemma="Beliarby" pos="nn1" xml:id="A02227-016-a-0100">Beliarby</w>
-        <w lemma="n/a" pos="fla" xml:id="A02227-016-a-0110">nuntius</w>
-        <pc unit="sentence" xml:id="A02227-016-a-0130">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A02227-e111130">
+       <w lemma="enter" pos="vvb" xml:id="A02227-016-a-0070">Enter</w>
+       <w lemma="Solyman" pos="nn1" xml:id="A02227-016-a-0080">Solyman</w>
+       <pc xml:id="A02227-016-a-0090">,</pc>
+       <w lemma="Beliarby" pos="nn1" xml:id="A02227-016-a-0100">Beliarby</w>
+       <w lemma="n/a" pos="fla" xml:id="A02227-016-a-0110">nuntius</w>
+       <pc unit="sentence" xml:id="A02227-016-a-0130">.</pc>
+      </stage>
       <sp who="A02227-beliarby" xml:id="A02227-e111140">
        <speaker>
         <w lemma="Beli." pos="ab" xml:id="A02227-016-a-0140">Beli.</w>
@@ -12437,15 +12431,13 @@
        <w lemma="n/a" pos="fla" xml:id="A02227-016-a-2590">quarta</w>
        <pc unit="sentence" xml:id="A02227-016-a-2600">.</pc>
       </head>
-      <sp who="A02227-xxxx" xml:id="A02227-e111440">
-       <stage xml:id="A02227-e111450">
-        <w lemma="enter" pos="vvb" xml:id="A02227-016-a-2610">Enter</w>
-        <w lemma="Rossa" pos="nn1" xml:id="A02227-016-a-2620">Rossa</w>
-        <w lemma="and" pos="cc" xml:id="A02227-016-a-2630">and</w>
-        <w lemma="Solyman" pos="nn1" xml:id="A02227-016-a-2640">Solyman</w>
-        <pc unit="sentence" xml:id="A02227-016-a-2650">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A02227-e111450">
+       <w lemma="enter" pos="vvb" xml:id="A02227-016-a-2610">Enter</w>
+       <w lemma="Rossa" pos="nn1" xml:id="A02227-016-a-2620">Rossa</w>
+       <w lemma="and" pos="cc" xml:id="A02227-016-a-2630">and</w>
+       <w lemma="Solyman" pos="nn1" xml:id="A02227-016-a-2640">Solyman</w>
+       <pc unit="sentence" xml:id="A02227-016-a-2650">.</pc>
+      </stage>
       <sp who="A02227-rossa" xml:id="A02227-e111460">
        <speaker>
         <w lemma="Rossa" pos="nn1" xml:id="A02227-016-a-2660">Rossa</w>
@@ -14272,15 +14264,13 @@
        <w lemma="n/a" pos="fla" xml:id="A02227-018-b-0040">quinta</w>
        <pc unit="sentence" xml:id="A02227-018-b-0050">.</pc>
       </head>
-      <sp who="A02227-xxxx" xml:id="A02227-e113170">
-       <stage xml:id="A02227-e113180">
-        <w lemma="enter" pos="vvb" xml:id="A02227-018-b-0060">Enter</w>
-        <w lemma="priest" pos="n1" xml:id="A02227-018-b-0070">Priest</w>
-        <w lemma="and" pos="cc" xml:id="A02227-018-b-0080">&amp;</w>
-        <w lemma="Mustapha" pos="nn1" xml:id="A02227-018-b-0090">Mustapha</w>
-        <pc unit="sentence" xml:id="A02227-018-b-0100">.</pc>
-       </stage>
-      </sp>
+      <stage xml:id="A02227-e113180">
+       <w lemma="enter" pos="vvb" xml:id="A02227-018-b-0060">Enter</w>
+       <w lemma="priest" pos="n1" xml:id="A02227-018-b-0070">Priest</w>
+       <w lemma="and" pos="cc" xml:id="A02227-018-b-0080">&amp;</w>
+       <w lemma="Mustapha" pos="nn1" xml:id="A02227-018-b-0090">Mustapha</w>
+       <pc unit="sentence" xml:id="A02227-018-b-0100">.</pc>
+      </stage>
       <sp who="A02227-priest" xml:id="A02227-e113190">
        <speaker>
         <w lemma="Pr." pos="ab" xml:id="A02227-018-b-0110">Pr.</w>
@@ -16642,12 +16632,12 @@
         <pc unit="sentence" xml:id="A02227-021-a-1670">.</pc>
        </l>
       </sp>
-      <lg xml:id="A02227-e115370">
-       <head>
+      <sp xml:id="A02227-e115370">
+       <speaker>
         <w lemma="chorus" pos="n1" xml:id="A02227-021-a-1680">Chorus</w>
         <w lemma="Tartarorum" pos="nn1" xml:id="A02227-021-a-1690">Tartarorum</w>
         <pc unit="sentence" xml:id="A02227-021-a-1700">.</pc>
-       </head>
+       </speaker>
        <l xml:id="A02227-e115380">
         <w lemma="religion" pos="n1" xml:id="A02227-021-a-1710">Religion</w>
         <pc xml:id="A02227-021-a-1720">,</pc>
@@ -17014,7 +17004,7 @@
         <w lemma="joy" pos="n1" reg="joy" xml:id="A02227-021-b-1690">ioy</w>
         <pc unit="sentence" xml:id="A02227-021-b-1700">.</pc>
        </l>
-      </lg>
+      </sp>
      </div>
     </div>
     <div n="4" type="act" xml:id="A02227-e115710">
@@ -17029,12 +17019,12 @@
        <w lemma="I." pos="ord" xml:id="A02227-021-b-1770">I.</w>
        <pc unit="sentence" xml:id="A02227-021-b-1780"/>
       </head>
-      <lg xml:id="A02227-e115730">
-       <head>
+      <sp xml:id="A02227-e115730">
+       <speaker>
         <w lemma="Zanger" pos="nn1" xml:id="A02227-021-b-1790">Zanger</w>
         <w lemma="alone" pos="av-j" xml:id="A02227-021-b-1800">alone</w>
         <pc unit="sentence" xml:id="A02227-021-b-1810">.</pc>
-       </head>
+       </speaker>
        <l xml:id="A02227-e115740">
         <w lemma="nourish" pos="vvn" reg="Nourished" xml:id="A02227-021-b-1820">Nourisht</w>
         <w lemma="in" pos="acp" xml:id="A02227-021-b-1830">in</w>
@@ -17250,7 +17240,7 @@
         <w lemma="anguish" pos="n1" xml:id="A02227-022-a-0440">anguish</w>
         <pc unit="sentence" xml:id="A02227-022-a-0450">.</pc>
        </l>
-      </lg>
+      </sp>
      </div>
      <div n="2" type="scene" xml:id="A02227-e115930">
       <head>

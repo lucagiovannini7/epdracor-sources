@@ -27182,7 +27182,7 @@
        <pc xml:id="A07326-031-a-0450">,</pc>
       </l>
      </sp>
-     <sp>
+     <sp xml:id="A07326-e126871">
       <speaker>
        <w lemma="1." pos="crd" xml:id="A07326-031-a-0451">1.</w>
        <w lemma="Iu." pos="ab" rend="hi" xml:id="A07326-031-a-0452">Iu.</w>
@@ -27231,8 +27231,12 @@
        <w lemma="there" pos="av" xml:id="A07326-031-a-0720">there</w>
        <pc unit="sentence" xml:id="A07326-031-a-0730">?</pc>
       </l>
-      <l xml:id="A07326-e126920">
+     </sp>
+     <sp xml:id="A07326-e126911">
+      <speaker>
        <w lemma="Con." pos="ab" xml:id="A07326-031-a-0740">Con.</w>
+      </speaker>
+      <l xml:id="A07326-e126920">
        <w lemma="a" pos="d" xml:id="A07326-031-a-0750">A</w>
        <w lemma="benefactor" pos="n1" xml:id="A07326-031-a-0760">benefactor</w>
        <pc xml:id="A07326-031-a-0770">,</pc>
@@ -27255,7 +27259,7 @@
        <pc unit="sentence" xml:id="A07326-031-a-0910">.</pc>
       </l>
      </sp>
-     <sp>
+     <sp xml:id="A07326-e126931">
       <speaker>
        <w lemma="ab" pos="ab" reg="ab" xml:id="A07326-031-a-0921">Vir.</w>
        <pc unit="sentence" xml:id="A07326-031-a-0930"/>

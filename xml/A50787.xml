@@ -18140,9 +18140,11 @@
        <w lemma="be" pos="vvn" reg="been" xml:id="A50787-017-b-3880">bin</w>
        <w lemma="forget" pos="vvn" xml:id="A50787-017-b-3890">forgotten</w>
        <pc unit="sentence" xml:id="A50787-017-b-3900">.</pc>
+      </p>
+      <stage xml:id="A50787-e111831">
        <w lemma="n/a" pos="fla" rend="hi" xml:id="A50787-017-b-3910">Exeunt</w>
        <pc rend="hi" unit="sentence" xml:id="A50787-017-b-3920">.</pc>
-      </p>
+      </stage>
      </sp>
     </div>
     <div n="4" type="act" xml:id="A50787-e111840">
@@ -19548,8 +19550,14 @@
        <w lemma="be" pos="vvz" xml:id="A50787-019-a-1510">is</w>
        <w lemma="depart" pos="vvn" xml:id="A50787-019-a-1520">departed</w>
        <pc unit="sentence" xml:id="A50787-019-a-1530">.</pc>
+      </p>
+     </sp>
+     <sp who="A50787-cresssingham" xml:id="A50787-e112551">
+      <speaker>
        <w lemma="Cress" pos="nn1" rend="hi" xml:id="A50787-019-a-1540">Cress</w>
        <pc rend="hi" unit="sentence" xml:id="A50787-019-a-1550">.</pc>
+      </speaker>
+      <p xml:id="A50787-e112552">
        <w lemma="dead" pos="j" xml:id="A50787-019-a-1560">Dead</w>
        <pc unit="sentence" xml:id="A50787-019-a-1570">?</pc>
       </p>

@@ -18103,19 +18103,16 @@
         <w lemma="thus" pos="av" xml:id="A03496-020-b-1030">thus</w>
         <pc xml:id="A03496-020-b-1040">,</pc>
         <quote xml:id="A03496-e109780">
-         <l xml:id="A03496-e109790">
-          <seg xml:id="A03496-e109800" xml:lang="unk">
-           <w lemma="{non-roman}" pos="zz" xml:id="A03496-020-b-1050">{non-Roman}</w>
-           <w lemma="{non-roman}" pos="zz" xml:id="A03496-020-b-1060">{non-Roman}</w>
-           <w lemma="{non-roman}" pos="zz" xml:id="A03496-020-b-1070">{non-Roman}</w>
-          </seg>
+         <l xml:id="A03496-e109790" xml:lang="gre">
+          <w lemma="Ἥ" pos="zz" xml:id="A03496-020-b-1050">Ἥ</w>
+          <w lemma="Ταντάλου" pos="zz" xml:id="A03496-020-b-1060">Ταντάλου</w>
+          <w lemma="ποτ'ἔση" pos="zz" xml:id="A03496-020-b-1070">ποτ'ἔση</w>
          </l>
-         <l xml:id="A03496-e109810">
-          <seg xml:id="A03496-e109820" xml:lang="unk">
-           <w lemma="{non-roman}" pos="zz" xml:id="A03496-020-b-1080">{non-Roman}</w>
-           <w lemma="{non-roman}" pos="zz" xml:id="A03496-020-b-1090">{non-Roman}</w>
-           <w lemma="{non-roman}" pos="zz" xml:id="A03496-020-b-1100">{non-Roman}</w>
-          </seg>
+         <l xml:id="A03496-e109810" xml:lang="gre">
+          <w lemma="Λίθος" pos="zz" xml:id="A03496-020-b-1080">Λίθος</w>
+          <w lemma="φρογῶν" pos="zz" xml:id="A03496-020-b-1090">φρογῶν</w>
+          <w lemma="ἐν" pos="zz" xml:id="A03496-020-b-1100">ἐν</w>
+          <w lemma="ὄχθαιςἐν" pos="zz" xml:id="A03496-020-b-1101">ὄχθαις</w>
           <pc unit="sentence" xml:id="A03496-020-b-1110">.</pc>
          </l>
         </quote>
@@ -20318,13 +20315,15 @@
         <w lemma="for" pos="acp" xml:id="A03496-022-b-3630">for</w>
         <w lemma="astronomia" pos="nng1" rend="hi" xml:id="A03496-022-b-3640">Astronomia's</w>
         <pc rend="hi" unit="sentence" xml:id="A03496-022-b-3650">?</pc>
-        <pc join="right" rend="hi" xml:id="A03496-022-b-3660">[</pc>
-        <w lemma="he" pos="pns" reg="he" rend="hi" xml:id="A03496-022-b-3670">hee</w>
-        <w lemma="speak" pos="vvd" reg="spoke" rend="hi" xml:id="A03496-022-b-3680">spake</w>
-        <w lemma="that" pos="cs" rend="hi" xml:id="A03496-022-b-3690">that</w>
-        <w lemma="to" pos="acp" rend="hi" xml:id="A03496-022-b-3700">to</w>
-        <w lemma="himself" pos="pr" reg="himself" rend="hi" xml:id="A03496-022-b-3710">himselfe</w>
-        <pc rend="hi" xml:id="A03496-022-b-3720">]</pc>
+        <stage xml:id="A03496-e110931">
+         <pc join="right" rend="hi" xml:id="A03496-022-b-3660">[</pc>
+         <w lemma="he" pos="pns" reg="he" rend="hi" xml:id="A03496-022-b-3670">hee</w>
+         <w lemma="speak" pos="vvd" reg="spoke" rend="hi" xml:id="A03496-022-b-3680">spake</w>
+         <w lemma="that" pos="cs" rend="hi" xml:id="A03496-022-b-3690">that</w>
+         <w lemma="to" pos="acp" rend="hi" xml:id="A03496-022-b-3700">to</w>
+         <w lemma="himself" pos="pr" reg="himself" rend="hi" xml:id="A03496-022-b-3710">himselfe</w>
+         <pc rend="hi" xml:id="A03496-022-b-3720">]</pc>
+        </stage>
         <w lemma="sir" pos="n1" xml:id="A03496-022-b-3730">Sir</w>
         <pc xml:id="A03496-022-b-3740">,</pc>
         <w lemma="I" pos="pns" xml:id="A03496-022-b-3750">I</w>
@@ -31714,17 +31713,17 @@
          <pc unit="sentence" xml:id="A03496-034-a-0730">.</pc>
         </stage>
        </p>
-       <stage xml:id="A03496-e120070">
+       <p xml:id="A03496-e120070">
         <w lemma="Anacreon" pos="nng1" reg="Anacreon's" xml:id="A03496-034-a-0740">ANACREONS</w>
-        <seg xml:id="A03496-e120080" xml:lang="unk">
-         <w lemma="{non-roman}" pos="zz" xml:id="A03496-034-a-0750">{non-Roman}</w>
-         <w lemma="{non-roman}" pos="zz" xml:id="A03496-034-a-0760">{non-Roman}</w>
-         <w lemma="{non-roman}" pos="zz" xml:id="A03496-034-a-0770">{non-Roman}</w>
+        <seg xml:id="A03496-e120080" xml:lang="gre">
+         <w lemma="Ἠγῆ" pos="zz" xml:id="A03496-034-a-0750">Ἠγῆ</w>
+         <w lemma="γέλαινα" pos="zz" xml:id="A03496-034-a-0760">γέλαινα</w>
+         <w lemma="πίνει" pos="zz" xml:id="A03496-034-a-0770">πίνει</w>
         </seg>
         <pc xml:id="A03496-034-a-0780">,</pc>
         <w lemma="etc." pos="av" reg="etc." xml:id="A03496-034-a-0790">&amp;c.</w>
         <pc unit="sentence" xml:id="A03496-034-a-0800"/>
-       </stage>
+       </p>
        <p xml:id="A03496-e120090">
         <w lemma="translate" pos="vvn" xml:id="A03496-034-a-0810">Translated</w>
         <w lemma="by" pos="acp" xml:id="A03496-034-a-0820">by</w>

@@ -8913,24 +8913,26 @@
        </item>
       </list>
      </stage>
-     <l xml:id="A37285-e109050">
-      <w lemma="well" orig="VVEll" pos="uh-mi" xml:id="A37285-015-b-1710">WEll</w>
-      <w lemma="meet" pos="vvd" xml:id="A37285-015-b-1720">met</w>
-      <w lemma="fair" pos="j" reg="fair" xml:id="A37285-015-b-1730">faire</w>
-      <w lemma="beauty" pos="n1" xml:id="A37285-015-b-1740">beauty</w>
-      <pc xml:id="A37285-015-b-1750">,</pc>
-      <w lemma="pray" pos="vvb" xml:id="A37285-015-b-1760">pray</w>
-      <w lemma="you" pos="pn" xml:id="A37285-015-b-1770">you</w>
-      <w lemma="can" pos="vmb" xml:id="A37285-015-b-1780">can</w>
-      <w lemma="you" pos="pn" xml:id="A37285-015-b-1790">you</w>
-      <w lemma="tell" pos="vvi" xml:id="A37285-015-b-1800">tell</w>
-     </l>
-     <l xml:id="A37285-e109060">
-      <w lemma="news" pos="n1" xml:id="A37285-015-b-1810">News</w>
-      <w lemma="of" pos="acp" xml:id="A37285-015-b-1820">of</w>
-      <w lemma="Meletus" pos="nn1" rend="hi" xml:id="A37285-015-b-1830">Meletus</w>
-      <pc rend="hi" unit="sentence" xml:id="A37285-015-b-1840">?</pc>
-     </l>
+     <sp who="A37289-arethusa" xml:id="A37285-e109041">
+      <l xml:id="A37285-e109050">
+       <w lemma="well" orig="VVEll" pos="uh-mi" xml:id="A37285-015-b-1710">WEll</w>
+       <w lemma="meet" pos="vvd" xml:id="A37285-015-b-1720">met</w>
+       <w lemma="fair" pos="j" reg="fair" xml:id="A37285-015-b-1730">faire</w>
+       <w lemma="beauty" pos="n1" xml:id="A37285-015-b-1740">beauty</w>
+       <pc xml:id="A37285-015-b-1750">,</pc>
+       <w lemma="pray" pos="vvb" xml:id="A37285-015-b-1760">pray</w>
+       <w lemma="you" pos="pn" xml:id="A37285-015-b-1770">you</w>
+       <w lemma="can" pos="vmb" xml:id="A37285-015-b-1780">can</w>
+       <w lemma="you" pos="pn" xml:id="A37285-015-b-1790">you</w>
+       <w lemma="tell" pos="vvi" xml:id="A37285-015-b-1800">tell</w>
+      </l>
+      <l xml:id="A37285-e109060">
+       <w lemma="news" pos="n1" xml:id="A37285-015-b-1810">News</w>
+       <w lemma="of" pos="acp" xml:id="A37285-015-b-1820">of</w>
+       <w lemma="Meletus" pos="nn1" rend="hi" xml:id="A37285-015-b-1830">Meletus</w>
+       <pc rend="hi" unit="sentence" xml:id="A37285-015-b-1840">?</pc>
+      </l>
+     </sp>
      <sp who="A37285-ulania" xml:id="A37285-e109070">
       <speaker>
        <w lemma="Vl." pos="ab" xml:id="A37285-015-b-1850">Vl.</w>
