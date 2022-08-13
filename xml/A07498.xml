@@ -2833,7 +2833,7 @@
         </l>
        </lg>
       </sp>
-      <sp who="A07498-black)bishop_pawn" xml:id="A07498-e102920">
+      <sp who="A07498-black_bishop_pawn" xml:id="A07498-e102920">
        <speaker>
         <w lemma="Black" pos="j" xml:id="A07498-006-b-0290">Black</w>
         <w lemma="B." pos="ab" xml:id="A07498-006-b-0300">B.</w>
@@ -3376,7 +3376,7 @@
         </l>
        </lg>
       </sp>
-      <sp who="A07498-black)bishop_pawn" xml:id="A07498-e103470">
+      <sp who="A07498-black_bishop_pawn" xml:id="A07498-e103470">
        <speaker>
         <w lemma="Black" pos="j" xml:id="A07498-007-a-1110">Black</w>
         <w lemma="B." pos="ab" xml:id="A07498-007-a-1120">B.</w>
@@ -3436,7 +3436,7 @@
         </l>
        </lg>
       </sp>
-      <sp who="A07498-black)bishop_pawn" xml:id="A07498-e103540">
+      <sp who="A07498-black_bishop_pawn" xml:id="A07498-e103540">
        <speaker>
         <w lemma="Black" pos="j" xml:id="A07498-007-a-1530">Black</w>
         <w lemma="B." pos="ab" xml:id="A07498-007-a-1540">B.</w>
@@ -3651,7 +3651,7 @@
         </l>
        </lg>
       </sp>
-      <sp who="A07498-black)bishop_pawn" xml:id="A07498-e103800">
+      <sp who="A07498-black_bishop_pawn" xml:id="A07498-e103800">
        <speaker>
         <w lemma="Black" pos="j" xml:id="A07498-007-a-3030">Black</w>
         <w lemma="B." pos="ab" xml:id="A07498-007-a-3040">B.</w>
@@ -32662,9 +32662,9 @@
       <seg type="character_name">A07498-white_knight</seg>
       <seg type="speech_count">44</seg>
      </item>
-     <item n="36" xml:id="A07498-Black_bishop_pawn">
-      <seg type="character_name">black_bishop_pawn</seg>
-      <seg type="speech_count">36</seg>
+     <item n="40" xml:id="A07498-black_bishop_pawn">
+      <seg type="character_name">A07498-black_bishop_pawn</seg>
+      <seg type="speech_count">40</seg>
      </item>
      <item n="30" xml:id="A07498-Black_knight">
       <seg type="character_name">black_knight</seg>
@@ -32720,10 +32720,6 @@
      </item>
      <item n="4" xml:id="A07498-fat_bishop">
       <seg type="character_name">fat_bishop</seg>
-      <seg type="speech_count">4</seg>
-     </item>
-     <item n="4" xml:id="A07498-black_bishop_pawn">
-      <seg type="character_name">A07498-black)bishop_pawn</seg>
       <seg type="speech_count">4</seg>
      </item>
      <item n="3" xml:id="A07498-white_knight_pawn">

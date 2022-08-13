@@ -19091,7 +19091,7 @@
       <pc xml:id="A02800-022-b-0700">,</pc>
      </l>
     </sp>
-    <sp who="A02800-a;;" xml:id="A02800-e115280">
+    <sp who="A02800-all" xml:id="A02800-e115280">
      <speaker>
       <w lemma="all" pos="d" xml:id="A02800-022-b-0710">All</w>
       <w lemma="sister" pos="n2" xml:id="A02800-022-b-0720">sisters</w>

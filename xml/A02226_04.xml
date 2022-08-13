@@ -24548,7 +24548,7 @@
          </l>
         </lg>
        </sp>
-       <sp who="A02226-the+iii" xml:id="A02226-e125840">
+       <sp who="A02226-evil" xml:id="A02226-e125840">
         <speaker>
          <w lemma="the" pos="d" xml:id="A02226-058-a-0240">The</w>
          <w lemma="three" pos="ord" xml:id="A02226-058-a-0250">Ill.</w>
@@ -24688,7 +24688,7 @@
          </l>
         </lg>
        </sp>
-       <sp who="A02226-the+iii" xml:id="A02226-e125960">
+       <sp who="A02226-evil" xml:id="A02226-e125960">
         <speaker>
          <w lemma="the" pos="d" xml:id="A02226-058-a-1360">The</w>
          <w lemma="three" pos="ord" xml:id="A02226-058-a-1370">Ill.</w>
@@ -24772,7 +24772,7 @@
          </l>
         </lg>
        </sp>
-       <sp who="A02226-the+iii" xml:id="A02226-e126040">
+       <sp who="A02226-evil" xml:id="A02226-e126040">
         <speaker>
          <w lemma="the" pos="d" xml:id="A02226-058-a-2000">The</w>
          <w lemma="three" pos="ord" xml:id="A02226-058-a-2010">Ill.</w>
@@ -35913,7 +35913,7 @@
       <seg type="speech_count">4</seg>
      </item>
      <item n="3" xml:id="A02226-m">
-      <seg type="character_name">A02226_04-the+iii</seg>
+      <seg type="character_name">A02226_04-evil</seg>
       <seg type="speech_count">3</seg>
      </item>
      <item n="3" xml:id="A02226-nuntius">

@@ -8172,7 +8172,7 @@
         <pc unit="sentence" xml:id="A27177-700-04960">?</pc>
        </l>
       </sp>
-      <sp who="A27177-G●n._2" xml:id="A27177-e108580">
+      <sp who="A27177-gentleman_2" xml:id="A27177-e108580">
        <speaker>
         <w lemma="2" pos="crd" rend="hi" xml:id="A27177-700-04970">2</w>
         <w lemma="Gent." pos="nn1" type="unclear" xml:id="A27177-700-04980">Gent.</w>
@@ -36145,8 +36145,8 @@
       <seg type="character_name">A27177_27-gentleman</seg>
       <seg type="speech_count">1</seg>
      </item>
-     <item n="1" xml:id="A27177-Gen._2">
-      <seg type="character_name">A27177_27-Gen._2</seg>
+     <item n="1" xml:id="A27177-gentleman_2">
+      <seg type="character_name">A27177_27-gentleman_2</seg>
       <seg type="speech_count">1</seg>
      </item>
     </list>

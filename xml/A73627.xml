@@ -23340,7 +23340,7 @@
        <w lemma="ghost" pos="n1" xml:id="A73627-029-a-2490">Ghost</w>
        <pc unit="sentence" xml:id="A73627-029-a-2500">.</pc>
       </stage>
-      <sp who="A73627-ghost)" xml:id="A73627-e122630">
+      <sp who="A73627-ghost" xml:id="A73627-e122630">
        <speaker>
         <w lemma="Gho." pos="ab" xml:id="A73627-029-a-2510">Gho.</w>
         <pc unit="sentence" xml:id="A73627-029-a-2520"/>
@@ -24065,7 +24065,7 @@
         <pc unit="sentence" xml:id="A73627-030-a-1970">.</pc>
        </l>
       </sp>
-      <sp who="A73627-ghost)" xml:id="A73627-e123330">
+      <sp who="A73627-ghost" xml:id="A73627-e123330">
        <speaker>
         <w lemma="Gho." pos="ab" xml:id="A73627-030-a-1980">Gho.</w>
         <pc unit="sentence" xml:id="A73627-030-a-1990"/>
@@ -24287,7 +24287,7 @@
         <pc unit="sentence" xml:id="A73627-030-b-0490">.</pc>
        </l>
       </sp>
-      <sp who="A73627-ghost)" xml:id="A73627-e123540">
+      <sp who="A73627-ghost" xml:id="A73627-e123540">
        <speaker>
         <w lemma="Gho." pos="ab" xml:id="A73627-030-b-0500">Gho.</w>
         <pc unit="sentence" xml:id="A73627-030-b-0510"/>
@@ -24601,7 +24601,7 @@
         <pc xml:id="A73627-030-b-2970">,</pc>
        </l>
       </sp>
-      <sp who="A73627-ghost)" xml:id="A73627-e123840">
+      <sp who="A73627-ghost" xml:id="A73627-e123840">
        <speaker>
         <w lemma="Gho." pos="ab" xml:id="A73627-030-b-2980">Gho.</w>
         <pc unit="sentence" xml:id="A73627-030-b-2990"/>
@@ -24705,7 +24705,7 @@
         <pc unit="sentence" xml:id="A73627-031-a-0170">.</pc>
        </l>
       </sp>
-      <sp who="A73627-ghost)" xml:id="A73627-e123950">
+      <sp who="A73627-ghost" xml:id="A73627-e123950">
        <speaker>
         <w lemma="Gho." pos="ab" xml:id="A73627-031-a-0180">Gho.</w>
         <pc unit="sentence" xml:id="A73627-031-a-0190"/>
@@ -24862,7 +24862,7 @@
         <pc unit="sentence" xml:id="A73627-031-a-1360">.</pc>
        </l>
       </sp>
-      <sp who="A73627-ghost)" xml:id="A73627-e124110">
+      <sp who="A73627-ghost" xml:id="A73627-e124110">
        <speaker>
         <w lemma="Gho." pos="ab" xml:id="A73627-031-a-1370">Gho.</w>
         <pc unit="sentence" xml:id="A73627-031-a-1380"/>
@@ -26815,7 +26815,7 @@
        <w lemma="ghost" pos="n1" xml:id="A73627-033-b-0690">Ghost</w>
        <pc unit="sentence" xml:id="A73627-033-b-0700">.</pc>
       </stage>
-      <sp who="A73627-ghost)" xml:id="A73627-e126050">
+      <sp who="A73627-ghost" xml:id="A73627-e126050">
        <speaker>
         <w lemma="Gho." pos="ab" xml:id="A73627-033-b-0710">Gho.</w>
         <pc unit="sentence" xml:id="A73627-033-b-0720"/>
@@ -26953,7 +26953,7 @@
         <pc unit="sentence" xml:id="A73627-033-b-1760">.</pc>
        </l>
       </sp>
-      <sp who="A73627-ghost)" xml:id="A73627-e126190">
+      <sp who="A73627-ghost" xml:id="A73627-e126190">
        <speaker>
         <w lemma="Gho." pos="ab" xml:id="A73627-033-b-1770">Gho.</w>
         <pc unit="sentence" xml:id="A73627-033-b-1780"/>
@@ -29634,7 +29634,7 @@
         <pc unit="sentence" xml:id="A73627-036-b-2540">.</pc>
        </l>
       </sp>
-      <sp who="A73627-ghost)" xml:id="A73627-e128670">
+      <sp who="A73627-ghost" xml:id="A73627-e128670">
        <speaker>
         <w lemma="Gho." pos="ab" xml:id="A73627-036-b-2550">Gho.</w>
         <pc unit="sentence" xml:id="A73627-036-b-2560"/>
@@ -29848,7 +29848,7 @@
         <pc unit="sentence" xml:id="A73627-037-a-0690">.</pc>
        </l>
       </sp>
-      <sp who="A73627-ghost)" xml:id="A73627-e128880">
+      <sp who="A73627-ghost" xml:id="A73627-e128880">
        <speaker>
         <w lemma="Gho." pos="ab" xml:id="A73627-037-a-0700">Gho.</w>
         <pc unit="sentence" xml:id="A73627-037-a-0710"/>
@@ -29972,7 +29972,7 @@
         <pc unit="sentence" xml:id="A73627-037-a-1640">.</pc>
        </l>
       </sp>
-      <sp who="A73627-ghost)" xml:id="A73627-e129000">
+      <sp who="A73627-ghost" xml:id="A73627-e129000">
        <speaker>
         <w lemma="Gho." pos="ab" xml:id="A73627-037-a-1650">Gho.</w>
         <pc unit="sentence" xml:id="A73627-037-a-1660"/>

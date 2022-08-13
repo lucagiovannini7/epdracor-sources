@@ -19621,9 +19621,11 @@
         <pc unit="sentence" xml:id="A27177-580-02850">?</pc>
        </l>
       </sp>
-      <sp who="A27177-●p._1" xml:id="A27177-e119950">
+      <sp who="A27177-K._1" xml:id="A27177-e119950">
        <speaker>
-        <w lemma="1●p" pos="crd" rend="italics-before_hi" xml:id="A27177-580-02860">1●p.</w>
+        <w lemma="1" pos="crd" rend="hi" xml:id="A27177-580-02860">1</w>
+        <w lemma="K." pos="ab" xml:id="A27177-580-02861">K.</w>
+        <pc unit="sentence" xml:id="A27177-580-02862"/>
        </speaker>
        <l xml:id="A27177-e119960">
         <w lemma="she" pos="pns" xml:id="A27177-580-02870">She</w>
@@ -29664,7 +29666,7 @@
         <pc unit="sentence" xml:id="A27177-585-11040">.</pc>
        </l>
       </sp>
-      <sp who="A27177-we;lshman" xml:id="A27177-e130430">
+      <sp who="A27177-welshman" xml:id="A27177-e130430">
        <speaker>
         <w lemma="Wel." pos="ab" xml:id="A27177-585-11050">Wel.</w>
         <pc unit="sentence" xml:id="A27177-585-11060"/>
@@ -29701,7 +29703,7 @@
         <pc unit="sentence" xml:id="A27177-585-11270">.</pc>
        </l>
       </sp>
-      <sp who="A27177-we;lshman" xml:id="A27177-e130480">
+      <sp who="A27177-welshman" xml:id="A27177-e130480">
        <speaker>
         <w lemma="Wel." pos="ab" xml:id="A27177-585-11280">Wel.</w>
         <pc unit="sentence" xml:id="A27177-585-11290"/>
@@ -29820,7 +29822,7 @@
         <pc unit="sentence" xml:id="A27177-585-12150">.</pc>
        </l>
       </sp>
-      <sp who="A27177-we;lshman" xml:id="A27177-e130600">
+      <sp who="A27177-welshman" xml:id="A27177-e130600">
        <speaker>
         <w lemma="Wel." pos="ab" xml:id="A27177-585-12160">Wel.</w>
         <pc unit="sentence" xml:id="A27177-585-12170"/>
@@ -29865,7 +29867,7 @@
         <pc unit="sentence" xml:id="A27177-585-12460">.</pc>
        </l>
       </sp>
-      <sp who="A27177-we;lshman" xml:id="A27177-e130650">
+      <sp who="A27177-welshman" xml:id="A27177-e130650">
        <speaker>
         <w lemma="Wel." pos="ab" xml:id="A27177-585-12470">Wel.</w>
         <pc unit="sentence" xml:id="A27177-585-12480"/>
@@ -29994,7 +29996,7 @@
         <pc unit="sentence" xml:id="A27177-586-00280">.</pc>
        </l>
       </sp>
-      <sp who="A27177-we;lshman" xml:id="A27177-e130780">
+      <sp who="A27177-welshman" xml:id="A27177-e130780">
        <speaker>
         <w lemma="Wel." pos="ab" xml:id="A27177-586-00290">Wel.</w>
         <pc unit="sentence" xml:id="A27177-586-00300"/>
@@ -30092,7 +30094,7 @@
         <pc unit="sentence" xml:id="A27177-586-00870">.</pc>
        </l>
       </sp>
-      <sp who="A27177-we;lshman" xml:id="A27177-e130910">
+      <sp who="A27177-welshman" xml:id="A27177-e130910">
        <speaker>
         <w lemma="Wel." pos="ab" xml:id="A27177-586-00880">Wel.</w>
         <pc unit="sentence" xml:id="A27177-586-00890"/>
@@ -30255,7 +30257,7 @@
         <pc unit="sentence" xml:id="A27177-586-01910">.</pc>
        </l>
       </sp>
-      <sp who="A27177-we;lshman" xml:id="A27177-e131110">
+      <sp who="A27177-welshman" xml:id="A27177-e131110">
        <speaker>
         <w lemma="Wel." pos="ab" xml:id="A27177-586-01920">Wel.</w>
         <pc unit="sentence" xml:id="A27177-586-01930"/>

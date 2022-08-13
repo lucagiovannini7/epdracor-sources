@@ -3460,7 +3460,7 @@
         <pc unit="sentence" xml:id="A27177-065-01640">?</pc>
        </l>
       </sp>
-      <sp who="A27177-captain_1" xml:id="A27177-e103550">
+      <sp who="A27177-captain_2" xml:id="A27177-e103550">
        <speaker>
         <w lemma="2." pos="crd" rend="hi" xml:id="A27177-065-01650">2.</w>
         <w lemma="Cap." pos="ab" xml:id="A27177-065-01670">Cap.</w>
@@ -27064,7 +27064,7 @@
        <w lemma="Memnon" pos="nn1" xml:id="A27177-079-08600">Memnon</w>
        <pc unit="sentence" xml:id="A27177-079-08610">.</pc>
       </stage>
-      <sp who="A27177-captain_1=2" xml:id="A27177-e131050">
+      <sp who="A27177-captain_2" xml:id="A27177-e131050">
        <speaker>
         <w lemma="2" pos="crd" rend="hi" xml:id="A27177-079-08620">2</w>
         <w lemma="Cap." pos="ab" xml:id="A27177-079-08630">Cap.</w>
@@ -36384,11 +36384,11 @@
      </item>
      <item n="21" xml:id="A27177-captain_2">
       <seg type="character_name">A27177_01-captain_2</seg>
-      <seg type="speech_count">21</seg>
+      <seg type="speech_count">22</seg>
      </item>
      <item n="19" xml:id="A27177-captain_1">
       <seg type="character_name">A27177_01-captain_1</seg>
-      <seg type="speech_count">19</seg>
+      <seg type="speech_count">18</seg>
      </item>
      <item n="9" xml:id="A27177-orpheus">
       <seg type="character_name">A27177_01-orpheus</seg>
