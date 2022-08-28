@@ -19374,6 +19374,10 @@
      <pc unit="sentence" xml:id="A06480-017-a-2630">.</pc>
     </stage>
     <sp who="A06480-sin" xml:id="A06480-e115770">
+     <speaker>
+      <w lemma="sin" pos="n1" reg="Sin" xml:id="A06480-017-a-2750">Sinne</w>
+      <pc unit="sentence" xml:id="A06480-017-a-2760">.</pc>
+     </speaker>
      <l xml:id="A06480-e115760">
       <w lemma="¶" pos="sy" xml:id="A06480-017-a-2640">¶</w>
       <w lemma="it" pos="pn" xml:id="A06480-017-a-2650">It</w>
@@ -19387,10 +19391,6 @@
       <w lemma="fly" pos="vvi" reg="fly" xml:id="A06480-017-a-2730">flie</w>
       <pc xml:id="A06480-017-a-2740">,</pc>
      </l>
-     <speaker>
-      <w lemma="sin" pos="n1" reg="Sin" xml:id="A06480-017-a-2750">Sinne</w>
-      <pc unit="sentence" xml:id="A06480-017-a-2760">.</pc>
-     </speaker>
      <l xml:id="A06480-e115780">
       <w lemma="you" pos="pn" xml:id="A06480-017-a-2770">You</w>
       <w lemma="be" pos="vvd" xml:id="A06480-017-a-2780">were</w>
