@@ -25,7 +25,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A02125-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A02125.xml</idno>
    </publicationStmt>
@@ -935,7 +935,7 @@
       <pc xml:id="A02125-004-a-0680">,</pc>
      </l>
      <l xml:id="A02125-e100790">
-      <w lemma="Northeast" pos="n1" xml:id="A02125-004-a-0690">Northeast</w>
+      <w lemma="north-east" pos="n1" reg="north-east" xml:id="A02125-004-a-0690">Northeast</w>
       <w lemma="as" pos="acp" xml:id="A02125-004-a-0700">as</w>
       <w lemma="far" pos="av-j" xml:id="A02125-004-a-0710">far</w>
       <w lemma="as" pos="acp" xml:id="A02125-004-a-0720">as</w>
@@ -1555,7 +1555,7 @@
       <w lemma="suspicion" pos="n1" reg="suspicion" xml:id="A02125-005-a-0650">suspition</w>
       <w lemma="in" pos="acp" xml:id="A02125-005-a-0660">in</w>
       <w lemma="the" pos="d" xml:id="A02125-005-a-0670">the</w>
-      <w lemma="palatine" pos="nn1" xml:id="A02125-005-a-0680">Palatine</w>
+      <w lemma="palatine" pos="n1" xml:id="A02125-005-a-0680">Palatine</w>
       <pc xml:id="A02125-005-a-0690">,</pc>
      </l>
      <l xml:id="A02125-e101380">
@@ -3509,7 +3509,7 @@
       <w lemma="put" pos="vvz" xml:id="A02125-008-a-0241">puts</w>
       <w lemma="of" pos="acp" xml:id="A02125-008-a-0250">of</w>
       <w lemma="his" pos="po" xml:id="A02125-008-a-0260">his</w>
-      <w lemma="cap" pos="ab" xml:id="A02125-008-a-0270">cap</w>
+      <w lemma="cap" pos="n1" xml:id="A02125-008-a-0270">cap</w>
       <w lemma="ten" pos="crd" xml:id="A02125-008-a-0280">ten</w>
       <w lemma="mile" pos="n1" xml:id="A02125-008-a-0290">mile</w>
       <w lemma="of" pos="acp" xml:id="A02125-008-a-0300">of</w>
@@ -5033,8 +5033,7 @@
      </l>
      <l xml:id="A02125-e104650">
       <w lemma="and" pos="cc" xml:id="A02125-010-a-2050">And</w>
-      <w lemma="topsy" pos="n1" reg="topsy" xml:id="A02125-010-a-2060">topsie</w>
-      <w lemma="turuie" pos="av" reg="turvy" xml:id="A02125-010-a-2070">turuie</w>
+      <w lemma="topsy-turvy" pos="av" reg="topsy-turvy" xml:id="A02125-010-a-2070">topsey turuie</w>
       <w lemma="turn" pos="vvd" reg="turned" xml:id="A02125-010-a-2080">turnd</w>
       <w lemma="the" pos="d" xml:id="A02125-010-a-2090">the</w>
       <w lemma="bottom" pos="n1" reg="bottom" xml:id="A02125-010-a-2100">bottome</w>
@@ -5618,7 +5617,7 @@
       <w lemma="tush" pos="uh" xml:id="A02125-011-a-1630">Tush</w>
       <w lemma="leave" pos="vvb" reg="leave" xml:id="A02125-011-a-1640">leaue</w>
       <w lemma="the" pos="d" xml:id="A02125-011-a-1650">the</w>
-      <w lemma="palatine" pos="nn1" xml:id="A02125-011-a-1660">Palatine</w>
+      <w lemma="palatine" pos="n1" xml:id="A02125-011-a-1660">Palatine</w>
       <pc xml:id="A02125-011-a-1670">,</pc>
       <w lemma="and" pos="cc" xml:id="A02125-011-a-1680">and</w>
       <w lemma="go" pos="vvi" reg="go" xml:id="A02125-011-a-1690">goe</w>
@@ -8405,7 +8404,7 @@
      </l>
      <l xml:id="A02125-e108030">
       <w lemma="n/a" pos="fit" reg="Preva" xml:id="A02125-015-b-0900">Preua</w>
-      <w lemma="the" pos="d" xml:id="A02125-015-b-0910">de</w>
+      <w lemma="n/a" pos="fla" xml:id="A02125-015-b-0910">de</w>
       <w lemma="more" pos="avc-d" xml:id="A02125-015-b-0920">more</w>
       <pc xml:id="A02125-015-b-0930">,</pc>
       <w lemma="n/a" pos="ffr" xml:id="A02125-015-b-0940">de</w>
@@ -9254,7 +9253,7 @@
       <w lemma="entreat" pos="vv2" reg="entreat'st" xml:id="A02125-017-a-0500">intreatst</w>
       <w lemma="and" pos="cc" xml:id="A02125-017-a-0510">and</w>
       <w lemma="new" pos="av-j" xml:id="A02125-017-a-0520">newly</w>
-      <w lemma="be" pos="n1" xml:id="A02125-017-a-0530">art</w>
+      <w lemma="be" pos="vv2" xml:id="A02125-017-a-0530">art</w>
       <w lemma="arrive" pos="vvn" reg="arrived" xml:id="A02125-017-a-0540">arrivd</w>
       <pc xml:id="A02125-017-a-0550">,</pc>
      </l>
@@ -10943,7 +10942,7 @@
       <w lemma="that" pos="cs" xml:id="A02125-019-a-2090">that</w>
       <w lemma="wrong" pos="vvd" reg="wronged" xml:id="A02125-019-a-2100">wrongd</w>
       <w lemma="the" pos="d" xml:id="A02125-019-a-2110">the</w>
-      <w lemma="palatine" pos="nn1" xml:id="A02125-019-a-2120">Palatine</w>
+      <w lemma="palatine" pos="n1" xml:id="A02125-019-a-2120">Palatine</w>
       <pc unit="sentence" xml:id="A02125-019-a-2130">.</pc>
      </l>
     </sp>
@@ -12798,7 +12797,7 @@
       <pc unit="sentence" xml:id="A02125-022-a-0460"/>
      </speaker>
      <l xml:id="A02125-e112450">
-      <w lemma="Loe" pos="uh" reg="lo" xml:id="A02125-022-a-0470">Loe</w>
+      <w lemma="lo" pos="uh" reg="Lo" xml:id="A02125-022-a-0470">Loe</w>
       <w lemma="here" pos="av" xml:id="A02125-022-a-0480">here</w>
       <pc xml:id="A02125-022-a-0490">,</pc>
       <w lemma="two" pos="crd" xml:id="A02125-022-a-0500">two</w>
@@ -13931,7 +13930,7 @@
     </sp>
     <sp who="A02125-fidler" xml:id="A02125-e113630">
      <speaker>
-      <w lemma="Fidler" pos="nn1" reg="fiddler" xml:id="A02125-023-b-1430">Fidler</w>
+      <w lemma="fiddler" pos="n1" reg="fiddler" xml:id="A02125-023-b-1430">Fidler</w>
       <pc unit="sentence" xml:id="A02125-023-b-1440">.</pc>
      </speaker>
      <p xml:id="A02125-e113640">
@@ -13986,7 +13985,7 @@
     </sp>
     <sp who="A02125-fidler" xml:id="A02125-e113670">
      <speaker>
-      <w lemma="Fidler" pos="nn1" reg="fiddler" xml:id="A02125-023-b-1860">Fidler</w>
+      <w lemma="fiddler" pos="n1" reg="fiddler" xml:id="A02125-023-b-1860">Fidler</w>
       <pc unit="sentence" xml:id="A02125-023-b-1870">:</pc>
      </speaker>
      <p xml:id="A02125-e113680">
@@ -14079,7 +14078,7 @@
     </sp>
     <sp who="A02125-fidler" xml:id="A02125-e113750">
      <speaker>
-      <w lemma="Fidler" pos="nn1" reg="fiddler" xml:id="A02125-024-a-0100">Fidler</w>
+      <w lemma="fiddler" pos="n1" reg="fiddler" xml:id="A02125-024-a-0100">Fidler</w>
       <pc unit="sentence" xml:id="A02125-024-a-0110">.</pc>
      </speaker>
      <p xml:id="A02125-e113760">
@@ -14111,7 +14110,7 @@
     </sp>
     <sp who="A02125-fidler" xml:id="A02125-e113790">
      <speaker>
-      <w lemma="Fidler" pos="nn1" reg="fiddler" xml:id="A02125-024-a-0300">Fidler</w>
+      <w lemma="fiddler" pos="n1" reg="fiddler" xml:id="A02125-024-a-0300">Fidler</w>
       <pc unit="sentence" xml:id="A02125-024-a-0310">.</pc>
      </speaker>
      <p xml:id="A02125-e113800">
@@ -14189,7 +14188,7 @@
     </sp>
     <sp who="A02125-fidler" xml:id="A02125-e113860">
      <speaker>
-      <w lemma="Fidler" pos="nn1" reg="fiddler" xml:id="A02125-024-a-0870">Fidler</w>
+      <w lemma="fiddler" pos="n1" reg="fiddler" xml:id="A02125-024-a-0870">Fidler</w>
       <pc unit="sentence" xml:id="A02125-024-a-0880">.</pc>
      </speaker>
      <p xml:id="A02125-e113870">
@@ -14233,7 +14232,7 @@
     </stage>
     <sp who="A02125-fidler" xml:id="A02125-e113910">
      <speaker>
-      <w lemma="Fidler" pos="nn1" reg="fiddler" xml:id="A02125-024-a-1170">Fidler</w>
+      <w lemma="fiddler" pos="n1" reg="fiddler" xml:id="A02125-024-a-1170">Fidler</w>
       <pc unit="sentence" xml:id="A02125-024-a-1180">.</pc>
      </speaker>
      <p xml:id="A02125-e113920">
@@ -14295,7 +14294,7 @@
     </stage>
     <sp who="A02125-fidler" xml:id="A02125-e113960">
      <speaker>
-      <w lemma="Fidler" pos="nn1" reg="fiddler" xml:id="A02125-024-a-1640">Fidler</w>
+      <w lemma="fiddler" pos="n1" reg="fiddler" xml:id="A02125-024-a-1640">Fidler</w>
       <pc unit="sentence" xml:id="A02125-024-a-1650">.</pc>
      </speaker>
      <l xml:id="A02125-e113970">
@@ -14365,7 +14364,7 @@
     </sp>
     <sp who="A02125-fidler" xml:id="A02125-e114030">
      <speaker>
-      <w lemma="Fidler" pos="nn1" reg="fiddler" xml:id="A02125-024-b-0090">Fidler</w>
+      <w lemma="fiddler" pos="n1" reg="fiddler" xml:id="A02125-024-b-0090">Fidler</w>
       <pc unit="sentence" xml:id="A02125-024-b-0100">.</pc>
      </speaker>
      <l xml:id="A02125-e114040">
@@ -14391,7 +14390,7 @@
     </stage>
     <stage xml:id="A02125-e114060">
      <w lemma="n/a" pos="fla" xml:id="A02125-024-b-0270">Exit</w>
-     <w lemma="Fidler" pos="nn1" reg="fiddler" xml:id="A02125-024-b-0280">Fidler</w>
+     <w lemma="fiddler" pos="n1" reg="fiddler" xml:id="A02125-024-b-0280">Fidler</w>
      <pc unit="sentence" xml:id="A02125-024-b-0290">.</pc>
     </stage>
     <stage xml:id="A02125-e114070">
@@ -14492,7 +14491,7 @@
       <w lemma="shall" pos="vmb" xml:id="A02125-024-b-0950">shall</w>
       <w lemma="not" pos="xx" xml:id="A02125-024-b-0960">not</w>
       <pc xml:id="A02125-024-b-0970">,</pc>
-      <w lemma="&amp;c." pos="ab" xml:id="A02125-024-b-0980">&amp;c.</w>
+      <w lemma="etc." pos="av" reg="etc." xml:id="A02125-024-b-0980">&amp;c.</w>
       <pc unit="sentence" xml:id="A02125-024-b-0990"/>
      </l>
      <l xml:id="A02125-e114190">
@@ -17830,7 +17829,7 @@
       <w lemma="but" pos="acp" xml:id="A02125-030-a-0820">but</w>
       <w lemma="pardon" pos="vvb" xml:id="A02125-030-a-0830">pardon</w>
       <w lemma="my" pos="po" xml:id="A02125-030-a-0840">my</w>
-      <w lemma="s" pos="n1" reg="amiss" xml:id="A02125-030-a-0850">amis</w>
+      <w lemma="amiss" pos="n1" reg="amiss" xml:id="A02125-030-a-0850">amis</w>
       <pc xml:id="A02125-030-a-0860">,</pc>
      </l>
      <l xml:id="A02125-e117460">
@@ -18131,7 +18130,7 @@
       <w lemma="Orlando" pos="nn1" xml:id="A02125-030-b-0650">Orlando</w>
       <w lemma="the" pos="d" xml:id="A02125-030-b-0660">the</w>
       <w lemma="county" pos="n1" xml:id="A02125-030-b-0670">County</w>
-      <w lemma="palatine" pos="nn1" xml:id="A02125-030-b-0680">Palatine</w>
+      <w lemma="palatine" pos="n1" xml:id="A02125-030-b-0680">Palatine</w>
       <pc unit="sentence" xml:id="A02125-030-b-0690">.</pc>
      </l>
     </sp>

@@ -25,7 +25,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A07003-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A07003.xml</idno>
    </publicationStmt>
@@ -14724,7 +14724,7 @@
      <l xml:id="A07003-e114560">
       <w lemma="get" pos="vvb" xml:id="A07003-025-a-1190">Get</w>
       <w lemma="you" pos="pn" xml:id="A07003-025-a-1200">you</w>
-      <w lemma="away" pos="d" xml:id="A07003-025-a-1210">away</w>
+      <w lemma="away" pos="av" xml:id="A07003-025-a-1210">away</w>
       <w lemma="and" pos="cc" xml:id="A07003-025-a-1230">and</w>
       <w lemma="strangle" pos="vvi" xml:id="A07003-025-a-1240">strangle</w>
       <w lemma="the" pos="d" xml:id="A07003-025-a-1250">the</w>
@@ -15036,7 +15036,7 @@
       <pc unit="sentence" xml:id="A07003-025-b-1260">.</pc>
      </speaker>
      <l xml:id="A07003-e114860">
-      <w lemma="away" pos="d" xml:id="A07003-025-b-1270">Away</w>
+      <w lemma="away" pos="av" reg="away" xml:id="A07003-025-b-1270">Away</w>
       <pc xml:id="A07003-025-b-1290">,</pc>
       <w lemma="leave" pos="vvb" reg="leave" xml:id="A07003-025-b-1300">leaue</w>
       <w lemma="i" pos="pno" xml:id="A07003-025-b-1310">me</w>
@@ -15468,7 +15468,7 @@
       <w lemma="brother" pos="n1" xml:id="A07003-026-b-0340">brother</w>
       <pc xml:id="A07003-026-b-0350">,</pc>
       <w lemma="and" pos="cc" xml:id="A07003-026-b-0360">and</w>
-      <w join="right" lemma="I" pos="pns" reg="I" xml:id="A07003-026-b-0370">i</w>
+      <w join="right" lemma="I" pos="pns" xml:id="A07003-026-b-0370">i</w>
       <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A07003-026-b-0371">le</w>
       <w lemma="revenge" pos="vvi" reg="revenge" xml:id="A07003-026-b-0380">reuenge</w>
       <w lemma="thy" pos="po" xml:id="A07003-026-b-0390">thy</w>

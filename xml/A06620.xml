@@ -25,7 +25,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A06620-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A06620.xml</idno>
    </publicationStmt>
@@ -411,7 +411,7 @@
        <w lemma="which" pos="crq" xml:id="A06620-002-b-1920">which</w>
        <w lemma="in" pos="acp" xml:id="A06620-002-b-1930">in</w>
        <w lemma="their" pos="po" xml:id="A06620-002-b-1940">their</w>
-       <w lemma="own" pos="j" reg="own" xml:id="A06620-002-b-1950">owne</w>
+       <w lemma="own" pos="d" reg="own" xml:id="A06620-002-b-1950">owne</w>
        <w lemma="nature" pos="n2" xml:id="A06620-002-b-1960">natures</w>
        <w lemma="be" pos="vvg" xml:id="A06620-002-b-1970">being</w>
        <w lemma="much" pos="av-d" xml:id="A06620-002-b-1980">much</w>
@@ -2220,7 +2220,7 @@
        <w lemma="turn" pos="vvn" xml:id="A06620-005-a-0640">turned</w>
        <w lemma="to" pos="acp" xml:id="A06620-005-a-0650">to</w>
        <w lemma="a" pos="d" xml:id="A06620-005-a-0660">a</w>
-       <w lemma="bay" pos="j" xml:id="A06620-005-a-0670">Bay</w>
+       <w lemma="bay" pos="n1" reg="bay" xml:id="A06620-005-a-0670">Bay</w>
        <w lemma="tree" pos="n1" xml:id="A06620-005-a-0680">tree</w>
        <pc xml:id="A06620-005-a-0690">,</pc>
        <w lemma="cease" pos="vvd" xml:id="A06620-005-a-0700">ceased</w>
@@ -10811,8 +10811,7 @@
        <pc xml:id="A06620-015-b-1080">,</pc>
        <w lemma="in" pos="acp" xml:id="A06620-015-b-1090">in</w>
        <w lemma="love" pos="n1" reg="love" xml:id="A06620-015-b-1100">loue</w>
-       <w lemma="luke" pos="av" xml:id="A06620-015-b-1110">luke</w>
-       <w lemma="warm" pos="j" reg="warm" xml:id="A06620-015-b-1120">warme</w>
+       <w lemma="lukewarm" pos="j" reg="lukewarm" xml:id="A06620-015-b-1110">luke warme</w>
        <pc xml:id="A06620-015-b-1130">,</pc>
        <w lemma="in" pos="acp" xml:id="A06620-015-b-1140">in</w>
        <w lemma="cruelty" pos="n1" reg="cruelty" xml:id="A06620-015-b-1150">crueltie</w>
@@ -10935,7 +10934,7 @@
        <w lemma="she" pos="pns" reg="she" xml:id="A06620-015-b-2200">shee</w>
        <w lemma="run" pos="vvb" reg="run" xml:id="A06620-015-b-2210">runne</w>
        <pc xml:id="A06620-015-b-2220">,</pc>
-       <w join="right" lemma="I" pos="pns" reg="I" xml:id="A06620-015-b-2230">i</w>
+       <w join="right" lemma="I" pos="pns" xml:id="A06620-015-b-2230">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A06620-015-b-2231">le</w>
        <w lemma="fly" pos="vvi" reg="fly" xml:id="A06620-015-b-2240">flie</w>
        <pc xml:id="A06620-015-b-2250">:</pc>
@@ -14776,7 +14775,7 @@
        <pc unit="sentence" xml:id="A06620-021-a-1250">.</pc>
        <w lemma="the" pos="d" xml:id="A06620-021-a-1260">The</w>
        <w lemma="rose" pos="n1" xml:id="A06620-021-a-1270">Rose</w>
-       <w lemma="distil" pos="vvn" xml:id="A06620-021-a-1280">distilled</w>
+       <w lemma="distill" pos="vvn" xml:id="A06620-021-a-1280">distilled</w>
        <w lemma="with" pos="acp" xml:id="A06620-021-a-1290">with</w>
        <w lemma="fire" pos="n1" xml:id="A06620-021-a-1300">fire</w>
        <w lemma="yield" pos="vvz" reg="yieldeth" xml:id="A06620-021-a-1310">yeeldeth</w>

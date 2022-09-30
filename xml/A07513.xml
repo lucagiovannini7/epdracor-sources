@@ -160,7 +160,7 @@
      <w lemma="honourable" pos="j" reg="Honourable" xml:id="A07513-001-b-0220">Honorable</w>
      <pc xml:id="A07513-001-b-0230">,</pc>
      <w lemma="GEORGE" pos="nn1" xml:id="A07513-001-b-0240">GEORGE</w>
-     <w lemma="bowles" orig="BOVVLES" pos="nn1" reg="bowls" rend="hi" xml:id="A07513-001-b-0250">BOWLES</w>
+     <w lemma="Bowl" orig="BOVVLES" pos="nn1" reg="Bowl" rend="hi" xml:id="A07513-001-b-0250">BOWLES</w>
      <pc xml:id="A07513-001-b-0260">,</pc>
      <w lemma="in" pos="acp" xml:id="A07513-001-b-0270">In</w>
      <w lemma="the" pos="d" xml:id="A07513-001-b-0280">the</w>
@@ -270,7 +270,7 @@
      <w lemma="honourable" pos="j" xml:id="A07513-002-b-0270">Honourable</w>
      <pc xml:id="A07513-002-b-0280">,</pc>
      <w lemma="GEORGE" pos="nn1" xml:id="A07513-002-b-0290">GEORGE</w>
-     <w lemma="bowles" orig="BOVVLES" pos="nn1" reg="bowls" xml:id="A07513-002-b-0300">BOWLES</w>
+     <w lemma="Bowl" orig="BOVVLES" pos="nn1" reg="Bowl" xml:id="A07513-002-b-0300">BOWLES</w>
      <pc xml:id="A07513-002-b-0310">,</pc>
      <w lemma="lord" pos="n1" xml:id="A07513-002-b-0320">Lord</w>
      <w lemma="mayor" pos="n1" xml:id="A07513-002-b-0330">Mayor</w>
@@ -1961,7 +1961,8 @@
       <item xml:id="A07513-e1420">
        <hi xml:id="A07513-e1430">
         <w lemma="a" pos="sy" xml:id="A07513-006-b-0160">A</w>
-        <w lemma="jew." pos="ab" reg="jew." xml:id="A07513-006-b-0170">Iew.</w>
+        <w lemma="Jew" pos="nn1" xml:id="A07513-006-b-0170">Iew</w>
+        <pc unit="sentence" xml:id="A07513-116-b-1171">.</pc>
        </hi>
        <pc rend="follows-hi" unit="sentence" xml:id="A07513-006-b-0180"/>
       </item>
@@ -2411,7 +2412,7 @@
        <pc unit="sentence" xml:id="A07513-008-b-0550">.</pc>
       </speaker>
       <l xml:id="A07513-e1820">
-       <w lemma="welcome" orig="VVElcome" pos="uh-j" reg="Welcome" xml:id="A07513-008-b-0560">WElcome</w>
+       <w lemma="welcome" orig="VVElcome" pos="uh-j" xml:id="A07513-008-b-0560">WElcome</w>
        <w lemma="to" pos="acp" xml:id="A07513-008-b-0570">to</w>
        <w lemma="fame" pos="ng1" reg="Fame's" xml:id="A07513-008-b-0580">Fames</w>
        <w lemma="bright" pos="j" xml:id="A07513-008-b-0590">bright</w>
@@ -3200,8 +3201,8 @@
         </head>
         <sp xml:id="A07513-e2500">
          <speaker xml:id="A07513-e2510">
-          <w lemma="honor." pos="ab" xml:id="A07513-010-a-0520">Honor.</w>
-          <pc unit="sentence" xml:id="A07513-010-a-0530"/>
+          <w lemma="honour" pos="n1" reg="honour" xml:id="A07513-010-a-0520">Honor.</w>
+          <pc unit="sentence" xml:id="A07513-010-a-0530">.</pc>
          </speaker>
          <l xml:id="A07513-e2520">
           <w lemma="there" pos="av" xml:id="A07513-010-a-0540">THere</w>

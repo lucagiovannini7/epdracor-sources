@@ -25,7 +25,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A18413-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A18413.xml</idno>
    </publicationStmt>
@@ -132,296 +132,296 @@
   -->
   <surfaceGrp n="lab">
    <note type="witnessDetail">Boston Public Library, BRLL</note>
-   <surface corresp="#tcp:8390:1" xml:id="A18413-001-b-im">
+   <surface corresp="A18413-#1" xml:id="A18413-001-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$7"/>
    </surface>
-   <surface corresp="#tcp:8390:2" xml:id="A18413-002-b-im">
+   <surface corresp="A18413-#2" xml:id="A18413-002-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$9"/>
    </surface>
-   <surface corresp="#tcp:8390:3" xml:id="A18413-003-a-im">
+   <surface corresp="A18413-#3" xml:id="A18413-003-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$10"/>
    </surface>
-   <surface corresp="#tcp:8390:3" xml:id="A18413-003-b-im">
+   <surface corresp="A18413-#3" xml:id="A18413-003-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$11"/>
    </surface>
-   <surface corresp="#tcp:8390:4" xml:id="A18413-004-a-im">
+   <surface corresp="A18413-#4" xml:id="A18413-004-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$12"/>
    </surface>
-   <surface corresp="#tcp:8390:4" xml:id="A18413-004-b-im">
+   <surface corresp="A18413-#4" xml:id="A18413-004-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$13"/>
    </surface>
-   <surface corresp="#tcp:8390:5" xml:id="A18413-005-a-im">
+   <surface corresp="A18413-#5" xml:id="A18413-005-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$14"/>
    </surface>
-   <surface corresp="#tcp:8390:5" xml:id="A18413-005-b-im">
+   <surface corresp="A18413-#5" xml:id="A18413-005-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$15"/>
    </surface>
-   <surface corresp="#tcp:8390:6" xml:id="A18413-006-a-im">
+   <surface corresp="A18413-#6" xml:id="A18413-006-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$16"/>
    </surface>
-   <surface corresp="#tcp:8390:6" xml:id="A18413-006-b-im">
+   <surface corresp="A18413-#6" xml:id="A18413-006-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$17"/>
    </surface>
-   <surface corresp="#tcp:8390:7" xml:id="A18413-007-a-im">
+   <surface corresp="A18413-#7" xml:id="A18413-007-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$18"/>
    </surface>
-   <surface corresp="#tcp:8390:7" xml:id="A18413-007-b-im">
+   <surface corresp="A18413-#7" xml:id="A18413-007-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$19"/>
    </surface>
-   <surface corresp="#tcp:8390:8" xml:id="A18413-008-a-im">
+   <surface corresp="A18413-#8" xml:id="A18413-008-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$20"/>
    </surface>
-   <surface corresp="#tcp:8390:8" xml:id="A18413-008-b-im">
+   <surface corresp="A18413-#8" xml:id="A18413-008-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$21"/>
    </surface>
-   <surface corresp="#tcp:8390:9" xml:id="A18413-009-a-im">
+   <surface corresp="A18413-#9" xml:id="A18413-009-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$22"/>
    </surface>
-   <surface corresp="#tcp:8390:9" xml:id="A18413-009-b-im">
+   <surface corresp="A18413-#9" xml:id="A18413-009-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$23"/>
    </surface>
-   <surface corresp="#tcp:8390:10" xml:id="A18413-010-a-im">
+   <surface corresp="A18413-#10" xml:id="A18413-010-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$24"/>
    </surface>
-   <surface corresp="#tcp:8390:10" xml:id="A18413-010-b-im">
+   <surface corresp="A18413-#10" xml:id="A18413-010-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$25"/>
    </surface>
-   <surface corresp="#tcp:8390:11" xml:id="A18413-011-a-im">
+   <surface corresp="A18413-#11" xml:id="A18413-011-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$26"/>
    </surface>
-   <surface corresp="#tcp:8390:11" xml:id="A18413-011-b-im">
+   <surface corresp="A18413-#11" xml:id="A18413-011-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$27"/>
    </surface>
-   <surface corresp="#tcp:8390:12" xml:id="A18413-012-a-im">
+   <surface corresp="A18413-#12" xml:id="A18413-012-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$28"/>
    </surface>
-   <surface corresp="#tcp:8390:12" xml:id="A18413-012-b-im">
+   <surface corresp="A18413-#12" xml:id="A18413-012-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$29"/>
    </surface>
-   <surface corresp="#tcp:8390:13" xml:id="A18413-013-a-im">
+   <surface corresp="A18413-#13" xml:id="A18413-013-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$30"/>
    </surface>
-   <surface corresp="#tcp:8390:13" xml:id="A18413-013-b-im">
+   <surface corresp="A18413-#13" xml:id="A18413-013-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$31"/>
    </surface>
-   <surface corresp="#tcp:8390:14" xml:id="A18413-014-a-im">
+   <surface corresp="A18413-#14" xml:id="A18413-014-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$32"/>
    </surface>
-   <surface corresp="#tcp:8390:14" xml:id="A18413-014-b-im">
+   <surface corresp="A18413-#14" xml:id="A18413-014-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$33"/>
    </surface>
-   <surface corresp="#tcp:8390:15" xml:id="A18413-015-a-im">
+   <surface corresp="A18413-#15" xml:id="A18413-015-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$34"/>
    </surface>
-   <surface corresp="#tcp:8390:15" xml:id="A18413-015-b-im">
+   <surface corresp="A18413-#15" xml:id="A18413-015-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$35"/>
    </surface>
-   <surface corresp="#tcp:8390:16" xml:id="A18413-016-a-im">
+   <surface corresp="A18413-#16" xml:id="A18413-016-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$36"/>
    </surface>
-   <surface corresp="#tcp:8390:16" xml:id="A18413-016-b-im">
+   <surface corresp="A18413-#16" xml:id="A18413-016-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$37"/>
    </surface>
-   <surface corresp="#tcp:8390:17" xml:id="A18413-017-a-im">
+   <surface corresp="A18413-#17" xml:id="A18413-017-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$38"/>
    </surface>
-   <surface corresp="#tcp:8390:17" xml:id="A18413-017-b-im">
+   <surface corresp="A18413-#17" xml:id="A18413-017-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$39"/>
    </surface>
-   <surface corresp="#tcp:8390:18" xml:id="A18413-018-a-im">
+   <surface corresp="A18413-#18" xml:id="A18413-018-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$40"/>
    </surface>
-   <surface corresp="#tcp:8390:18" xml:id="A18413-018-b-im">
+   <surface corresp="A18413-#18" xml:id="A18413-018-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$41"/>
    </surface>
-   <surface corresp="#tcp:8390:19" xml:id="A18413-019-a-im">
+   <surface corresp="A18413-#19" xml:id="A18413-019-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$42"/>
    </surface>
-   <surface corresp="#tcp:8390:19" xml:id="A18413-019-b-im">
+   <surface corresp="A18413-#19" xml:id="A18413-019-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$43"/>
    </surface>
-   <surface corresp="#tcp:8390:20" xml:id="A18413-020-a-im">
+   <surface corresp="A18413-#20" xml:id="A18413-020-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$44"/>
    </surface>
-   <surface corresp="#tcp:8390:20" xml:id="A18413-020-b-im">
+   <surface corresp="A18413-#20" xml:id="A18413-020-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$45"/>
    </surface>
-   <surface corresp="#tcp:8390:21" xml:id="A18413-021-a-im">
+   <surface corresp="A18413-#21" xml:id="A18413-021-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$46"/>
    </surface>
-   <surface corresp="#tcp:8390:21" xml:id="A18413-021-b-im">
+   <surface corresp="A18413-#21" xml:id="A18413-021-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$47"/>
    </surface>
-   <surface corresp="#tcp:8390:22" xml:id="A18413-022-a-im">
+   <surface corresp="A18413-#22" xml:id="A18413-022-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$48"/>
    </surface>
-   <surface corresp="#tcp:8390:22" xml:id="A18413-022-b-im">
+   <surface corresp="A18413-#22" xml:id="A18413-022-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$49"/>
    </surface>
-   <surface corresp="#tcp:8390:23" xml:id="A18413-023-a-im">
+   <surface corresp="A18413-#23" xml:id="A18413-023-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$50"/>
    </surface>
-   <surface corresp="#tcp:8390:23" xml:id="A18413-023-b-im">
+   <surface corresp="A18413-#23" xml:id="A18413-023-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$51"/>
    </surface>
-   <surface corresp="#tcp:8390:24" xml:id="A18413-024-a-im">
+   <surface corresp="A18413-#24" xml:id="A18413-024-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$52"/>
    </surface>
-   <surface corresp="#tcp:8390:24" xml:id="A18413-024-b-im">
+   <surface corresp="A18413-#24" xml:id="A18413-024-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$53"/>
    </surface>
-   <surface corresp="#tcp:8390:25" xml:id="A18413-025-a-im">
+   <surface corresp="A18413-#25" xml:id="A18413-025-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$54"/>
    </surface>
-   <surface corresp="#tcp:8390:25" xml:id="A18413-025-b-im">
+   <surface corresp="A18413-#25" xml:id="A18413-025-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$55"/>
    </surface>
-   <surface corresp="#tcp:8390:26" xml:id="A18413-026-a-im">
+   <surface corresp="A18413-#26" xml:id="A18413-026-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$56"/>
    </surface>
-   <surface corresp="#tcp:8390:26" xml:id="A18413-026-b-im">
+   <surface corresp="A18413-#26" xml:id="A18413-026-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$57"/>
    </surface>
-   <surface corresp="#tcp:8390:27" xml:id="A18413-027-a-im">
+   <surface corresp="A18413-#27" xml:id="A18413-027-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$58"/>
    </surface>
-   <surface corresp="#tcp:8390:27" xml:id="A18413-027-b-im">
+   <surface corresp="A18413-#27" xml:id="A18413-027-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$59"/>
    </surface>
-   <surface corresp="#tcp:8390:28" xml:id="A18413-028-a-im">
+   <surface corresp="A18413-#28" xml:id="A18413-028-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$60"/>
    </surface>
-   <surface corresp="#tcp:8390:28" xml:id="A18413-028-b-im">
+   <surface corresp="A18413-#28" xml:id="A18413-028-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$61"/>
    </surface>
-   <surface corresp="#tcp:8390:29" xml:id="A18413-029-a-im">
+   <surface corresp="A18413-#29" xml:id="A18413-029-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$62"/>
    </surface>
-   <surface corresp="#tcp:8390:29" xml:id="A18413-029-b-im">
+   <surface corresp="A18413-#29" xml:id="A18413-029-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$63"/>
    </surface>
-   <surface corresp="#tcp:8390:30" xml:id="A18413-030-a-im">
+   <surface corresp="A18413-#30" xml:id="A18413-030-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$64"/>
    </surface>
-   <surface corresp="#tcp:8390:30" xml:id="A18413-030-b-im">
+   <surface corresp="A18413-#30" xml:id="A18413-030-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$65"/>
    </surface>
-   <surface corresp="#tcp:8390:31" xml:id="A18413-031-a-im">
+   <surface corresp="A18413-#31" xml:id="A18413-031-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$66"/>
    </surface>
-   <surface corresp="#tcp:8390:31" xml:id="A18413-031-b-im">
+   <surface corresp="A18413-#31" xml:id="A18413-031-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$67"/>
    </surface>
-   <surface corresp="#tcp:8390:33" xml:id="A18413-033-a-im">
+   <surface corresp="A18413-#33" xml:id="A18413-033-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$68"/>
    </surface>
-   <surface corresp="#tcp:8390:33" xml:id="A18413-033-b-im">
+   <surface corresp="A18413-#33" xml:id="A18413-033-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$69"/>
    </surface>
-   <surface corresp="#tcp:8390:34" xml:id="A18413-034-a-im">
+   <surface corresp="A18413-#34" xml:id="A18413-034-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$70"/>
    </surface>
-   <surface corresp="#tcp:8390:34" xml:id="A18413-034-b-im">
+   <surface corresp="A18413-#34" xml:id="A18413-034-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$71"/>
    </surface>
-   <surface corresp="#tcp:8390:35" xml:id="A18413-035-a-im">
+   <surface corresp="A18413-#35" xml:id="A18413-035-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$72"/>
    </surface>
-   <surface corresp="#tcp:8390:35" xml:id="A18413-035-b-im">
+   <surface corresp="A18413-#35" xml:id="A18413-035-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$73"/>
    </surface>
-   <surface corresp="#tcp:8390:36" xml:id="A18413-036-a-im">
+   <surface corresp="A18413-#36" xml:id="A18413-036-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$74"/>
    </surface>
-   <surface corresp="#tcp:8390:36" xml:id="A18413-036-b-im">
+   <surface corresp="A18413-#36" xml:id="A18413-036-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$75"/>
    </surface>
-   <surface corresp="#tcp:8390:37" xml:id="A18413-037-a-im">
+   <surface corresp="A18413-#37" xml:id="A18413-037-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$76"/>
    </surface>
-   <surface corresp="#tcp:8390:37" xml:id="A18413-037-b-im">
+   <surface corresp="A18413-#37" xml:id="A18413-037-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$77"/>
    </surface>
-   <surface corresp="#tcp:8390:38" xml:id="A18413-038-a-im">
+   <surface corresp="A18413-#38" xml:id="A18413-038-a-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$78"/>
    </surface>
-   <surface corresp="#tcp:8390:38" xml:id="A18413-038-b-im">
+   <surface corresp="A18413-#38" xml:id="A18413-038-b-im">
     <graphic url="https://iiif.archivelab.org/iiif/gentlemanusher00chap$79"/>
    </surface>
   </surfaceGrp>
   <surfaceGrp n="eebo">
-   <surface corresp="#tcp:8390:1" n="tcp:8390:1"/>
-   <surface corresp="#tcp:8390:2" n="tcp:8390:2"/>
-   <surface corresp="#tcp:8390:3" n="tcp:8390:3"/>
-   <surface corresp="#tcp:8390:3" n="tcp:8390:3"/>
-   <surface corresp="#tcp:8390:4" n="tcp:8390:4"/>
-   <surface corresp="#tcp:8390:4" n="tcp:8390:4"/>
-   <surface corresp="#tcp:8390:5" n="tcp:8390:5"/>
-   <surface corresp="#tcp:8390:5" n="tcp:8390:5"/>
-   <surface corresp="#tcp:8390:6" n="tcp:8390:6"/>
-   <surface corresp="#tcp:8390:6" n="tcp:8390:6"/>
-   <surface corresp="#tcp:8390:7" n="tcp:8390:7"/>
-   <surface corresp="#tcp:8390:7" n="tcp:8390:7"/>
-   <surface corresp="#tcp:8390:8" n="tcp:8390:8"/>
-   <surface corresp="#tcp:8390:8" n="tcp:8390:8"/>
-   <surface corresp="#tcp:8390:9" n="tcp:8390:9"/>
-   <surface corresp="#tcp:8390:9" n="tcp:8390:9"/>
-   <surface corresp="#tcp:8390:10" n="tcp:8390:10"/>
-   <surface corresp="#tcp:8390:10" n="tcp:8390:10"/>
-   <surface corresp="#tcp:8390:11" n="tcp:8390:11"/>
-   <surface corresp="#tcp:8390:11" n="tcp:8390:11"/>
-   <surface corresp="#tcp:8390:12" n="tcp:8390:12"/>
-   <surface corresp="#tcp:8390:12" n="tcp:8390:12"/>
-   <surface corresp="#tcp:8390:13" n="tcp:8390:13"/>
-   <surface corresp="#tcp:8390:13" n="tcp:8390:13"/>
-   <surface corresp="#tcp:8390:14" n="tcp:8390:14"/>
-   <surface corresp="#tcp:8390:14" n="tcp:8390:14"/>
-   <surface corresp="#tcp:8390:15" n="tcp:8390:15"/>
-   <surface corresp="#tcp:8390:15" n="tcp:8390:15"/>
-   <surface corresp="#tcp:8390:16" n="tcp:8390:16"/>
-   <surface corresp="#tcp:8390:16" n="tcp:8390:16"/>
-   <surface corresp="#tcp:8390:17" n="tcp:8390:17"/>
-   <surface corresp="#tcp:8390:17" n="tcp:8390:17"/>
-   <surface corresp="#tcp:8390:18" n="tcp:8390:18"/>
-   <surface corresp="#tcp:8390:18" n="tcp:8390:18"/>
-   <surface corresp="#tcp:8390:19" n="tcp:8390:19"/>
-   <surface corresp="#tcp:8390:19" n="tcp:8390:19"/>
-   <surface corresp="#tcp:8390:20" n="tcp:8390:20"/>
-   <surface corresp="#tcp:8390:20" n="tcp:8390:20"/>
-   <surface corresp="#tcp:8390:21" n="tcp:8390:21"/>
-   <surface corresp="#tcp:8390:21" n="tcp:8390:21"/>
-   <surface corresp="#tcp:8390:22" n="tcp:8390:22"/>
-   <surface corresp="#tcp:8390:22" n="tcp:8390:22"/>
-   <surface corresp="#tcp:8390:23" n="tcp:8390:23"/>
-   <surface corresp="#tcp:8390:23" n="tcp:8390:23"/>
-   <surface corresp="#tcp:8390:24" n="tcp:8390:24"/>
-   <surface corresp="#tcp:8390:24" n="tcp:8390:24"/>
-   <surface corresp="#tcp:8390:25" n="tcp:8390:25"/>
-   <surface corresp="#tcp:8390:25" n="tcp:8390:25"/>
-   <surface corresp="#tcp:8390:26" n="tcp:8390:26"/>
-   <surface corresp="#tcp:8390:26" n="tcp:8390:26"/>
-   <surface corresp="#tcp:8390:27" n="tcp:8390:27"/>
-   <surface corresp="#tcp:8390:27" n="tcp:8390:27"/>
-   <surface corresp="#tcp:8390:28" n="tcp:8390:28"/>
-   <surface corresp="#tcp:8390:28" n="tcp:8390:28"/>
-   <surface corresp="#tcp:8390:29" n="tcp:8390:29"/>
-   <surface corresp="#tcp:8390:29" n="tcp:8390:29"/>
-   <surface corresp="#tcp:8390:30" n="tcp:8390:30"/>
-   <surface corresp="#tcp:8390:30" n="tcp:8390:30"/>
-   <surface corresp="#tcp:8390:31" n="tcp:8390:31"/>
-   <surface corresp="#tcp:8390:31" n="tcp:8390:31"/>
-   <surface corresp="#tcp:8390:33" n="tcp:8390:33"/>
-   <surface corresp="#tcp:8390:33" n="tcp:8390:33"/>
-   <surface corresp="#tcp:8390:34" n="tcp:8390:34"/>
-   <surface corresp="#tcp:8390:34" n="tcp:8390:34"/>
-   <surface corresp="#tcp:8390:35" n="tcp:8390:35"/>
-   <surface corresp="#tcp:8390:35" n="tcp:8390:35"/>
-   <surface corresp="#tcp:8390:36" n="tcp:8390:36"/>
-   <surface corresp="#tcp:8390:36" n="tcp:8390:36"/>
-   <surface corresp="#tcp:8390:37" n="tcp:8390:37"/>
-   <surface corresp="#tcp:8390:37" n="tcp:8390:37"/>
-   <surface corresp="#tcp:8390:38" n="tcp:8390:38"/>
-   <surface corresp="#tcp:8390:38" n="tcp:8390:38"/>
+   <surface corresp="A18413-#1" n="1"/>
+   <surface corresp="A18413-#2" n="2"/>
+   <surface corresp="A18413-#3" n="3"/>
+   <surface corresp="A18413-#3" n="3"/>
+   <surface corresp="A18413-#4" n="4"/>
+   <surface corresp="A18413-#4" n="4"/>
+   <surface corresp="A18413-#5" n="5"/>
+   <surface corresp="A18413-#5" n="5"/>
+   <surface corresp="A18413-#6" n="6"/>
+   <surface corresp="A18413-#6" n="6"/>
+   <surface corresp="A18413-#7" n="7"/>
+   <surface corresp="A18413-#7" n="7"/>
+   <surface corresp="A18413-#8" n="8"/>
+   <surface corresp="A18413-#8" n="8"/>
+   <surface corresp="A18413-#9" n="9"/>
+   <surface corresp="A18413-#9" n="9"/>
+   <surface corresp="A18413-#10" n="10"/>
+   <surface corresp="A18413-#10" n="10"/>
+   <surface corresp="A18413-#11" n="11"/>
+   <surface corresp="A18413-#11" n="11"/>
+   <surface corresp="A18413-#12" n="12"/>
+   <surface corresp="A18413-#12" n="12"/>
+   <surface corresp="A18413-#13" n="13"/>
+   <surface corresp="A18413-#13" n="13"/>
+   <surface corresp="A18413-#14" n="14"/>
+   <surface corresp="A18413-#14" n="14"/>
+   <surface corresp="A18413-#15" n="15"/>
+   <surface corresp="A18413-#15" n="15"/>
+   <surface corresp="A18413-#16" n="16"/>
+   <surface corresp="A18413-#16" n="16"/>
+   <surface corresp="A18413-#17" n="17"/>
+   <surface corresp="A18413-#17" n="17"/>
+   <surface corresp="A18413-#18" n="18"/>
+   <surface corresp="A18413-#18" n="18"/>
+   <surface corresp="A18413-#19" n="19"/>
+   <surface corresp="A18413-#19" n="19"/>
+   <surface corresp="A18413-#20" n="20"/>
+   <surface corresp="A18413-#20" n="20"/>
+   <surface corresp="A18413-#21" n="21"/>
+   <surface corresp="A18413-#21" n="21"/>
+   <surface corresp="A18413-#22" n="22"/>
+   <surface corresp="A18413-#22" n="22"/>
+   <surface corresp="A18413-#23" n="23"/>
+   <surface corresp="A18413-#23" n="23"/>
+   <surface corresp="A18413-#24" n="24"/>
+   <surface corresp="A18413-#24" n="24"/>
+   <surface corresp="A18413-#25" n="25"/>
+   <surface corresp="A18413-#25" n="25"/>
+   <surface corresp="A18413-#26" n="26"/>
+   <surface corresp="A18413-#26" n="26"/>
+   <surface corresp="A18413-#27" n="27"/>
+   <surface corresp="A18413-#27" n="27"/>
+   <surface corresp="A18413-#28" n="28"/>
+   <surface corresp="A18413-#28" n="28"/>
+   <surface corresp="A18413-#29" n="29"/>
+   <surface corresp="A18413-#29" n="29"/>
+   <surface corresp="A18413-#30" n="30"/>
+   <surface corresp="A18413-#30" n="30"/>
+   <surface corresp="A18413-#31" n="31"/>
+   <surface corresp="A18413-#31" n="31"/>
+   <surface corresp="A18413-#33" n="33"/>
+   <surface corresp="A18413-#33" n="33"/>
+   <surface corresp="A18413-#34" n="34"/>
+   <surface corresp="A18413-#34" n="34"/>
+   <surface corresp="A18413-#35" n="35"/>
+   <surface corresp="A18413-#35" n="35"/>
+   <surface corresp="A18413-#36" n="36"/>
+   <surface corresp="A18413-#36" n="36"/>
+   <surface corresp="A18413-#37" n="37"/>
+   <surface corresp="A18413-#37" n="37"/>
+   <surface corresp="A18413-#38" n="38"/>
+   <surface corresp="A18413-#38" n="38"/>
   </surfaceGrp>
  </facsimile>
  <text xml:id="A18413-e100010" xml:lang="eng">
@@ -898,7 +898,7 @@
       <w lemma="Margaret" pos="nn1" rend="hi" type="unclear" xml:id="A18413-003-a-0730">Margaret</w>
       <pc rend="hi" xml:id="A18413-003-a-0740">,</pc>
       <w lemma="that" pos="cs" xml:id="A18413-003-a-0750">that</w>
-      <w lemma="dear" pos="n1" reg="dear" type="unclear" xml:id="A18413-003-a-0760">deare</w>
+      <w lemma="dear" pos="j" reg="dear" type="unclear" xml:id="A18413-003-a-0760">deare</w>
       <w lemma="young" pos="j" reg="young" xml:id="A18413-003-a-0770">yong</w>
       <w lemma="dame" pos="n1" xml:id="A18413-003-a-0780">dame</w>
       <pc unit="sentence" xml:id="A18413-003-a-0790">?</pc>
@@ -1141,7 +1141,7 @@
       <pc xml:id="A18413-003-a-2550">,</pc>
       <w lemma="in" pos="acp" xml:id="A18413-003-a-2560">in</w>
       <w lemma="the" pos="d" xml:id="A18413-003-a-2570">the</w>
-      <w lemma="y" pos="j" reg="very" type="unclear" xml:id="A18413-003-a-2580">verie</w>
+      <w lemma="very" pos="j" reg="very" type="unclear" xml:id="A18413-003-a-2580">verie</w>
       <w lemma="nick" pos="n1" reg="nick" xml:id="A18413-003-a-2590">nicke</w>
       <w lemma="methinks" pos="vvd" reg="methought" xml:id="A18413-003-a-2600">me thought</w>
       <w lemma="the" pos="d" xml:id="A18413-003-a-2610">the</w>
@@ -2205,7 +2205,7 @@
        <w lemma="faith" pos="n1" xml:id="A18413-004-a-2570">Faith</w>
        <w lemma="I" pos="pns" xml:id="A18413-004-a-2580">I</w>
        <w lemma="will" pos="vmd" xml:id="A18413-004-a-2590">would</w>
-       <w lemma="fain" pos="av-j" reg="feign" xml:id="A18413-004-a-2600">faine</w>
+       <w lemma="fain" pos="av" reg="fain" xml:id="A18413-004-a-2600">faine</w>
        <w lemma="disgrace" pos="vvi" xml:id="A18413-004-a-2610">disgrace</w>
        <w lemma="he" pos="pno" xml:id="A18413-004-a-2620">him</w>
        <w lemma="by" pos="acp" xml:id="A18413-004-a-2630">by</w>
@@ -3321,7 +3321,7 @@
       <pc unit="sentence" xml:id="A18413-005-a-3130"/>
      </speaker>
      <p xml:id="A18413-e102850">
-      <w join="right" lemma="let" pos="vvb" reg="let" xml:id="A18413-005-a-3140">Let</w>
+      <w join="right" lemma="let" pos="vvb" xml:id="A18413-005-a-3140">Let</w>
       <w join="left" lemma="we" pos="pno" reg="'s" xml:id="A18413-005-a-3141">s</w>
       <w lemma="see" pos="vvi" xml:id="A18413-005-a-3150">see</w>
       <w lemma="that" pos="cs" xml:id="A18413-005-a-3160">that</w>
@@ -3752,7 +3752,7 @@
        <w lemma="performance" pos="n1" xml:id="A18413-005-b-2670">performance</w>
        <w lemma="too" pos="av" xml:id="A18413-005-b-2680">too</w>
        <pc xml:id="A18413-005-b-2690">;</pc>
-       <w join="right" lemma="I" pos="pns" reg="I" xml:id="A18413-005-b-2700">i</w>
+       <w join="right" lemma="I" pos="pns" xml:id="A18413-005-b-2700">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A18413-005-b-2701">le</w>
        <w lemma="play" pos="vvi" xml:id="A18413-005-b-2710">play</w>
        <w lemma="my" pos="po" xml:id="A18413-005-b-2720">my</w>
@@ -4215,7 +4215,7 @@
        <w lemma="go" pos="vvb" reg="go" xml:id="A18413-006-a-1570">goe</w>
        <w lemma="therefore" pos="av" xml:id="A18413-006-a-1580">therefore</w>
        <pc xml:id="A18413-006-a-1590">,</pc>
-       <w join="right" lemma="I" pos="pns" reg="I" xml:id="A18413-006-a-1600">i</w>
+       <w join="right" lemma="I" pos="pns" xml:id="A18413-006-a-1600">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A18413-006-a-1601">le</w>
        <w lemma="explain" pos="vvi" reg="explain" xml:id="A18413-006-a-1610">explaine</w>
        <w lemma="to" pos="acp" xml:id="A18413-006-a-1620">to</w>
@@ -4666,7 +4666,7 @@
      </speaker>
      <p xml:id="A18413-e104470">
       <w lemma="n/a" pos="fit" xml:id="A18413-006-b-1260">Remi</w>
-      <w lemma="fa" pos="wd" xml:id="A18413-006-b-1270">fa</w>
+      <w lemma="n/a" pos="fit" xml:id="A18413-006-b-1270">fa</w>
       <w lemma="n/a" pos="fit" xml:id="A18413-006-b-1280">solla</w>
       <pc unit="sentence" xml:id="A18413-006-b-1290">?</pc>
      </p>
@@ -5233,7 +5233,7 @@
        <w lemma="befall" pos="vvd" xml:id="A18413-007-a-1550">befell</w>
       </l>
       <l xml:id="A18413-e105040">
-       <w lemma="Syluanus" pos="nn1" reg="sylvanus" rend="hi" xml:id="A18413-007-a-1560">Syluanus</w>
+       <w lemma="Sylvanus" pos="nn1" reg="Sylvanus" rend="hi" xml:id="A18413-007-a-1560">Syluanus</w>
        <w lemma="here" pos="av" reg="here" xml:id="A18413-007-a-1570">heere</w>
        <pc xml:id="A18413-007-a-1580">,</pc>
        <w lemma="this" pos="d" xml:id="A18413-007-a-1590">this</w>
@@ -5866,7 +5866,7 @@
       <w lemma="plague" pos="n1" xml:id="A18413-007-b-2060">Plague</w>
       <w lemma="of" pos="acp" xml:id="A18413-007-b-2070">of</w>
       <w lemma="that" pos="d" xml:id="A18413-007-b-2080">that</w>
-      <w lemma="simile" pos="n1" rend="hi" xml:id="A18413-007-b-2090">Simile</w>
+      <w lemma="n/a" pos="fla" rend="hi" xml:id="A18413-007-b-2090">Simile</w>
       <pc rend="hi" unit="sentence" xml:id="A18413-007-b-2100">.</pc>
      </p>
     </sp>
@@ -9117,7 +9117,7 @@
       <l xml:id="A18413-e109710">
        <w lemma="and" pos="cc" xml:id="A18413-010-b-2730">And</w>
        <w lemma="now" pos="av" xml:id="A18413-010-b-2740">now</w>
-       <w join="right" lemma="I" pos="pns" reg="I" xml:id="A18413-010-b-2750">i</w>
+       <w join="right" lemma="I" pos="pns" xml:id="A18413-010-b-2750">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A18413-010-b-2751">le</w>
        <w lemma="leave" pos="vvi" reg="leave" xml:id="A18413-010-b-2760">leaue</w>
        <w lemma="you" pos="pn" xml:id="A18413-010-b-2770">you</w>
@@ -9140,7 +9140,7 @@
      <p xml:id="A18413-e109730">
       <w lemma="faith" pos="n1" xml:id="A18413-010-b-2870">Faith</w>
       <w lemma="sir" pos="n1" xml:id="A18413-010-b-2880">sir</w>
-      <w lemma="alittle" pos="av" reg="a little" xml:id="A18413-010-b-2890">alittle</w>
+      <w lemma="little" pos="av" reg="a little" xml:id="A18413-010-b-2890">alittle</w>
       <pc unit="sentence" xml:id="A18413-010-b-2900">.</pc>
      </p>
     </sp>
@@ -9201,7 +9201,7 @@
        <w lemma="I" pos="pns" xml:id="A18413-010-b-3280">I</w>
        <w lemma="commend" pos="vvb" xml:id="A18413-010-b-3290">commend</w>
        <w lemma="i" pos="pno" xml:id="A18413-010-b-3300">me</w>
-       <w lemma="n/a" pos="fmi" xml:id="A18413-010-b-3310">tee</w>
+       <w lemma="thou" pos="pno" xml:id="A18413-010-b-3310">tee</w>
        <pc unit="sentence" xml:id="A18413-010-b-3320">.</pc>
       </l>
       <l xml:id="A18413-e109820">
@@ -10232,7 +10232,7 @@
       <w lemma="with" pos="acp" xml:id="A18413-011-b-3140">with</w>
       <w lemma="Bassiolo" pos="n1" xml:id="A18413-011-b-3150">Bassiolo</w>
       <pc xml:id="A18413-011-b-3160">,</pc>
-      <w lemma="&amp;c." pos="ab" xml:id="A18413-011-b-3170">&amp;c.</w>
+      <w lemma="etc." pos="av" reg="etc." xml:id="A18413-011-b-3170">&amp;c.</w>
       <pc unit="sentence" xml:id="A18413-011-b-3180"/>
      </stage>
     </sp>
@@ -12085,7 +12085,7 @@
      <w lemma="song" pos="n1" xml:id="A18413-013-b-3150">song</w>
      <pc xml:id="A18413-013-b-3160">,</pc>
      <w lemma="whisper" pos="vvz" xml:id="A18413-013-b-3170">whispers</w>
-     <w lemma="alone" pos="n1" type="unclear" xml:id="A18413-013-b-3180">alone</w>
+     <w lemma="alone" pos="j" type="unclear" xml:id="A18413-013-b-3180">alone</w>
      <w lemma="with" pos="acp" xml:id="A18413-013-b-3190">with</w>
      <w lemma="his" pos="po" type="unclear" xml:id="A18413-013-b-3200">his</w>
      <w lemma="servant" pos="n1" reg="servant" type="unclear" xml:id="A18413-013-b-3210">seruant</w>
@@ -12531,7 +12531,7 @@
       <w lemma="the" pos="d" xml:id="A18413-014-a-2980">The</w>
       <w lemma="most" pos="avs-d" xml:id="A18413-014-a-2990">most</w>
       <w lemma="fit" pos="j" xml:id="A18413-014-a-3000">fit</w>
-      <w lemma="simile" pos="n1" rend="hi" xml:id="A18413-014-a-3010">simile</w>
+      <w lemma="n/a" pos="fla" rend="hi" xml:id="A18413-014-a-3010">simile</w>
       <w lemma="that" pos="cs" xml:id="A18413-014-a-3020">that</w>
       <w lemma="ever" pos="av" reg="ever" xml:id="A18413-014-a-3030">euer</w>
       <w lemma="be" pos="vvd" xml:id="A18413-014-a-3040">was</w>
@@ -12591,7 +12591,7 @@
       <w lemma="you" pos="pn" xml:id="A18413-014-a-3360">You</w>
       <w lemma="note" pos="vvb" xml:id="A18413-014-a-3370">note</w>
       <w lemma="my" pos="po" xml:id="A18413-014-a-3380">my</w>
-      <w lemma="simile" pos="n1" rend="hi" xml:id="A18413-014-a-3390">simile</w>
+      <w lemma="n/a" pos="fla" rend="hi" xml:id="A18413-014-a-3390">simile</w>
       <pc rend="hi" unit="sentence" xml:id="A18413-014-a-3400">.</pc>
      </p>
     </sp>
@@ -13143,7 +13143,7 @@
       <l xml:id="A18413-e114330">
        <w lemma="of" pos="acp" xml:id="A18413-015-a-0210">Of</w>
        <w lemma="other" pos="pi2-d" xml:id="A18413-015-a-0220">others</w>
-       <w lemma="common" pos="n1" type="unclear" xml:id="A18413-015-a-0230">common</w>
+       <w lemma="common" pos="j" type="unclear" xml:id="A18413-015-a-0230">common</w>
        <w lemma="friendship" pos="n1" xml:id="A18413-015-a-0240">friendship</w>
        <pc xml:id="A18413-015-a-0250">;</pc>
        <w lemma="be" pos="vvi" xml:id="A18413-015-a-0260">be</w>
@@ -13914,7 +13914,7 @@
        <w lemma="Vincentio" pos="nn1" rend="hi" xml:id="A18413-015-b-1830">Vincentio</w>
        <pc rend="hi" xml:id="A18413-015-b-1840">;</pc>
        <w lemma="but" pos="acp" xml:id="A18413-015-b-1850">but</w>
-       <w lemma="Vince" pos="nn1" rend="hi" xml:id="A18413-015-b-1860">vince</w>
+       <w lemma="n/a" pos="fla" rend="hi" xml:id="A18413-015-b-1860">vince</w>
        <pc rend="hi" xml:id="A18413-015-b-1870">,</pc>
       </l>
       <l xml:id="A18413-e115220">
@@ -13933,7 +13933,7 @@
        <pc xml:id="A18413-015-b-1990">,</pc>
       </l>
       <l xml:id="A18413-e115230">
-       <w lemma="betwixt" pos="acp" reg="twixt" xml:id="A18413-015-b-2000">Twixt</w>
+       <w lemma="betwixt" pos="acp" xml:id="A18413-015-b-2000">Twixt</w>
        <w lemma="man" pos="n2" xml:id="A18413-015-b-2010">men</w>
        <w lemma="of" pos="acp" xml:id="A18413-015-b-2020">of</w>
        <w lemma="no" pos="dx" xml:id="A18413-015-b-2030">no</w>
@@ -16573,8 +16573,7 @@
       <w join="right" lemma="I" pos="pns" xml:id="A18413-018-a-0550">I</w>
       <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A18413-018-a-0551">le</w>
       <w lemma="begone" pos="uh" xml:id="A18413-018-a-0560">begone</w>
-      <w lemma="God" pos="nn1" xml:id="A18413-018-a-0570">God</w>
-      <w lemma="bye" pos="uh" reg="bye" xml:id="A18413-018-a-0580">bwy</w>
+      <w lemma="Good bye" pos="uh" reg="Good bye" xml:id="A18413-018-a-0580">God bwy</w>
       <w lemma="lord" pos="n1" xml:id="A18413-018-a-0590">lord</w>
       <pc xml:id="A18413-018-a-0600">,</pc>
       <w lemma="duke" pos="n1" xml:id="A18413-018-a-0610">duke</w>
@@ -16842,7 +16841,7 @@
        <w lemma="a" pos="d" xml:id="A18413-018-a-2470">a</w>
        <w lemma="force" pos="j-vn" reg="forced" xml:id="A18413-018-a-2480">forc'd</w>
        <w lemma="marriage" pos="n1" xml:id="A18413-018-a-2490">marriage</w>
-       <w lemma="twixt" pos="acp" reg="twixt" xml:id="A18413-018-a-2500">t'wixt</w>
+       <w lemma="betwixt" pos="acp" reg="betwixt" xml:id="A18413-018-a-2500">t'wixt</w>
        <w lemma="my" pos="po" xml:id="A18413-018-a-2510">my</w>
        <w lemma="love" pos="n1" reg="love" xml:id="A18413-018-a-2520">loue</w>
        <w lemma="and" pos="cc" xml:id="A18413-018-a-2530">and</w>
@@ -17707,7 +17706,7 @@
       </l>
       <l xml:id="A18413-e119260">
        <w lemma="here" pos="av" reg="Here" xml:id="A18413-019-a-0530">Heere</w>
-       <w lemma="gentle" pos="n1" type="unclear" xml:id="A18413-019-a-0540">gentle</w>
+       <w lemma="gentle" pos="j" reg="gentle" type="unclear" xml:id="A18413-019-a-0540">gentle</w>
        <w lemma="madam" pos="n1" type="unclear" xml:id="A18413-019-a-0550">madam</w>
        <pc xml:id="A18413-019-a-0560">,</pc>
        <w lemma="take" pos="vvb" xml:id="A18413-019-a-0570">take</w>
@@ -22630,8 +22629,7 @@
        <w lemma="as" pos="prt" xml:id="A18413-023-b-0360">as</w>
        <w lemma="be" pos="vvz" xml:id="A18413-023-b-0370">is</w>
        <w lemma="your" pos="po" xml:id="A18413-023-b-0380">your</w>
-       <w lemma="fore" pos="n1" xml:id="A18413-023-b-0390">fore</w>
-       <w lemma="part" pos="n1" xml:id="A18413-023-b-0400">part</w>
+       <w lemma="forepart" pos="n1" reg="forepart" xml:id="A18413-023-b-0390">fore part</w>
        <pc unit="sentence" xml:id="A18413-023-b-0410">.</pc>
       </l>
      </lg>
@@ -23285,7 +23283,7 @@
       <l xml:id="A18413-e125320">
        <w lemma="he" pos="pns" xml:id="A18413-024-a-0850">He</w>
        <w lemma="miss" pos="vvd" reg="missed" xml:id="A18413-024-a-0860">miss'd</w>
-       <w lemma="alittle" pos="av" reg="a little" xml:id="A18413-024-a-0870">alittle</w>
+       <w lemma="little" pos="av" reg="a little" xml:id="A18413-024-a-0870">alittle</w>
        <pc xml:id="A18413-024-a-0880">:</pc>
        <w lemma="he" pos="pns" xml:id="A18413-024-a-0890">he</w>
        <w lemma="say" pos="vvd" xml:id="A18413-024-a-0900">said</w>
@@ -25935,7 +25933,7 @@
        <w lemma="well" pos="av" xml:id="A18413-026-b-1840">well</w>
        <pc xml:id="A18413-026-b-1850">;</pc>
        <w lemma="and" pos="cc" xml:id="A18413-026-b-1860">and</w>
-       <w join="right" lemma="I" pos="pns" reg="I" xml:id="A18413-026-b-1870">i</w>
+       <w join="right" lemma="I" pos="pns" xml:id="A18413-026-b-1870">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A18413-026-b-1871">le</w>
        <w lemma="teach" pos="vvi" xml:id="A18413-026-b-1880">teach</w>
        <w lemma="my" pos="po" xml:id="A18413-026-b-1890">my</w>
@@ -26047,7 +26045,7 @@
       <w lemma="i" pos="pno" xml:id="A18413-026-b-2700">me</w>
       <w lemma="too" pos="av" xml:id="A18413-026-b-2710">too</w>
       <pc xml:id="A18413-026-b-2720">;</pc>
-      <w join="right" lemma="I" pos="pns" reg="I" xml:id="A18413-026-b-2730">i</w>
+      <w join="right" lemma="I" pos="pns" xml:id="A18413-026-b-2730">i</w>
       <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A18413-026-b-2731">le</w>
       <w lemma="stay" pos="vvb" xml:id="A18413-026-b-2740">stay</w>
       <pc join="right" xml:id="A18413-026-b-2750">(</pc>
@@ -26302,7 +26300,7 @@
        <w lemma="will" pos="vmd" xml:id="A18413-027-a-0520">Would</w>
        <w lemma="see" pos="vvi" xml:id="A18413-027-a-0530">see</w>
        <w lemma="you" pos="pn" xml:id="A18413-027-a-0540">you</w>
-       <w lemma="fain" pos="av-j" reg="feign" xml:id="A18413-027-a-0550">faine</w>
+       <w lemma="fain" pos="av" reg="fain" xml:id="A18413-027-a-0550">faine</w>
        <w lemma="and" pos="cc" xml:id="A18413-027-a-0560">and</w>
        <w lemma="now" pos="av" xml:id="A18413-027-a-0570">now</w>
        <w lemma="be" pos="vvz" xml:id="A18413-027-a-0580">is</w>
@@ -30297,10 +30295,10 @@
        <w lemma="take" pos="vvz" xml:id="A18413-030-b-4150">takes</w>
        <pc unit="sentence" xml:id="A18413-030-b-4160">.</pc>
        <stage xml:id="A18413-e132740">
-        <w lemma="Belle" pos="nn1" reg="bell" xml:id="A18413-030-b-4170">Belle</w>
+        <w lemma="Belle" pos="nn1" reg="Belle" xml:id="A18413-030-b-4170">Belle</w>
         <w lemma="n/a" pos="fit" xml:id="A18413-030-b-4180">Piu</w>
         <pc unit="sentence" xml:id="A18413-030-b-4190">.</pc>
-        <w lemma="&amp;c." pos="ab" xml:id="A18413-030-b-4200">&amp;c.</w>
+        <w lemma="etc." pos="av" reg="etc." xml:id="A18413-030-b-4200">&amp;c.</w>
         <w lemma="n/a" pos="fla" xml:id="A18413-030-b-4210">iterum</w>
         <w lemma="n/a" pos="fla" xml:id="A18413-030-b-4220">cant</w>
         <pc unit="sentence" xml:id="A18413-030-b-4230">.</pc>
@@ -32877,7 +32875,7 @@
       </l>
       <l xml:id="A18413-e135670">
        <w lemma="shall" pos="vmb" xml:id="A18413-033-a-3260">Shall</w>
-       <w lemma="exorcise" pos="vvi" xml:id="A18413-033-a-3270">exorcise</w>
+       <w lemma="exorcize" pos="vvi" reg="exorcize" xml:id="A18413-033-a-3270">exorcise</w>
        <w lemma="the" pos="d" xml:id="A18413-033-a-3280">the</w>
        <w lemma="devilish" pos="j" reg="devilish" xml:id="A18413-033-a-3290">diuelish</w>
        <w lemma="wrath" pos="n1" xml:id="A18413-033-a-3300">wrath</w>
@@ -33071,7 +33069,7 @@
       <w lemma="almost" pos="av" xml:id="A18413-033-b-1390">almost</w>
       <pc xml:id="A18413-033-b-1400">,</pc>
       <w lemma="he" pos="pns" xml:id="A18413-033-b-1410">he</w>
-      <w lemma="strike" pos="vvd" xml:id="A18413-033-b-1420">strake</w>
+      <w lemma="strike" pos="vvd" reg="struck" xml:id="A18413-033-b-1420">strake</w>
       <w lemma="at" pos="acp" type="unclear" xml:id="A18413-033-b-1430">at</w>
       <w lemma="he" pos="pno" xml:id="A18413-033-b-1440">him</w>
       <pc xml:id="A18413-033-b-1450">,</pc>
@@ -33234,8 +33232,7 @@
        <w lemma="shall" pos="vmd" xml:id="A18413-033-b-2520">should</w>
        <w lemma="suffer" pos="vvi" xml:id="A18413-033-b-2530">suffer</w>
        <w lemma="such" pos="d" xml:id="A18413-033-b-2540">such</w>
-       <w lemma="n/a" pos="fla" xml:id="A18413-033-b-2550">impi</w>
-       <w lemma="tie" pos="zz" xml:id="A18413-033-b-2560">tie</w>
+       <w lemma="impiety" pos="n1" reg="impiety" xml:id="A18413-033-b-2560">impietie</w>
        <pc unit="sentence" xml:id="A18413-033-b-2570">.</pc>
       </l>
      </lg>
@@ -33516,7 +33513,7 @@
        <w lemma="easy" pos="js" type="unclear" xml:id="A18413-034-a-0390">easiest</w>
        <w lemma="I" pos="pns" xml:id="A18413-034-a-0400">I</w>
        <w lemma="will" pos="vmd" xml:id="A18413-034-a-0410">would</w>
-       <w lemma="fain" pos="av-j" reg="feign" xml:id="A18413-034-a-0420">faine</w>
+       <w lemma="fain" pos="av" reg="fain" xml:id="A18413-034-a-0420">faine</w>
        <w lemma="endure" pos="vvi" xml:id="A18413-034-a-0430">endure</w>
        <pc unit="sentence" xml:id="A18413-034-a-0440">.</pc>
       </l>
@@ -35968,7 +35965,7 @@
        <w lemma="open" pos="vvb" xml:id="A18413-036-b-0620">Open</w>
        <w lemma="thou" pos="pns" xml:id="A18413-036-b-0630">thou</w>
        <w lemma="little" pos="j" xml:id="A18413-036-b-0640">little</w>
-       <w lemma="store-house" pos="n1" reg="storehouse" xml:id="A18413-036-b-0650">store-house</w>
+       <w lemma="storehouse" pos="n1" reg="storehouse" xml:id="A18413-036-b-0650">store-house</w>
        <w lemma="of" pos="acp" xml:id="A18413-036-b-0660">of</w>
        <w lemma="great" pos="j" xml:id="A18413-036-b-0670">great</w>
        <w lemma="nature" pos="n1" xml:id="A18413-036-b-0680">Nature</w>
@@ -37751,7 +37748,7 @@
        <w lemma="pass" pos="vvg" xml:id="A18413-038-a-2460">passing</w>
       </l>
       <l xml:id="A18413-e140780">
-       <w lemma="betwixt" pos="acp" reg="twixt" xml:id="A18413-038-a-2470">Twixt</w>
+       <w lemma="betwixt" pos="acp" xml:id="A18413-038-a-2470">Twixt</w>
        <w lemma="Zant" pos="nn1" rend="hi" type="unclear" xml:id="A18413-038-a-2480">Zant</w>
        <w lemma="and" pos="cc" xml:id="A18413-038-a-2490">and</w>
        <w lemma="Venice" pos="nn1" reg="Venice" rend="hi" xml:id="A18413-038-a-2500">Uenice</w>

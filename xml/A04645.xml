@@ -25,7 +25,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A04645-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A04645.xml</idno>
    </publicationStmt>
@@ -6925,7 +6925,7 @@
         <w lemma="all" pos="d" xml:id="A04645-010-a-2060">all</w>
         <w lemma="the" pos="d" xml:id="A04645-010-a-2070">the</w>
         <w lemma="silence" pos="j-vn" reg="silenced" xml:id="A04645-010-a-2080">silenc'd</w>
-        <w lemma="brethren" pos="n2" xml:id="A04645-010-a-2090">Brethren</w>
+        <w lemma="brother" pos="n2" xml:id="A04645-010-a-2090">Brethren</w>
         <pc xml:id="A04645-010-a-2100">,</pc>
         <w lemma="once" pos="acp" xml:id="A04645-010-a-2110">once</w>
         <w lemma="in" pos="acp" xml:id="A04645-010-a-2120">in</w>
@@ -18509,7 +18509,7 @@
       </stage>
       <sp who="A04645-truewit" xml:id="A04645-e110110">
        <p xml:id="A04645-e110120">
-        <w join="right" lemma="where" orig="VVHere" pos="crq" reg="where" xml:id="A04645-024-b-0370">WHere</w>
+        <w join="right" lemma="where" orig="VVHere" pos="crq" xml:id="A04645-024-b-0370">WHere</w>
         <w join="left" lemma="be" pos="vvz" xml:id="A04645-024-b-0371">'s</w>
         <w lemma="master" pos="n1" xml:id="A04645-024-b-0380">Master</w>
         <w lemma="Morose" pos="nn1" rend="hi" xml:id="A04645-024-b-0390">Morose</w>
@@ -41950,7 +41950,7 @@
         <pc rend="hi" xml:id="A04645-049-a-1250">,</pc>
         <w lemma="it" pos="pn" xml:id="A04645-049-a-1260">it</w>
         <w lemma="be" pos="vvz" xml:id="A04645-049-a-1270">is</w>
-        <w lemma="the" pos="d" rend="hi" xml:id="A04645-049-a-1280">de</w>
+        <w lemma="n/a" pos="fla" rend="hi" xml:id="A04645-049-a-1280">de</w>
         <w lemma="part" pos="n1" reg="part" rend="hi" xml:id="A04645-049-a-1290">parte</w>
         <w lemma="n/a" pos="fla" reg="uxoris" rend="hi" xml:id="A04645-049-a-1300">vxoris</w>
         <pc rend="hi" xml:id="A04645-049-a-1310">,</pc>

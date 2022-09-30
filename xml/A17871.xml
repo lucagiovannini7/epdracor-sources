@@ -24,7 +24,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A17871-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A17871.xml</idno>
    </publicationStmt>
@@ -179,7 +179,7 @@
      <w lemma="day" pos="n1" xml:id="A17871-001-b-0470">Day</w>
      <w lemma="at" pos="acp" xml:id="A17871-001-b-0480">at</w>
      <w lemma="court" pos="n1" xml:id="A17871-001-b-0490">Court</w>
-     <w lemma="solemnize" pos="vvn" reg="solemnised" xml:id="A17871-001-b-0500">solemnized</w>
+     <w lemma="solemnize" pos="vvn" reg="solemnized" xml:id="A17871-001-b-0500">solemnized</w>
      <pc unit="sentence" xml:id="A17871-001-b-0510">.</pc>
      <w lemma="to" pos="acp" xml:id="A17871-001-b-0520">To</w>
      <w lemma="this" pos="d" xml:id="A17871-001-b-0530">this</w>
@@ -973,7 +973,7 @@
       <pc unit="sentence" xml:id="A17871-003-b-2270">.</pc>
      </l>
      <l xml:id="A17871-e100780">
-      <w lemma="but" pos="acp" reg="but" xml:id="A17871-003-b-2280">Bnt</w>
+      <w lemma="but" pos="acp" reg="but" xml:id="A17871-003-b-2280">But</w>
       <w lemma="if" pos="cs" xml:id="A17871-003-b-2290">if</w>
       <w lemma="you" pos="pn" xml:id="A17871-003-b-2300">you</w>
       <w lemma="favour" pos="vvb" reg="favour" xml:id="A17871-003-b-2310">fauour</w>
@@ -1221,7 +1221,7 @@
      <w lemma="day" pos="n1" xml:id="A17871-004-b-0480">day</w>
      <w lemma="at" pos="acp" xml:id="A17871-004-b-0490">at</w>
      <w lemma="court" pos="n1" xml:id="A17871-004-b-0500">Court</w>
-     <w lemma="solemnize" pos="vvn" reg="solemnised" xml:id="A17871-004-b-0510">solemnized</w>
+     <w lemma="solemnize" pos="vvn" reg="solemnized" xml:id="A17871-004-b-0510">solemnized</w>
      <pc unit="sentence" xml:id="A17871-004-b-0520">.</pc>
     </head>
     <p xml:id="A17871-e100980">
@@ -1749,7 +1749,7 @@
      <w lemma="the" pos="d" xml:id="A17871-005-b-0780">the</w>
      <w lemma="middlemost" pos="js" xml:id="A17871-005-b-0790">middlemost</w>
      <w lemma="be" pos="vvg" xml:id="A17871-005-b-0800">being</w>
-     <w lemma="high" pos="avs" xml:id="A17871-005-b-0810">highest</w>
+     <w lemma="high" pos="js" xml:id="A17871-005-b-0810">highest</w>
      <w lemma="and" pos="cc" xml:id="A17871-005-b-0820">and</w>
      <w lemma="great" pos="js" xml:id="A17871-005-b-0830">greatest</w>
      <pc xml:id="A17871-005-b-0840">,</pc>
@@ -3291,7 +3291,7 @@
       <w lemma="no" pos="dx" xml:id="A17871-008-a-0890">No</w>
       <w lemma="maid" pos="n1" reg="maid" xml:id="A17871-008-a-0900">maide</w>
       <w lemma="but" pos="acp" xml:id="A17871-008-a-0910">but</w>
-      <w lemma="fain" pos="av-j" reg="feign" xml:id="A17871-008-a-0920">faine</w>
+      <w lemma="fain" pos="av" reg="fain" xml:id="A17871-008-a-0920">faine</w>
       <w lemma="will" pos="vmd" xml:id="A17871-008-a-0930">would</w>
       <w lemma="be" pos="vvi" xml:id="A17871-008-a-0940">be</w>
       <w lemma="a" pos="d" xml:id="A17871-008-a-0950">a</w>
@@ -3592,7 +3592,7 @@
       <w lemma="wide" pos="av-j" xml:id="A17871-008-b-0770">wide</w>
       <w lemma="our" pos="po" xml:id="A17871-008-b-0780">our</w>
       <w lemma="drowsy" pos="j" xml:id="A17871-008-b-0790">drowsy</w>
-      <w lemma="spright" pos="n2" xml:id="A17871-008-b-0800">sprights</w>
+      <w lemma="spirit" pos="n2" reg="sprights" xml:id="A17871-008-b-0800">sprights</w>
      </l>
      <l xml:id="A17871-e102140">
       <w lemma="see" pos="vvb" xml:id="A17871-008-b-0810">See</w>
@@ -5526,7 +5526,7 @@
       <w lemma="and" pos="cc" xml:id="A17871-011-b-0220">and</w>
       <w lemma="so" pos="av" xml:id="A17871-011-b-0230">so</w>
       <w lemma="fall" pos="vvb" xml:id="A17871-011-b-0240">fall</w>
-      <w lemma="&amp;c." pos="ab" xml:id="A17871-011-b-0250">&amp;c.</w>
+      <w lemma="etc." pos="av" reg="etc." xml:id="A17871-011-b-0250">&amp;c.</w>
       <pc unit="sentence" xml:id="A17871-011-b-0260"/>
      </l>
     </sp>
@@ -5638,7 +5638,7 @@
       <w lemma="and" pos="cc" xml:id="A17871-011-b-1170">and</w>
       <w lemma="Diana" pos="nn1" xml:id="A17871-011-b-1180">Diana</w>
       <pc xml:id="A17871-011-b-1190">,</pc>
-      <w lemma="&amp;c." pos="ab" xml:id="A17871-011-b-1200">&amp;c.</w>
+      <w lemma="etc." pos="av" reg="etc." xml:id="A17871-011-b-1200">&amp;c.</w>
       <pc unit="sentence" xml:id="A17871-011-b-1210"/>
      </l>
     </sp>
@@ -6518,7 +6518,7 @@
       <pc xml:id="A17871-013-a-0810">:</pc>
      </l>
      <l xml:id="A17871-e104140">
-      <w lemma="therewith" pos="av" reg="therewith" xml:id="A17871-013-a-0820">Therewith</w>
+      <w lemma="therewith" pos="av" xml:id="A17871-013-a-0820">Therewith</w>
       <w lemma="the" pos="d" xml:id="A17871-013-a-0830">the</w>
       <w lemma="sober" pos="j" xml:id="A17871-013-a-0840">sober</w>
       <w lemma="branch" pos="n2" xml:id="A17871-013-a-0850">branches</w>

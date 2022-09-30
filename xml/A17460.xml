@@ -25,7 +25,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A17460-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A17460.xml</idno>
    </publicationStmt>
@@ -1719,7 +1719,7 @@
        <w lemma="as" pos="acp" xml:id="A17460-004-b-2940">As</w>
        <w lemma="small" pos="j" xml:id="A17460-004-b-2950">small</w>
        <w lemma="as" pos="acp" xml:id="A17460-004-b-2960">as</w>
-       <w lemma="atomy" pos="n2" reg="atomies" xml:id="A17460-004-b-2970">Atomies</w>
+       <w lemma="atomy" pos="n2" xml:id="A17460-004-b-2970">Atomies</w>
        <pc xml:id="A17460-004-b-2980">,</pc>
        <w lemma="and" pos="cc" xml:id="A17460-004-b-2990">and</w>
        <w lemma="throw" pos="vvb" xml:id="A17460-004-b-3000">throw</w>
@@ -4208,7 +4208,7 @@
        <w lemma="a" pos="d" xml:id="A17460-008-a-0520">a</w>
        <w lemma="bargain" pos="n1" reg="Bargain" xml:id="A17460-008-a-0530">Bargaine</w>
        <w lemma="of" pos="acp" xml:id="A17460-008-a-0540">of</w>
-       <w lemma="crock-butter" pos="n1" reg="crock-butter" xml:id="A17460-008-a-0550">Crock-Butter</w>
+       <w lemma="crock-butter" pos="n1" xml:id="A17460-008-a-0550">Crock-Butter</w>
        <pc xml:id="A17460-008-a-0560">,</pc>
        <w lemma="if" pos="cs" xml:id="A17460-008-a-0570">if</w>
        <w lemma="I" pos="pns" xml:id="A17460-008-a-0580">I</w>
@@ -28930,7 +28930,7 @@
        <w lemma="for" pos="acp" xml:id="A17460-037-b-0280">for</w>
        <w lemma="who" pos="crq" xml:id="A17460-037-b-0290">whose</w>
        <w lemma="sake" pos="n1" xml:id="A17460-037-b-0300">sake</w>
-       <w join="right" lemma="I" pos="pns" reg="I" xml:id="A17460-037-b-0310">i</w>
+       <w join="right" lemma="I" pos="pns" xml:id="A17460-037-b-0310">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A17460-037-b-0311">le</w>
        <w lemma="wear" pos="vvi" reg="wear" xml:id="A17460-037-b-0320">weare</w>
        <w lemma="it" pos="pn" xml:id="A17460-037-b-0330">it</w>
@@ -38563,7 +38563,7 @@
       </speaker>
       <l xml:id="A17460-e134020">
        <w lemma="yes" pos="uh" xml:id="A17460-049-b-0860">Yes</w>
-       <w join="right" lemma="I" pos="pns" reg="I" xml:id="A17460-049-b-0870">i</w>
+       <w join="right" lemma="I" pos="pns" xml:id="A17460-049-b-0870">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A17460-049-b-0871">'le</w>
        <w lemma="think" pos="vvi" reg="think" xml:id="A17460-049-b-0880">thinke</w>
        <w lemma="of" pos="acp" xml:id="A17460-049-b-0890">of</w>
@@ -38698,7 +38698,7 @@
       <l xml:id="A17460-e134180">
        <w lemma="believe" pos="vvb" reg="Believe" xml:id="A17460-049-b-1750">Beleeue</w>
        <w lemma="it" pos="pn" xml:id="A17460-049-b-1760">it</w>
-       <w join="right" lemma="I" pos="pns" reg="I" xml:id="A17460-049-b-1770">i</w>
+       <w join="right" lemma="I" pos="pns" xml:id="A17460-049-b-1770">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A17460-049-b-1771">'le</w>
        <w lemma="stab" pos="vvi" xml:id="A17460-049-b-1780">stab</w>
        <w lemma="too" pos="av" xml:id="A17460-049-b-1790">too</w>

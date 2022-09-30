@@ -266,7 +266,7 @@
      <w lemma="worthy" pos="j" reg="worthy" xml:id="A03019-003-b-0290">worthie</w>
      <w lemma="brother" pos="n2" reg="brethren" xml:id="A03019-003-b-0300">Bretheren</w>
      <pc xml:id="A03019-003-b-0310">,</pc>
-     <w lemma="&amp;c." pos="ab" xml:id="A03019-003-b-0320">&amp;c.</w>
+     <w lemma="etc." pos="av" reg="etc." xml:id="A03019-003-b-0320">&amp;c.</w>
      <pc unit="sentence" xml:id="A03019-003-b-0330"/>
     </head>
     <p xml:id="A03019-e130">
@@ -448,9 +448,10 @@
      <w lemma="the" pos="d" xml:id="A03019-004-b-0340">the</w>
      <w lemma="last" pos="ord" xml:id="A03019-004-b-0350">last</w>
      <w lemma="of" pos="acp" xml:id="A03019-004-b-0360">of</w>
-     <w lemma="may." pos="ab" xml:id="A03019-004-b-0370">May.</w>
+     <w lemma="May" pos="nn1" xml:id="A03019-004-b-0370">May</w>
+     <pc unit="sentence" xml:id="A03019-004-b-03701">.</pc>
      <w lemma="1610." pos="crd" rend="hi" xml:id="A03019-004-b-0380">1610.</w>
-     <w lemma="&amp;c." pos="ab" xml:id="A03019-004-b-0390">&amp;c.</w>
+     <w lemma="etc." pos="av" reg="etc." xml:id="A03019-004-b-0390">&amp;c.</w>
      <pc unit="sentence" xml:id="A03019-004-b-0400"/>
     </head>
     <p xml:id="A03019-e200">
@@ -2034,7 +2035,7 @@
      <pc xml:id="A03019-009-a-1370">,</pc>
      <w lemma="be" pos="vvd" xml:id="A03019-009-a-1380">were</w>
      <w lemma="plentiful" orig="plētifully" pos="av-j" xml:id="A03019-009-a-1390">plentifully</w>
-     <w lemma="entercourse" pos="vvn" xml:id="A03019-009-a-1400">entercoursed</w>
+     <w lemma="intercourse" pos="vvn" reg="intercoursed" xml:id="A03019-009-a-1400">entercoursed</w>
      <pc xml:id="A03019-009-a-1410">,</pc>
      <w lemma="and" pos="cc" xml:id="A03019-009-a-1420">and</w>
      <w lemma="no" pos="dx" xml:id="A03019-009-a-1430">no</w>
@@ -2960,7 +2961,7 @@
          <w lemma="as" pos="acp" xml:id="A03019-013-b-0040">as</w>
          <w lemma="grieve" pos="vvg" reg="grieving" xml:id="A03019-013-b-0050">greeuing</w>
          <w lemma="to" pos="prt" xml:id="A03019-013-b-0060">to</w>
-         <w lemma="forgo" pos="vvi" reg="forego" xml:id="A03019-013-b-0070">forgoe</w>
+         <w lemma="forego" pos="vvi" reg="forego" xml:id="A03019-013-b-0070">forgoe</w>
          <w lemma="you" pos="pn" xml:id="A03019-013-b-0080">you</w>
          <pc xml:id="A03019-013-b-0090">:</pc>
          <w lemma="our" pos="po" xml:id="A03019-013-b-0100">Our</w>
@@ -3055,7 +3056,7 @@
          <pc unit="sentence" xml:id="A03019-013-b-0970">.</pc>
         </p>
         <p xml:id="A03019-e1120">
-         <w lemma="home" pos="zz" xml:id="A03019-013-b-0980">Home</w>
+         <w lemma="home" pos="av-n" xml:id="A03019-013-b-0980">Home</w>
          <w lemma="again" pos="av" reg="again" xml:id="A03019-013-b-0990">againe</w>
          <w lemma="then" pos="av" xml:id="A03019-013-b-1000">then</w>
          <w lemma="fair" pos="j" reg="fair" xml:id="A03019-013-b-1010">fayre</w>

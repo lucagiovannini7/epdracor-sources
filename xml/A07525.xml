@@ -25,7 +25,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A07525-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A07525.xml</idno>
    </publicationStmt>
@@ -736,7 +736,7 @@
      <w lemma="to" pos="acp" xml:id="A07525-004-b-0980">to</w>
      <w lemma="the" pos="d" xml:id="A07525-004-b-0990">the</w>
      <w lemma="press" pos="n1" reg="Press" xml:id="A07525-004-b-1000">Presse</w>
-     <w lemma="rather" pos="av" xml:id="A07525-004-b-1010">rather</w>
+     <w lemma="rather" pos="avc" xml:id="A07525-004-b-1010">rather</w>
      <w lemma="by" pos="acp" xml:id="A07525-004-b-1020">by</w>
      <w lemma="the" pos="d" xml:id="A07525-004-b-1030">the</w>
      <w lemma="Printer" pos="n1" xml:id="A07525-004-b-1040">Printer</w>
@@ -7149,7 +7149,7 @@
        <pc xml:id="A07525-014-a-2200">;</pc>
       </l>
       <l xml:id="A07525-e106520">
-       <w lemma="rather" pos="av" xml:id="A07525-014-a-2210">Rather</w>
+       <w lemma="rather" pos="avc" xml:id="A07525-014-a-2210">Rather</w>
        <w lemma="no" pos="dx" xml:id="A07525-014-a-2220">no</w>
        <w lemma="hair" pos="n1" reg="hair" xml:id="A07525-014-a-2230">haire</w>
        <w lemma="at" pos="acp" xml:id="A07525-014-a-2240">at</w>

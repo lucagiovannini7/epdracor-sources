@@ -24,7 +24,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A04632-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A04632_13.xml</idno>
    </publicationStmt>
@@ -524,7 +524,7 @@
      </speaker>
      <lg xml:id="A04632_13-e100280">
       <l xml:id="A04632_13-e100290">
-       <w lemma="Haile" pos="uh" reg="hail" xml:id="A04632-463-a-0300">Haile</w>
+       <w lemma="hail" pos="uh" reg="Hail" xml:id="A04632-463-a-0300">Haile</w>
        <pc xml:id="A04632-463-a-0310">,</pc>
        <w lemma="and" pos="cc" xml:id="A04632-463-a-0320">and</w>
        <w lemma="welcome" pos="uh-j" xml:id="A04632-463-a-0330">welcome</w>
@@ -2083,7 +2083,7 @@
       <w lemma="be" pos="vvz" xml:id="A04632-465-a-0030">is</w>
       <w lemma="the" pos="d" xml:id="A04632-465-a-0040">the</w>
       <w lemma="keeper" pos="ng1" reg="keeper's" xml:id="A04632-465-a-0050">Keepers</w>
-      <w lemma="hart" pos="n1" xml:id="A04632-465-a-0060">hart</w>
+      <w lemma="heart" pos="n1" reg="heart" xml:id="A04632-465-a-0060">hart</w>
       <pc xml:id="A04632-465-a-0070">,</pc>
      </l>
      <l xml:id="A04632_13-e102110">
@@ -4508,7 +4508,7 @@
       <pc xml:id="A04632-467-b-2680">,</pc>
       <w lemma="jug" pos="n1" xml:id="A04632-467-b-2690">jug</w>
       <pc xml:id="A04632-467-b-2700">,</pc>
-      <w lemma="&amp;c." pos="ab" xml:id="A04632-467-b-2710">&amp;c.</w>
+      <w lemma="etc." pos="av" reg="etc." xml:id="A04632-467-b-2710">&amp;c.</w>
       <pc unit="sentence" xml:id="A04632-467-b-2720"/>
      </l>
      <l xml:id="A04632_13-e103880">
@@ -4656,7 +4656,7 @@
         <w lemma="the" pos="d" xml:id="A04632-467-b-3840">the</w>
         <w lemma="pleasure" pos="n2" xml:id="A04632-467-b-3850">pleasures</w>
         <w lemma="be" pos="vvd" xml:id="A04632-467-b-3860">were</w>
-        <w lemma="distil" pos="vvn" reg="distilled" xml:id="A04632-467-b-3870">distill'd</w>
+        <w lemma="distill" pos="vvn" reg="distilled" xml:id="A04632-467-b-3870">distill'd</w>
        </l>
        <l xml:id="A04632_13-e104040">
         <w lemma="of" pos="acp" xml:id="A04632-467-b-3880">Of</w>
@@ -5549,7 +5549,7 @@
        <w lemma="the" pos="d" xml:id="A04632-470-b-4180">the</w>
        <w lemma="guardian" pos="n1" xml:id="A04632-470-b-4190">Guardian</w>
        <pc unit="sentence" xml:id="A04632-470-b-4200">.</pc>
-       <w lemma="Loe" pos="uh" reg="lo" xml:id="A04632-470-b-4210">Loe</w>
+       <w lemma="lo" pos="uh" reg="Lo" xml:id="A04632-470-b-4210">Loe</w>
        <pc xml:id="A04632-470-b-4220">!</pc>
        <w lemma="the" pos="d" xml:id="A04632-470-b-4230">the</w>
        <w lemma="fountain" pos="n1" xml:id="A04632-470-b-4240">fountain</w>

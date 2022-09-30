@@ -1048,7 +1048,7 @@
      <l xml:id="A07510-e760">
       <w lemma="thy" pos="po" xml:id="A07510-004-b-1320">Thy</w>
       <w lemma="worthy" pos="j" xml:id="A07510-004-b-1330">Worthy</w>
-      <w lemma="brethren" pos="n2" xml:id="A07510-004-b-1340">Brethren</w>
+      <w lemma="brother" pos="n2" xml:id="A07510-004-b-1340">Brethren</w>
       <pc xml:id="A07510-004-b-1350">;</pc>
       <w lemma="some" pos="d" xml:id="A07510-004-b-1360">some</w>
       <w lemma="of" pos="acp" xml:id="A07510-004-b-1370">of</w>
@@ -1581,7 +1581,7 @@
       <pc unit="sentence" xml:id="A07510-005-a-2810">.</pc>
      </head>
      <l xml:id="A07510-e1210">
-      <w lemma="welcome" orig="VVElcome" pos="uh-j" reg="Welcome" xml:id="A07510-005-a-2820">WElcome</w>
+      <w lemma="welcome" orig="VVElcome" pos="uh-j" xml:id="A07510-005-a-2820">WElcome</w>
       <w lemma="to" pos="acp" xml:id="A07510-005-a-2830">to</w>
       <w lemma="virtue" pos="ng1" reg="Virtue's" rend="hi" xml:id="A07510-005-a-2840">Vertues</w>
       <w lemma="fortress" pos="n1" reg="Fortress" xml:id="A07510-005-a-2850">Fortresse</w>
@@ -2588,7 +2588,7 @@
       <pc xml:id="A07510-007-b-1260">,</pc>
       <w lemma="a" pos="d" xml:id="A07510-007-b-1270">a</w>
       <w lemma="thankful" pos="j" reg="Thankful" xml:id="A07510-007-b-1280">Thankfull</w>
-      <w lemma="Loue" pos="n1" reg="Love." xml:id="A07510-007-b-1290">Loue</w>
+      <w lemma="love" pos="n1" reg="Love." xml:id="A07510-007-b-1290">Loue</w>
       <pc unit="sentence" xml:id="A07510-007-b-1300">.</pc>
      </l>
     </lg>

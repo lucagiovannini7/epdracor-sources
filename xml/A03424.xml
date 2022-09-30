@@ -24,7 +24,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A03424-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A03424.xml</idno>
    </publicationStmt>
@@ -1961,7 +1961,7 @@
       <w lemma="but" pos="acp" xml:id="A03424-005-b-0220">but</w>
       <w lemma="my" pos="po" xml:id="A03424-005-b-0230">my</w>
       <w lemma="man" pos="n1" xml:id="A03424-005-b-0240">man</w>
-      <w lemma="coller" pos="nn1" reg="collar" rend="hi" xml:id="A03424-005-b-0250">Coller</w>
+      <w lemma="collar" pos="n1" reg="collar" rend="hi" xml:id="A03424-005-b-0250">Coller</w>
       <w lemma="shall" pos="vmd" xml:id="A03424-005-b-0260">should</w>
       <w lemma="go" pos="vvi" reg="go" xml:id="A03424-005-b-0270">goe</w>
       <w lemma="as" pos="acp" xml:id="A03424-005-b-0280">as</w>
@@ -1990,7 +1990,7 @@
      <p xml:id="A03424-e101280">
       <w lemma="thy" pos="po" xml:id="A03424-005-b-0460">Thy</w>
       <w lemma="man" pos="n1" xml:id="A03424-005-b-0470">man</w>
-      <w lemma="coller" pos="nn1" reg="collar" rend="hi" xml:id="A03424-005-b-0480">Coller</w>
+      <w lemma="collar" pos="n1" reg="collar" rend="hi" xml:id="A03424-005-b-0480">Coller</w>
       <pc rend="hi" xml:id="A03424-005-b-0490">?</pc>
       <w lemma="thy" pos="po" xml:id="A03424-005-b-0500">thy</w>
       <w lemma="master" pos="n1" xml:id="A03424-005-b-0510">Master</w>

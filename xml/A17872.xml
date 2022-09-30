@@ -507,7 +507,7 @@
        <w lemma="transformation" pos="n2" xml:id="A17872-002-b-1650">transformations</w>
        <pc xml:id="A17872-002-b-1660">:</pc>
        <w lemma="the" pos="d" xml:id="A17872-002-b-1670">The</w>
-       <w lemma="work-manship" pos="j" reg="workmanship" xml:id="A17872-002-b-1680">work-manship</w>
+       <w lemma="workmanship" pos="n1" reg="workmanship" xml:id="A17872-002-b-1680">work-manship</w>
        <w lemma="whereof" pos="crq" xml:id="A17872-002-b-1690">whereof</w>
        <w lemma="be" pos="vvd" xml:id="A17872-002-b-1700">was</w>
        <pb facs="tcp:7825:3" xml:id="A17872-003-a"/>
@@ -1555,7 +1555,7 @@
        <w lemma="cap" pos="n1" xml:id="A17872-004-b-1580">Cap</w>
        <w lemma="full" pos="j" xml:id="A17872-004-b-1590">full</w>
        <w lemma="of" pos="acp" xml:id="A17872-004-b-1600">of</w>
-       <w lemma="eye" pos="n2" reg="eyes" xml:id="A17872-004-b-1610">Eyes</w>
+       <w lemma="eye" pos="n2" xml:id="A17872-004-b-1610">Eyes</w>
        <pc unit="sentence" xml:id="A17872-004-b-1620">.</pc>
       </p>
       <p xml:id="A17872-e1150">
@@ -1805,7 +1805,7 @@
        <w lemma="his" pos="po" xml:id="A17872-005-a-1590">his</w>
        <w lemma="head" pos="n1" xml:id="A17872-005-a-1600">head</w>
        <w lemma="a" pos="d" xml:id="A17872-005-a-1610">a</w>
-       <w lemma="cap" pos="ab" xml:id="A17872-005-a-1620">cap</w>
+       <w lemma="cap" pos="n1" xml:id="A17872-005-a-1620">cap</w>
        <w lemma="of" pos="acp" xml:id="A17872-005-a-1630">of</w>
        <w lemma="flame" pos="n2" xml:id="A17872-005-a-1640">flames</w>
        <pc xml:id="A17872-005-a-1650">,</pc>
@@ -2102,7 +2102,7 @@
         <w lemma="pass" pos="vvb" reg="pass" xml:id="A17872-006-a-0300">passe</w>
         <w lemma="through" pos="acp" xml:id="A17872-006-a-0310">through</w>
         <w lemma="all" pos="d" xml:id="A17872-006-a-0320">all</w>
-        <w lemma="enchantement" pos="n2" xml:id="A17872-006-a-0330">enchantements</w>
+        <w lemma="enchantment" pos="n2" reg="enchantments" xml:id="A17872-006-a-0330">enchantements</w>
         <w lemma="free" pos="j" reg="free" xml:id="A17872-006-a-0340">fre</w>
         <pc xml:id="A17872-006-a-0350">:</pc>
        </l>
@@ -2753,7 +2753,7 @@
        </head>
        <lg xml:id="A17872-e2130">
         <l xml:id="A17872-e2140">
-         <w lemma="while" orig="VVHile" pos="cs" reg="While" xml:id="A17872-007-a-1790">WHile</w>
+         <w lemma="while" orig="VVHile" pos="cs" xml:id="A17872-007-a-1790">WHile</w>
          <w lemma="dance" pos="vvg" xml:id="A17872-007-a-1800">dancing</w>
          <w lemma="rest" pos="n2" xml:id="A17872-007-a-1810">rests</w>
          <pc xml:id="A17872-007-a-1820">,</pc>

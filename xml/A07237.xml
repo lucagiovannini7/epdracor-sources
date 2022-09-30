@@ -25,7 +25,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A07237-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A07237.xml</idno>
    </publicationStmt>
@@ -4983,7 +4983,7 @@
         <w lemma="bring" pos="vvb" xml:id="A07237-010-b-1570">bring</w>
         <w lemma="death" pos="n1" xml:id="A07237-010-b-1580">death</w>
         <pc xml:id="A07237-010-b-1590">,</pc>
-        <w join="right" lemma="I" pos="pns" reg="I" xml:id="A07237-010-b-1600">i</w>
+        <w join="right" lemma="I" pos="pns" xml:id="A07237-010-b-1600">i</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A07237-010-b-1601">le</w>
         <w lemma="read" pos="vvi" xml:id="A07237-010-b-1610">read</w>
         <w lemma="it" pos="pn" xml:id="A07237-010-b-1620">it</w>
@@ -5616,7 +5616,7 @@
         <pc unit="sentence" xml:id="A07237-011-b-0570"/>
        </speaker>
        <l xml:id="A07237-e105170">
-        <w join="right" lemma="bid" pos="vvb" reg="bid" xml:id="A07237-011-b-0580">Bid</w>
+        <w join="right" lemma="bid" pos="vvb" xml:id="A07237-011-b-0580">Bid</w>
         <w join="left" lemma="they" pos="pno" xml:id="A07237-011-b-0581">'em</w>
         <w lemma="enter" pos="vvi" xml:id="A07237-011-b-0590">enter</w>
         <pc xml:id="A07237-011-b-0600">:</pc>

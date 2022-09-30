@@ -24,7 +24,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A19837-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A19837.xml</idno>
    </publicationStmt>
@@ -789,7 +789,7 @@
        <w lemma="appear" pos="vvi" reg="appear" xml:id="A19837-003-b-1330">appeere</w>
        <w lemma="in" pos="acp" xml:id="A19837-003-b-1340">in</w>
        <w lemma="the" pos="d" xml:id="A19837-003-b-1350">the</w>
-       <w lemma="selfsame" pos="j" reg="selfsame" xml:id="A19837-003-b-1360">self-same</w>
+       <w lemma="self-same" pos="d" xml:id="A19837-003-b-1360">self-same</w>
        <w lemma="figure" pos="n2" xml:id="A19837-003-b-1370">figures</w>
        <pc xml:id="A19837-003-b-1380">,</pc>
        <w lemma="wherein" pos="crq" xml:id="A19837-003-b-1390">wherein</w>
@@ -2238,7 +2238,7 @@
          <pc unit="sentence" xml:id="A19837-007-a-1600"/>
         </head>
         <l xml:id="A19837-e101600">
-         <w lemma="whilst" orig="VVHilst" pos="cs" reg="whilst" xml:id="A19837-007-a-1610">WHilst</w>
+         <w lemma="whilst" orig="VVHilst" pos="cs" xml:id="A19837-007-a-1610">WHilst</w>
          <w lemma="worth" pos="n1" xml:id="A19837-007-a-1620">worth</w>
          <w lemma="with" pos="acp" xml:id="A19837-007-a-1630">with</w>
          <w lemma="honour" pos="n1" xml:id="A19837-007-a-1640">honour</w>

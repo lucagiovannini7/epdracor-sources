@@ -25,7 +25,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A06389-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A06389.xml</idno>
    </publicationStmt>
@@ -1712,7 +1712,7 @@
        </speaker>
        <p xml:id="A06389-e100930">
         <w lemma="a" pos="d" xml:id="A06389-003-b-2850">A</w>
-        <w lemma="simile" pos="n1" rend="hi" xml:id="A06389-003-b-2860">Simile</w>
+        <w lemma="n/a" pos="fla" rend="hi" xml:id="A06389-003-b-2860">Simile</w>
         <w lemma="servant" pos="n1" reg="servant" xml:id="A06389-003-b-2870">seruant</w>
         <pc unit="sentence" xml:id="A06389-003-b-2880">?</pc>
         <w lemma="this" pos="d" xml:id="A06389-003-b-2890">This</w>
@@ -3052,7 +3052,7 @@
        </speaker>
        <p xml:id="A06389-e101880">
         <w lemma="why" orig="VVhy" pos="crq" xml:id="A06389-005-a-2050">Why</w>
-        <w join="right" lemma="I" pos="pns" reg="I" xml:id="A06389-005-a-2060">i</w>
+        <w join="right" lemma="I" pos="pns" xml:id="A06389-005-a-2060">i</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A06389-005-a-2061">le</w>
         <w lemma="purse" pos="n1" xml:id="A06389-005-a-2070">purse</w>
         <pc xml:id="A06389-005-a-2080">;</pc>
@@ -3252,7 +3252,7 @@
         <w join="left" lemma="the" pos="d" reg="th'" xml:id="A06389-005-a-3741">th</w>
         <w lemma="sleeve" pos="n2" reg="sleeves" xml:id="A06389-005-a-3750">sleeues</w>
         <pc xml:id="A06389-005-a-3760">,</pc>
-        <w join="right" lemma="I" pos="pns" reg="I" xml:id="A06389-005-a-3770">i</w>
+        <w join="right" lemma="I" pos="pns" xml:id="A06389-005-a-3770">i</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A06389-005-a-3771">le</w>
         <w lemma="never" pos="avx" reg="near" xml:id="A06389-005-a-3780">nere</w>
         <w lemma="look" pos="vvi" reg="look" xml:id="A06389-005-a-3790">looke</w>
@@ -3550,7 +3550,7 @@
         <pc unit="sentence" xml:id="A06389-005-b-2410"/>
        </speaker>
        <p xml:id="A06389-e102070">
-        <w lemma="a" pos="acp" xml:id="A06389-005-b-2420">A</w>
+        <w lemma="on" pos="acp" xml:id="A06389-005-b-2420">A</w>
         <w lemma="my" pos="po" xml:id="A06389-005-b-2430">my</w>
         <w lemma="credit" pos="n1" xml:id="A06389-005-b-2440">credit</w>
         <w lemma="I" pos="pns" xml:id="A06389-005-b-2450">I</w>
@@ -4139,7 +4139,7 @@
         <pc xml:id="A06389-006-a-2910">;</pc>
         <w lemma="catch" pos="vvb" xml:id="A06389-006-a-2920">catch</w>
         <w lemma="that" pos="d" xml:id="A06389-006-a-2930">that</w>
-        <w lemma="catch" pos="n1" xml:id="A06389-006-a-2940">catch</w>
+        <w lemma="catch" pos="vvi" xml:id="A06389-006-a-2940">catch</w>
         <w lemma="may" pos="vmb" xml:id="A06389-006-a-2950">may</w>
         <pc unit="sentence" xml:id="A06389-006-a-2960">.</pc>
         <w lemma="if" pos="cs" xml:id="A06389-006-a-2970">If</w>
@@ -4358,7 +4358,7 @@
         <pc unit="sentence" xml:id="A06389-006-b-0560"/>
        </speaker>
        <p xml:id="A06389-e102650">
-        <w join="right" lemma="what" orig="VVhat" pos="crq" reg="what" xml:id="A06389-006-b-0570">What</w>
+        <w join="right" lemma="what" orig="VVhat" pos="crq" xml:id="A06389-006-b-0570">What</w>
         <w join="left" lemma="be" pos="vvz" reg="'s" xml:id="A06389-006-b-0571">s</w>
         <w lemma="that" pos="d" xml:id="A06389-006-b-0580">that</w>
         <pc xml:id="A06389-006-b-0590">,</pc>
@@ -5445,7 +5445,7 @@
         <w lemma="will" pos="vmb" xml:id="A06389-007-b-1480">will</w>
         <w lemma="carry" pos="vvi" xml:id="A06389-007-b-1490">carry</w>
         <w lemma="i" pos="pno" reg="me" xml:id="A06389-007-b-1500">mee</w>
-        <w join="right" lemma="I" pos="pns" reg="I" xml:id="A06389-007-b-1510">i</w>
+        <w join="right" lemma="I" pos="pns" xml:id="A06389-007-b-1510">i</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A06389-007-b-1511">le</w>
         <w lemma="bear" pos="vvi" reg="bear" xml:id="A06389-007-b-1520">beare</w>
         <w lemma="myself" pos="pr" reg="myself" xml:id="A06389-007-b-1530">my selfe</w>
@@ -7264,7 +7264,7 @@
         <w lemma="with" pos="acp" xml:id="A06389-009-b-0220">with</w>
         <w lemma="your" pos="po" xml:id="A06389-009-b-0230">your</w>
         <w lemma="reverence" pos="n1" reg="reverence" xml:id="A06389-009-b-0240">reuerence</w>
-        <w join="right" lemma="I" pos="pns" reg="I" xml:id="A06389-009-b-0250">i</w>
+        <w join="right" lemma="I" pos="pns" xml:id="A06389-009-b-0250">i</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A06389-009-b-0251">le</w>
         <w lemma="be" pos="vvi" xml:id="A06389-009-b-0260">be</w>
         <w lemma="bold" pos="j" xml:id="A06389-009-b-0270">bold</w>
@@ -7403,7 +7403,7 @@
         <w lemma="wear" pos="vvb" reg="wear" xml:id="A06389-009-b-1300">weare</w>
         <w lemma="a" pos="d" xml:id="A06389-009-b-1310">a</w>
         <w lemma="night" pos="n1" xml:id="A06389-009-b-1320">night</w>
-        <w lemma="cap" pos="ab" xml:id="A06389-009-b-1330">cap.</w>
+        <w lemma="cap." pos="ab" xml:id="A06389-009-b-1330">cap.</w>
         <pc unit="sentence" xml:id="A06389-009-b-1340"/>
        </p>
       </sp>
@@ -7656,7 +7656,7 @@
         <w lemma="be" pos="vvz" xml:id="A06389-009-b-3410">is</w>
         <w lemma="full" pos="j" xml:id="A06389-009-b-3420">full</w>
         <w lemma="of" pos="acp" xml:id="A06389-009-b-3430">of</w>
-        <w lemma="loophole" pos="n2" reg="loopholes" xml:id="A06389-009-b-3440">loope-holes</w>
+        <w lemma="loop-hole" pos="n2" reg="loop-holes" xml:id="A06389-009-b-3440">loope-holes</w>
         <pc xml:id="A06389-009-b-3450">,</pc>
         <w lemma="and" pos="cc" xml:id="A06389-009-b-3460">and</w>
         <w lemma="will" pos="vmb" xml:id="A06389-009-b-3470">will</w>
@@ -9849,7 +9849,7 @@
         <w join="left" lemma="be" pos="vvz" reg="'s" xml:id="A06389-011-b-3771">s</w>
         <w lemma="but" pos="acp" xml:id="A06389-011-b-3780">but</w>
         <w lemma="a" pos="d" xml:id="A06389-011-b-3790">a</w>
-        <w lemma="layman" pos="n1" reg="layman" xml:id="A06389-011-b-3800">lay-man</w>
+        <w lemma="lay-man" pos="n1" xml:id="A06389-011-b-3800">lay-man</w>
         <w lemma="lose" pos="vvn" xml:id="A06389-011-b-3810">lost</w>
         <pc unit="sentence" xml:id="A06389-011-b-3820">.</pc>
         <w lemma="good" pos="j" xml:id="A06389-011-b-3830">Good</w>
@@ -11046,7 +11046,7 @@
         <w lemma="sir" pos="n1" xml:id="A06389-013-a-0130">Sir</w>
         <w lemma="a" pos="d" xml:id="A06389-013-a-0140">a</w>
         <w lemma="full" pos="j" reg="full" xml:id="A06389-013-a-0150">ful</w>
-        <w lemma="rouse" pos="zz" xml:id="A06389-013-a-0160">rouse</w>
+        <w lemma="rouse" pos="n1" xml:id="A06389-013-a-0160">rouse</w>
         <w lemma="to" pos="acp" xml:id="A06389-013-a-0170">to</w>
         <w lemma="you" pos="pn" xml:id="A06389-013-a-0180">you</w>
         <pc xml:id="A06389-013-a-0190">,</pc>
@@ -11139,7 +11139,7 @@
         <w lemma="i" pos="pno" xml:id="A06389-013-a-0860">me</w>
         <w lemma="sir" pos="n1" xml:id="A06389-013-a-0870">Sir</w>
         <w lemma="and" pos="cc" xml:id="A06389-013-a-0880">and</w>
-        <w join="right" lemma="I" pos="pns" reg="I" xml:id="A06389-013-a-0890">i</w>
+        <w join="right" lemma="I" pos="pns" xml:id="A06389-013-a-0890">i</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A06389-013-a-0891">le</w>
         <w lemma="be" pos="vvb" xml:id="A06389-013-a-0900">be</w>
         <w lemma="any" pos="d" xml:id="A06389-013-a-0910">any</w>
@@ -11251,7 +11251,7 @@
         <pc unit="sentence" xml:id="A06389-013-a-1650">?</pc>
         <w lemma="I" pos="pns" xml:id="A06389-013-a-1660">I</w>
         <w lemma="will" pos="vmd" xml:id="A06389-013-a-1670">would</w>
-        <w lemma="fain" pos="av-j" reg="feign" xml:id="A06389-013-a-1680">faine</w>
+        <w lemma="fain" pos="av" reg="fain" xml:id="A06389-013-a-1680">faine</w>
         <w lemma="gratify" pos="vvi" reg="gratify" xml:id="A06389-013-a-1690">gratifie</w>
         <w lemma="you" pos="pn" xml:id="A06389-013-a-1700">you</w>
         <w lemma="for" pos="acp" xml:id="A06389-013-a-1710">for</w>
@@ -13350,7 +13350,7 @@
         <pc xml:id="A06389-015-a-0630">,</pc>
         <w lemma="I" pos="pns" xml:id="A06389-015-a-0640">I</w>
         <w lemma="and" pos="cc" xml:id="A06389-015-a-0650">and</w>
-        <w lemma="an" pos="d" type="unclear" xml:id="A06389-015-a-0660">an</w>
+        <w lemma="a" pos="d" reg="an" type="unclear" xml:id="A06389-015-a-0660">an</w>
         <w lemma="age" pos="n1" xml:id="A06389-015-a-0670">age</w>
         <w lemma="that" pos="cs" xml:id="A06389-015-a-0680">that</w>
         <w lemma="shall" pos="vmb" xml:id="A06389-015-a-0690">shall</w>
@@ -13553,7 +13553,7 @@
         <w lemma="and" pos="cc" xml:id="A06389-015-a-2030">and</w>
         <w lemma="draw" pos="vvi" xml:id="A06389-015-a-2040">draw</w>
         <w lemma="the" pos="d" xml:id="A06389-015-a-2050">the</w>
-        <w lemma="write" pos="n2" xml:id="A06389-015-a-2060">writings</w>
+        <w lemma="writing" pos="n2" reg="writings" xml:id="A06389-015-a-2060">writings</w>
         <pc unit="sentence" xml:id="A06389-015-a-2070">.</pc>
        </p>
       </sp>
@@ -13650,7 +13650,7 @@
         <pc xml:id="A06389-015-a-2740">:</pc>
         <w lemma="dispatch" pos="vvb" xml:id="A06389-015-a-2750">dispatch</w>
         <w lemma="the" pos="d" xml:id="A06389-015-a-2760">the</w>
-        <w lemma="write" pos="n2" xml:id="A06389-015-a-2770">writings</w>
+        <w lemma="writing" pos="n2" reg="writings" xml:id="A06389-015-a-2770">writings</w>
         <pc unit="sentence" xml:id="A06389-015-a-2780">.</pc>
        </p>
        <stage xml:id="A06389-e109130">
@@ -16545,7 +16545,7 @@
        </speaker>
        <lg xml:id="A06389-e111720">
         <l xml:id="A06389-e111730">
-         <w lemma="well" orig="VVell" pos="av" reg="well" xml:id="A06389-017-b-3780">Well</w>
+         <w lemma="well" orig="VVell" pos="av" xml:id="A06389-017-b-3780">Well</w>
          <w lemma="enough" pos="d" reg="enough" xml:id="A06389-017-b-3790">inough</w>
          <w lemma="I" pos="pns" xml:id="A06389-017-b-3800">I</w>
          <w lemma="hope" pos="vvb" xml:id="A06389-017-b-3810">hope</w>
@@ -17419,7 +17419,7 @@
         <w lemma="have" pos="vvb" reg="have" xml:id="A06389-018-b-2770">haue</w>
         <w lemma="make" pos="vvn" xml:id="A06389-018-b-2780">made</w>
         <w lemma="myself" pos="pr" reg="myself" xml:id="A06389-018-b-2790">my selfe</w>
-        <w lemma="a" pos="n1" xml:id="A06389-018-b-2800">a</w>
+        <w lemma="a" pos="d" xml:id="A06389-018-b-2800">a</w>
         <w lemma="fine" pos="j" xml:id="A06389-018-b-2801">fine</w>
         <w lemma="fool" pos="n1" reg="fool" xml:id="A06389-018-b-2810">foole</w>
         <pc unit="sentence" xml:id="A06389-018-b-2820">.</pc>
@@ -18302,7 +18302,7 @@
         <pc xml:id="A06389-019-a-4230">,</pc>
         <w lemma="when" pos="crq" xml:id="A06389-019-a-4240">when</w>
         <w lemma="you" pos="pn" xml:id="A06389-019-a-4250">you</w>
-        <w lemma="travel" pos="vmb" reg="travel" xml:id="A06389-019-a-4260">trauell</w>
+        <w lemma="travel" pos="vvi" reg="travel" xml:id="A06389-019-a-4260">trauell</w>
         <w lemma="next" pos="ord" xml:id="A06389-019-a-4270">next</w>
         <pc xml:id="A06389-019-a-4280">,</pc>
         <w join="right" lemma="it" pos="pn" xml:id="A06389-019-a-4290">'t</w>
@@ -19292,7 +19292,8 @@
        <w lemma="Savil" pos="nn1" reg="Savil" xml:id="A06389-020-a-1860">Sauil</w>
        <pc xml:id="A06389-020-a-1870">,</pc>
        <w lemma="and" pos="cc" xml:id="A06389-020-a-1880">and</w>
-       <w lemma="there" pos="js" xml:id="A06389-020-a-1890">therest</w>
+       <w lemma="the" pos="d" xml:id="A06389-020-a-1890">the</w>
+       <w lemma="rest" pos="n1" xml:id="A06389-020-a-1891">rest</w>
        <pc unit="sentence" xml:id="A06389-020-a-1900">.</pc>
       </stage>
       <sp who="A06389-captain" xml:id="A06389-e114170">
@@ -20305,7 +20306,7 @@
         <w lemma="save" pos="vvg" reg="saving" xml:id="A06389-021-a-0410">sauing</w>
         <w lemma="face" pos="n1" xml:id="A06389-021-a-0420">face</w>
         <pc xml:id="A06389-021-a-0430">,</pc>
-        <w lemma="a" pos="n1" xml:id="A06389-021-a-0440">a</w>
+        <w lemma="a" pos="d" xml:id="A06389-021-a-0440">a</w>
         <w lemma="rich" pos="j" xml:id="A06389-021-a-0441">rich</w>
         <w lemma="face" pos="n1" xml:id="A06389-021-a-0450">face</w>
         <pc xml:id="A06389-021-a-0460">,</pc>
@@ -22797,7 +22798,7 @@
         <w lemma="to" pos="acp" xml:id="A06389-023-a-1630">to</w>
         <w lemma="the" pos="d" xml:id="A06389-023-a-1640">the</w>
         <w lemma="sing" pos="j-vg" xml:id="A06389-023-a-1650">singing</w>
-        <w lemma="brethren" pos="n2" xml:id="A06389-023-a-1660">Brethren</w>
+        <w lemma="brother" pos="n2" xml:id="A06389-023-a-1660">Brethren</w>
         <pc unit="sentence" xml:id="A06389-023-a-1670">.</pc>
         <w join="right" lemma="it" pos="pn" reg="'t" xml:id="A06389-023-a-1680">T</w>
         <w join="left" lemma="be" pos="vvz" xml:id="A06389-023-a-1681">is</w>
@@ -23011,7 +23012,7 @@
         <w lemma="text" pos="n2" xml:id="A06389-023-a-3280">texts</w>
         <pc xml:id="A06389-023-a-3290">:</pc>
         <w lemma="but" pos="acp" xml:id="A06389-023-a-3300">but</w>
-        <w lemma="once" pos="av" type="unclear" xml:id="A06389-023-a-3310">once</w>
+        <w lemma="once" pos="acp" type="unclear" xml:id="A06389-023-a-3310">once</w>
         <w lemma="there" pos="av" xml:id="A06389-023-a-3320">there</w>
         <w lemma="be" pos="vvd" xml:id="A06389-023-a-3330">was</w>
         <w lemma="a" pos="d" xml:id="A06389-023-a-3340">a</w>
@@ -25262,7 +25263,7 @@
         <pc unit="sentence" xml:id="A06389-025-a-1420"/>
        </speaker>
        <p xml:id="A06389-e117410">
-        <w lemma="Will" orig="VVill" pos="vmb" reg="will" xml:id="A06389-025-a-1430">Will</w>
+        <w lemma="Will" orig="VVill" pos="vmb" xml:id="A06389-025-a-1430">Will</w>
         <w lemma="you" pos="pn" xml:id="A06389-025-a-1440">you</w>
         <w lemma="have" pos="vvb" reg="have" xml:id="A06389-025-a-1450">haue</w>
         <w lemma="more" pos="dc" xml:id="A06389-025-a-1460">more</w>
@@ -25331,7 +25332,7 @@
         <pc unit="sentence" xml:id="A06389-025-a-1870"/>
        </speaker>
        <p xml:id="A06389-e117490">
-        <w lemma="Why" orig="VVhy" pos="crq" reg="why" type="unclear" xml:id="A06389-025-a-1880">Why</w>
+        <w lemma="Why" orig="VVhy" pos="crq" type="unclear" xml:id="A06389-025-a-1880">Why</w>
         <w lemma="the" pos="d" xml:id="A06389-025-a-1890">the</w>
         <w lemma="god" pos="n2" xml:id="A06389-025-a-1900">gods</w>
         <w lemma="amend" pos="vvb" xml:id="A06389-025-a-1910">amend</w>
@@ -27122,7 +27123,7 @@
         <w lemma="worse" pos="avc-j" xml:id="A06389-026-b-1040">worse</w>
         <w lemma="than" pos="cs" reg="than" xml:id="A06389-026-b-1050">then</w>
         <w lemma="a" pos="d" xml:id="A06389-026-b-1060">a</w>
-        <w lemma="bear-baiting" pos="n1" reg="bear-baiting" xml:id="A06389-026-b-1070">beare-bayting</w>
+        <w lemma="bearbaiting" pos="n1" reg="bearbaiting" xml:id="A06389-026-b-1070">beare-bayting</w>
         <pc unit="sentence" xml:id="A06389-026-b-1080">.</pc>
        </p>
       </sp>
@@ -27681,7 +27682,7 @@
         <pc unit="sentence" xml:id="A06389-027-a-1090">?</pc>
        </p>
        <stage xml:id="A06389-e119170">
-        <w lemma="ent" pos="j" xml:id="A06389-027-a-1100">ent</w>
+        <w lemma="n/a" pos="fla" xml:id="A06389-027-a-1100">ent</w>
         <pc unit="sentence" xml:id="A06389-027-a-1110">.</pc>
         <w lemma="Abi." pos="ab" xml:id="A06389-027-a-1120">Abi.</w>
         <pc unit="sentence" xml:id="A06389-027-a-1130"/>
@@ -28032,7 +28033,7 @@
         <w lemma="he" pos="pno" xml:id="A06389-027-a-4050">him</w>
         <pc xml:id="A06389-027-a-4060">,</pc>
         <w lemma="what" pos="crq" xml:id="A06389-027-a-4070">what</w>
-        <w lemma="tryer" pos="n2" reg="triers" xml:id="A06389-027-a-4080">tryers</w>
+        <w lemma="trier" pos="n2" reg="triers" xml:id="A06389-027-a-4080">tryers</w>
         <w lemma="have" pos="vvb" reg="have" xml:id="A06389-027-a-4090">haue</w>
         <w lemma="you" pos="pn" xml:id="A06389-027-a-4100">you</w>
         <pc unit="sentence" xml:id="A06389-027-a-4110">?</pc>
@@ -28628,7 +28629,7 @@
         <w lemma="at" pos="acp" xml:id="A06389-027-b-4430">at</w>
         <w lemma="ordinary" pos="n2" xml:id="A06389-027-b-4440">Ordinaries</w>
         <w lemma="dare" pos="zz" xml:id="A06389-027-b-4450">dare</w>
-        <w lemma="eat" pos="n1" xml:id="A06389-027-b-4460">eat</w>
+        <w lemma="eat" pos="vvi" xml:id="A06389-027-b-4460">eat</w>
         <w lemma="their" pos="po" xml:id="A06389-027-b-4470">their</w>
         <w lemma="eighteen" pos="crd" reg="eighteen" xml:id="A06389-027-b-4480">eighteene</w>
         <w lemma="penny" pos="n2" xml:id="A06389-027-b-4490">pence</w>
@@ -29914,7 +29915,7 @@
         <w lemma="yet" pos="av" xml:id="A06389-029-a-1390">yet</w>
         <w lemma="I" pos="pns" xml:id="A06389-029-a-1400">I</w>
         <w lemma="will" pos="vmd" type="unclear" xml:id="A06389-029-a-1410">would</w>
-        <w lemma="fain" pos="av-j" reg="feign" xml:id="A06389-029-a-1420">faine</w>
+        <w lemma="fain" pos="av" reg="fain" xml:id="A06389-029-a-1420">faine</w>
         <w lemma="be" pos="vvi" xml:id="A06389-029-a-1430">be</w>
         <w lemma="even" pos="av" reg="even" xml:id="A06389-029-a-1440">euen</w>
         <w lemma="with" pos="acp" xml:id="A06389-029-a-1450">with</w>
@@ -29932,7 +29933,7 @@
        <p xml:id="A06389-e120010">
         <w lemma="in" pos="acp" xml:id="A06389-029-a-1520">In</w>
         <w lemma="which" pos="crq" xml:id="A06389-029-a-1530">which</w>
-        <w join="right" lemma="I" pos="pns" reg="I" xml:id="A06389-029-a-1540">i</w>
+        <w join="right" lemma="I" pos="pns" xml:id="A06389-029-a-1540">i</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A06389-029-a-1541">le</w>
         <w lemma="be" pos="vvi" xml:id="A06389-029-a-1550">be</w>
         <w lemma="your" pos="po" xml:id="A06389-029-a-1560">your</w>
@@ -29985,7 +29986,7 @@
         <w lemma="counsel" pos="n1" reg="counsel" xml:id="A06389-029-a-2030">counsell</w>
         <pc xml:id="A06389-029-a-2040">,</pc>
         <w lemma="and" pos="cc" xml:id="A06389-029-a-2050">and</w>
-        <w join="right" lemma="I" pos="pns" reg="I" xml:id="A06389-029-a-2060">i</w>
+        <w join="right" lemma="I" pos="pns" xml:id="A06389-029-a-2060">i</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A06389-029-a-2061">le</w>
         <w lemma="pawn" pos="vvi" reg="pawn" xml:id="A06389-029-a-2070">pawne</w>
         <w lemma="my" pos="po" xml:id="A06389-029-a-2080">my</w>
@@ -30246,7 +30247,7 @@
         <w lemma="cat" pos="n1" xml:id="A06389-029-a-4030">Cat</w>
         <w lemma="hound" pos="n2" xml:id="A06389-029-a-4040">hounds</w>
         <pc xml:id="A06389-029-a-4050">,</pc>
-        <w join="right" lemma="I" pos="pns" reg="I" xml:id="A06389-029-a-4060">i</w>
+        <w join="right" lemma="I" pos="pns" xml:id="A06389-029-a-4060">i</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A06389-029-a-4061">le</w>
         <w lemma="make" pos="vvi" xml:id="A06389-029-a-4070">make</w>
         <w lemma="you" pos="pn" xml:id="A06389-029-a-4080">you</w>
@@ -30444,7 +30445,7 @@
         <w lemma="not" pos="xx" xml:id="A06389-029-b-0760">not</w>
         <w lemma="be" pos="vvi" xml:id="A06389-029-b-0770">be</w>
         <pc xml:id="A06389-029-b-0780">:</pc>
-        <w join="right" lemma="I" pos="pns" reg="I" xml:id="A06389-029-b-0790">i</w>
+        <w join="right" lemma="I" pos="pns" xml:id="A06389-029-b-0790">i</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A06389-029-b-0791">le</w>
         <w lemma="read" pos="vvi" reg="read" xml:id="A06389-029-b-0800">reade</w>
         <w lemma="her" pos="po" xml:id="A06389-029-b-0810">her</w>
@@ -30603,7 +30604,7 @@
         <w lemma="lady" pos="n1" xml:id="A06389-029-b-2120">Lady</w>
         <w lemma="die" pos="vvi" xml:id="A06389-029-b-2130">die</w>
         <pc xml:id="A06389-029-b-2140">,</pc>
-        <w join="right" lemma="I" pos="pns" reg="I" xml:id="A06389-029-b-2150">i</w>
+        <w join="right" lemma="I" pos="pns" xml:id="A06389-029-b-2150">i</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A06389-029-b-2151">le</w>
         <w lemma="be" pos="vvi" xml:id="A06389-029-b-2160">be</w>
         <w lemma="swear" pos="vvn" reg="sworn" xml:id="A06389-029-b-2170">sworne</w>
@@ -30654,7 +30655,7 @@
         <pc xml:id="A06389-029-b-2550">;</pc>
         <w lemma="which" pos="crq" xml:id="A06389-029-b-2560">which</w>
         <w lemma="before" pos="acp" xml:id="A06389-029-b-2570">before</w>
-        <w join="right" lemma="I" pos="pns" reg="I" xml:id="A06389-029-b-2580">i</w>
+        <w join="right" lemma="I" pos="pns" xml:id="A06389-029-b-2580">i</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A06389-029-b-2581">le</w>
         <w lemma="want" pos="vvi" xml:id="A06389-029-b-2590">want</w>
         <w lemma="to" pos="prt" xml:id="A06389-029-b-2600">to</w>
@@ -35572,7 +35573,7 @@
          <w lemma="war" pos="n2" xml:id="A06389-033-b-2610">wars</w>
         </l>
         <l xml:id="A06389-e124030">
-         <w lemma="whilst" orig="VVhilst" pos="cs" reg="whilst" xml:id="A06389-033-b-2620">Whilst</w>
+         <w lemma="whilst" orig="VVhilst" pos="cs" xml:id="A06389-033-b-2620">Whilst</w>
          <w lemma="this" pos="d" xml:id="A06389-033-b-2630">this</w>
          <w lemma="last" pos="vvz" xml:id="A06389-033-b-2640">lasts</w>
          <pc xml:id="A06389-033-b-2650">,</pc>
@@ -35666,7 +35667,7 @@
         <pc unit="sentence" xml:id="A06389-033-b-3320">?</pc>
         <w lemma="I" pos="pns" xml:id="A06389-033-b-3330">I</w>
         <w lemma="will" pos="vmd" xml:id="A06389-033-b-3340">would</w>
-        <w lemma="fain" pos="av-j" reg="feign" xml:id="A06389-033-b-3350">faine</w>
+        <w lemma="fain" pos="av" reg="fain" xml:id="A06389-033-b-3350">faine</w>
         <w lemma="be" pos="vvi" xml:id="A06389-033-b-3360">be</w>
         <w lemma="acquaint" pos="vvn" xml:id="A06389-033-b-3370">acquainted</w>
         <pc unit="sentence" xml:id="A06389-033-b-3380">.</pc>

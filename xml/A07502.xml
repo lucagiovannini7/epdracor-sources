@@ -24,7 +24,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A07502-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A07502.xml</idno>
    </publicationStmt>
@@ -2227,7 +2227,7 @@
       <pc xml:id="A07502-008-a-0360">,</pc>
      </l>
      <l xml:id="A07502-e101710">
-      <w lemma="from" orig="Frō" pos="acp" reg="from" xml:id="A07502-008-a-0370">From</w>
+      <w lemma="from" orig="Frō" pos="acp" xml:id="A07502-008-a-0370">From</w>
       <w lemma="thing" pos="n2" xml:id="A07502-008-a-0380">things</w>
       <w lemma="but" pos="acp" xml:id="A07502-008-a-0390">but</w>
       <w lemma="weak" pos="av-j" xml:id="A07502-008-a-0400">weakly</w>
@@ -6853,7 +6853,7 @@
       <w lemma="Ihones" pos="nn1" xml:id="A07502-020-b-0130">Ihones</w>
       <pc xml:id="A07502-020-b-0140">,</pc>
       <w lemma="L." pos="ab" xml:id="A07502-020-b-0150">L.</w>
-      <w lemma="Maior" pos="n1" xml:id="A07502-020-b-0160">Maior</w>
+      <w lemma="mayor" pos="n1" xml:id="A07502-020-b-0160">Maior</w>
       <pc unit="sentence" xml:id="A07502-020-b-0170">.</pc>
       <w lemma="for" pos="acp" rend="hi" xml:id="A07502-020-b-0180">For</w>
       <w lemma="the" pos="d" rend="hi" xml:id="A07502-020-b-0190">the</w>

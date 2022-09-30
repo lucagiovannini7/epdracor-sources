@@ -1146,7 +1146,7 @@
       <w lemma="in" pos="acp" xml:id="A07515-006-a-0870">in</w>
       <w lemma="a" pos="d" xml:id="A07515-006-a-0880">a</w>
       <w lemma="ruler" pos="ng1" reg="Ruler's" xml:id="A07515-006-a-0890">Rulers</w>
-      <w lemma="hart" pos="n1" xml:id="A07515-006-a-0900">hart</w>
+      <w lemma="heart" pos="n1" reg="heart" xml:id="A07515-006-a-0900">hart</w>
      </l>
      <l xml:id="A07515-e950">
       <pc join="right" xml:id="A07515-006-a-0910">(</pc>
@@ -3257,7 +3257,7 @@
       <w lemma="to" pos="acp" xml:id="A07515-010-a-0850">to</w>
       <w lemma="a" pos="d" xml:id="A07515-010-a-0860">a</w>
       <w lemma="noble" pos="j" xml:id="A07515-010-a-0870">Noble</w>
-      <w lemma="hart" pos="n1" xml:id="A07515-010-a-0880">Hart</w>
+      <w lemma="heart" pos="n1" reg="heart" xml:id="A07515-010-a-0880">Hart</w>
      </l>
      <l xml:id="A07515-e2780">
       <w lemma="apply" pos="vvz" reg="Applies" xml:id="A07515-010-a-0890">Applyes</w>

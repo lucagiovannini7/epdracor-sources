@@ -25,7 +25,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A07907-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A07907.xml</idno>
    </publicationStmt>
@@ -165,7 +165,7 @@
      <w lemma="of" pos="acp" xml:id="A07907-001-b-0250">of</w>
      <w lemma="sir" pos="n1" xml:id="A07907-001-b-0260">Sir</w>
      <w lemma="Leonard" pos="nn1" rend="hi" xml:id="A07907-001-b-0270">Leonard</w>
-     <w lemma="Holliday" pos="nn1" reg="holiday" rend="hi" xml:id="A07907-001-b-0280">Holliday</w>
+     <w lemma="holiday" pos="n1" reg="holiday" rend="hi" xml:id="A07907-001-b-0280">Holliday</w>
      <w lemma="kni:" pos="ab" xml:id="A07907-001-b-0290">kni:</w>
      <w lemma="to" pos="prt" xml:id="A07907-001-b-0310">to</w>
      <w lemma="solemnize" pos="vvi" xml:id="A07907-001-b-0320">solemnize</w>
@@ -670,7 +670,7 @@
       <w lemma="defence" orig="defēs" pos="n1" reg="defence" xml:id="A07907-003-a-2110">defens</w>
       <w lemma="hist." pos="ab" xml:id="A07907-003-a-2120">hist.</w>
       <w lemma="Brit." pos="ab" xml:id="A07907-003-a-2140">Brit.</w>
-      <w lemma="ca" pos="uh" xml:id="A07907-003-a-2150">Ca</w>
+      <w lemma="Ca." pos="ab" xml:id="A07907-003-a-2150">Ca</w>
       <w lemma="Caius" pos="nn1" xml:id="A07907-003-a-2160">Caius</w>
       <w lemma="n/a" pos="ffr" xml:id="A07907-003-a-2170">de</w>
       <w lemma="ant" pos="ab" xml:id="A07907-003-a-2180">ant</w>
@@ -4019,7 +4019,7 @@
        <l xml:id="A07907-e101710">
         <w lemma="wish" pos="vvg" xml:id="A07907-008-b-0740">Wishing</w>
         <w lemma="my" pos="po" xml:id="A07907-008-b-0750">my</w>
-        <w lemma="brethren" pos="n2" xml:id="A07907-008-b-0760">brethren</w>
+        <w lemma="brother" pos="n2" xml:id="A07907-008-b-0760">brethren</w>
         <w lemma="in" pos="acp" xml:id="A07907-008-b-0770">in</w>
         <w lemma="like" pos="j" xml:id="A07907-008-b-0780">like</w>
         <w lemma="sort" pos="n1" xml:id="A07907-008-b-0790">sort</w>
@@ -4428,7 +4428,7 @@
        </l>
        <l xml:id="A07907-e102120">
         <w lemma="who" pos="crq" xml:id="A07907-009-a-2040">Whose</w>
-        <w lemma="brethren" pos="n2" rend="hi" xml:id="A07907-009-a-2050">brethren</w>
+        <w lemma="brother" pos="n2" rend="hi" xml:id="A07907-009-a-2050">brethren</w>
         <w lemma="forest" pos="n1" xml:id="A07907-009-a-2060">forest</w>
         <w lemma="he" pos="pno" xml:id="A07907-009-a-2070">him</w>
         <w lemma="to" pos="acp" xml:id="A07907-009-a-2080">to</w>
@@ -5020,7 +5020,7 @@
        <w lemma="former" pos="j" xml:id="A07907-010-a-1890">former</w>
        <w lemma="grant" pos="n2" reg="grants" xml:id="A07907-010-a-1900">graunts</w>
        <w lemma="in" pos="acp" xml:id="A07907-010-a-1910">in</w>
-       <w lemma="selfsame" pos="d" reg="selfsame" xml:id="A07907-010-a-1920">self-same</w>
+       <w lemma="self-same" pos="d" xml:id="A07907-010-a-1920">self-same</w>
        <w lemma="quality" pos="n1" reg="quality" xml:id="A07907-010-a-1930">qualitie</w>
        <pc xml:id="A07907-010-a-1940">,</pc>
       </l>
@@ -5350,7 +5350,7 @@
         <w lemma="term" pos="vvg" reg="terming" xml:id="A07907-011-a-0230">tearming</w>
         <w lemma="themselves" pos="pr" reg="themselves" xml:id="A07907-011-a-0240">themselues</w>
         <w lemma="all" pos="d" xml:id="A07907-011-a-0250">all</w>
-        <w lemma="brethren" pos="n2" xml:id="A07907-011-a-0260">brethren</w>
+        <w lemma="brother" pos="n2" xml:id="A07907-011-a-0260">brethren</w>
         <w lemma="of" pos="acp" xml:id="A07907-011-a-0270">of</w>
         <w lemma="this" pos="d" xml:id="A07907-011-a-0280">this</w>
         <w lemma="band" pos="n1" xml:id="A07907-011-a-0290">band</w>
@@ -5509,7 +5509,7 @@
        <w lemma="lord" pos="n1" xml:id="A07907-011-a-1630">Lord</w>
        <w lemma="Montferrant" pos="nn1" xml:id="A07907-011-a-1640">Montferrant</w>
        <pc xml:id="A07907-011-a-1650">,</pc>
-       <w lemma="&amp;c." pos="ab" xml:id="A07907-011-a-1660">&amp;c.</w>
+       <w lemma="etc." pos="av" reg="etc." xml:id="A07907-011-a-1660">&amp;c.</w>
        <pc unit="sentence" xml:id="A07907-011-a-1670"/>
       </p>
       <lg xml:id="A07907-e103190">
@@ -5585,7 +5585,7 @@
        </l>
        <l xml:id="A07907-e103270">
         <w lemma="all" pos="d" xml:id="A07907-011-a-2240">All</w>
-        <w lemma="brethren" pos="n2" xml:id="A07907-011-a-2250">Brethren</w>
+        <w lemma="brother" pos="n2" xml:id="A07907-011-a-2250">Brethren</w>
         <pc xml:id="A07907-011-a-2260">,</pc>
         <w lemma="merchant-taylor" pos="nn2" reg="Merchant-Taylors" xml:id="A07907-011-a-2270">Marchant-Taylors</w>
         <w lemma="signify" pos="vvd" xml:id="A07907-011-a-2280">signified</w>
@@ -5922,7 +5922,7 @@
         <w lemma="end" pos="n1" xml:id="A07907-011-b-2240">end</w>
         <w lemma="in" pos="acp" xml:id="A07907-011-b-2250">in</w>
         <w lemma="true" pos="j" xml:id="A07907-011-b-2260">true</w>
-        <w lemma="tranquillity" pos="n1" reg="tranquility" xml:id="A07907-011-b-2270">tranquilitie</w>
+        <w lemma="tranquillity" pos="n1" reg="tranquillity" xml:id="A07907-011-b-2270">tranquilitie</w>
         <pc unit="sentence" xml:id="A07907-011-b-2280">.</pc>
        </l>
       </lg>
@@ -6397,7 +6397,7 @@
         <w lemma="good" pos="j" xml:id="A07907-012-b-1190">good</w>
         <w lemma="to" pos="acp" xml:id="A07907-012-b-1200">to</w>
         <w lemma="Leonard" pos="nn1" rend="hi" xml:id="A07907-012-b-1210">Leonard</w>
-        <w lemma="Holliday" pos="nn1" reg="holiday" rend="hi" xml:id="A07907-012-b-1220">Holliday</w>
+        <w lemma="holiday" pos="n1" reg="holiday" rend="hi" xml:id="A07907-012-b-1220">Holliday</w>
         <pc rend="hi" unit="sentence" xml:id="A07907-012-b-1230">.</pc>
        </l>
       </lg>

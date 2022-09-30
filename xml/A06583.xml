@@ -25,7 +25,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A06583-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A06583.xml</idno>
    </publicationStmt>
@@ -3607,7 +3607,7 @@
        <w lemma="their" pos="po" xml:id="A06583-007-b-1730">their</w>
        <w lemma="commendation" orig="commēdations" pos="n2" xml:id="A06583-007-b-1740">commendations</w>
        <pc unit="sentence" xml:id="A06583-007-b-1750">.</pc>
-       <w lemma="from" orig="Frō" pos="acp" reg="from" xml:id="A06583-007-b-1760">From</w>
+       <w lemma="from" orig="Frō" pos="acp" xml:id="A06583-007-b-1760">From</w>
        <w lemma="thence" pos="av" xml:id="A06583-007-b-1770">thence</w>
        <w lemma="I" pos="pns" xml:id="A06583-007-b-1780">I</w>
        <w lemma="come" pos="vvd" xml:id="A06583-007-b-1790">came</w>
@@ -15372,7 +15372,7 @@
        <w lemma="for" pos="acp" xml:id="A06583-021-b-0280">for</w>
        <w lemma="Tantara" pos="uh" xml:id="A06583-021-b-0290">Tantara</w>
        <pc xml:id="A06583-021-b-0300">,</pc>
-       <w lemma="n/a" pos="fmi" xml:id="A06583-021-b-0310">Sol</w>
+       <w lemma="Sol" pos="sy" xml:id="A06583-021-b-0310">Sol</w>
        <pc unit="sentence" xml:id="A06583-021-b-0320">.</pc>
        <w lemma="n/a" pos="fit" xml:id="A06583-021-b-0330">Fa</w>
        <pc unit="sentence" xml:id="A06583-021-b-0340">.</pc>

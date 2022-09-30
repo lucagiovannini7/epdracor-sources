@@ -24,7 +24,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A09134-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A09134.xml</idno>
    </publicationStmt>
@@ -2853,7 +2853,7 @@
         <w lemma="resort" pos="vvi" reg="resort" xml:id="A09134-004-a-0600">resorte</w>
         <w lemma="too" pos="acp" xml:id="A09134-004-a-0610">too</w>
         <w lemma="and" pos="cc" xml:id="A09134-004-a-0620">and</w>
-        <w lemma="fro" pos="acp" xml:id="A09134-004-a-0630">fro</w>
+        <w lemma="fro" pos="av" xml:id="A09134-004-a-0630">fro</w>
         <pc unit="sentence" xml:id="A09134-004-a-0640">.</pc>
        </l>
        <l xml:id="A09134-e102190">
@@ -17705,7 +17705,7 @@
        <l xml:id="A09134-e115020">
         <w lemma="bracelet" pos="n2" reg="bracelets" xml:id="A09134-017-b-1740">Bracelettes</w>
         <pc xml:id="A09134-017-b-1750">,</pc>
-        <w lemma="perfume" pos="n2" reg="perfumes" xml:id="A09134-017-b-1760">Perfumes</w>
+        <w lemma="perfume" pos="n2" xml:id="A09134-017-b-1760">Perfumes</w>
         <pc xml:id="A09134-017-b-1770">,</pc>
         <w lemma="still" pos="vvn" xml:id="A09134-017-b-1780">Stilled</w>
         <w lemma="water" pos="n2" xml:id="A09134-017-b-1790">waters</w>
@@ -25135,7 +25135,7 @@
         <w lemma="must" pos="vmb" xml:id="A09134-025-a-3570">must</w>
         <w lemma="I" pos="pns" xml:id="A09134-025-a-3580">I</w>
         <w lemma="perceive" pos="vvi" reg="perceive" xml:id="A09134-025-a-3590">perceiue</w>
-        <w lemma="whither" pos="cs" xml:id="A09134-025-a-3600">whither</w>
+        <w lemma="whither" pos="crq" xml:id="A09134-025-a-3600">whither</w>
         <w lemma="I" pos="pns" xml:id="A09134-025-a-3610">I</w>
         <w lemma="will" pos="vmb" xml:id="A09134-025-a-3620">will</w>
         <w lemma="or" pos="cc" xml:id="A09134-025-a-3630">or</w>

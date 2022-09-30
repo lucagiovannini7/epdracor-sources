@@ -1677,7 +1677,7 @@
      <hi xml:id="A07516-e1120">
       <w lemma="&amp;" pos="cc" xml:id="A07516-006-a-1380">&amp;</w>
       <w lemma="fic" pos="zz" reg="fie" xml:id="A07516-006-a-1390">fic</w>
-      <w lemma="n/a" pos="fmi" xml:id="A07516-006-a-1400">de</w>
+      <w lemma="n/a" pos="fla" xml:id="A07516-006-a-1400">de</w>
       <w lemma="n/a" pos="fla" xml:id="A07516-006-a-1410">caeteris</w>
      </hi>
      <pc rend="follows-hi" unit="sentence" xml:id="A07516-006-a-1420">.</pc>

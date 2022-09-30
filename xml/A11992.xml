@@ -1294,7 +1294,7 @@
     </sp>
     <sp xml:id="A11992-e11310">
      <speaker xml:id="A11992-e11320">
-      <w lemma="rod" pos="ab" xml:id="A11992-004-b-1970">Rod</w>
+      <w lemma="Rod" pos="n1" xml:id="A11992-004-b-1970">Rod</w>
       <pc unit="sentence" xml:id="A11992-004-b-1980"/>
      </speaker>
      <l xml:id="A11992-e11330">
@@ -3649,7 +3649,7 @@
      </l>
      <l xml:id="A11992-e14530">
       <w lemma="for" pos="acp" xml:id="A11992-007-a-2120">For</w>
-      <w join="right" lemma="I" pos="pns" reg="I" xml:id="A11992-007-a-2130">i</w>
+      <w join="right" lemma="I" pos="pns" xml:id="A11992-007-a-2130">i</w>
       <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A11992-007-a-2131">le</w>
       <w lemma="refer" pos="vvi" reg="refer" xml:id="A11992-007-a-2140">referre</w>
       <w lemma="i" pos="pno" xml:id="A11992-007-a-2150">me</w>
@@ -9107,7 +9107,7 @@
       <pc unit="sentence" xml:id="A11992-013-a-2030">.</pc>
      </speaker>
      <l xml:id="A11992-e20750">
-      <w lemma="what" orig="VVHat" pos="crq" reg="What" xml:id="A11992-013-a-2040">WHat</w>
+      <w lemma="what" orig="VVHat" pos="crq" xml:id="A11992-013-a-2040">WHat</w>
       <w lemma="from" pos="acp" xml:id="A11992-013-a-2050">from</w>
       <w lemma="the" pos="d" xml:id="A11992-013-a-2060">the</w>
       <w lemma="cape" pos="n1" xml:id="A11992-013-a-2070">Cape</w>
@@ -15270,7 +15270,7 @@
       <w lemma="sir" pos="n1" xml:id="A11992-019-b-1430">sir</w>
       <pc xml:id="A11992-019-b-1440">,</pc>
       <w lemma="or" pos="cc" xml:id="A11992-019-b-1450">or</w>
-      <w join="right" lemma="I" pos="pns" reg="I" xml:id="A11992-019-b-1460">i</w>
+      <w join="right" lemma="I" pos="pns" xml:id="A11992-019-b-1460">i</w>
       <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A11992-019-b-1461">le</w>
       <w lemma="knock" pos="vvi" reg="knock" xml:id="A11992-019-b-1470">knocke</w>
       <w lemma="you" pos="pn" xml:id="A11992-019-b-1480">you</w>

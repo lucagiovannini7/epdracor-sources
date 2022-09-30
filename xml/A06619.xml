@@ -24,7 +24,7 @@
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
     <availability>
-     <licence target="A06619-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+     <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
     <idno type="SHC">A06619.xml</idno>
    </publicationStmt>
@@ -3216,7 +3216,7 @@
         <w lemma="nay" pos="uhx" xml:id="A06619-007-a-1970">Nay</w>
         <w lemma="I" pos="pns" xml:id="A06619-007-a-1980">I</w>
         <w lemma="will" pos="vmd" xml:id="A06619-007-a-1990">would</w>
-        <w lemma="fain" pos="av-j" reg="feign" xml:id="A06619-007-a-2000">faine</w>
+        <w lemma="fain" pos="av" reg="fain" xml:id="A06619-007-a-2000">faine</w>
         <w lemma="have" pos="vvi" reg="have" xml:id="A06619-007-a-2010">haue</w>
         <w lemma="his" pos="po" xml:id="A06619-007-a-2020">his</w>
         <w lemma="thirty" pos="crd" xml:id="A06619-007-a-2030">thirty</w>
@@ -3391,20 +3391,20 @@
         <w lemma="north" pos="n1" xml:id="A06619-007-a-3360">North</w>
         <w lemma="east" pos="n1" xml:id="A06619-007-a-3370">East</w>
         <pc unit="sentence" xml:id="A06619-007-a-3380">.</pc>
-        <w lemma="north-east" pos="n1" reg="northeast" xml:id="A06619-007-a-3390">North-east</w>
+        <w lemma="north-east" pos="n1" reg="north-east" xml:id="A06619-007-a-3390">North-east</w>
         <w lemma="and" pos="cc" xml:id="A06619-007-a-3400">and</w>
         <w lemma="by" pos="acp" xml:id="A06619-007-a-3410">by</w>
         <w lemma="north" pos="n1" xml:id="A06619-007-a-3420">North</w>
         <pc xml:id="A06619-007-a-3430">,</pc>
-        <w lemma="north-east" pos="n1" reg="northeast" xml:id="A06619-007-a-3440">North-east</w>
+        <w lemma="north-east" pos="n1" reg="north-east" xml:id="A06619-007-a-3440">North-east</w>
         <pc unit="sentence" xml:id="A06619-007-a-3450">.</pc>
-        <w lemma="north-east" pos="n1" reg="northeast" xml:id="A06619-007-a-3460">North-east</w>
+        <w lemma="north-east" pos="n1" reg="north-east" xml:id="A06619-007-a-3460">North-east</w>
         <w lemma="and" pos="cc" xml:id="A06619-007-a-3470">and</w>
         <w lemma="by" pos="acp" xml:id="A06619-007-a-3480">by</w>
         <w lemma="east" pos="n1" xml:id="A06619-007-a-3490">East</w>
         <pc unit="sentence" xml:id="A06619-007-a-3500">.</pc>
         <w lemma="east" pos="n1" xml:id="A06619-007-a-3510">East</w>
-        <w lemma="north-east" pos="n1" reg="northeast" xml:id="A06619-007-a-3520">North-east</w>
+        <w lemma="north-east" pos="n1" reg="north-east" xml:id="A06619-007-a-3520">North-east</w>
         <pc xml:id="A06619-007-a-3530">,</pc>
         <w lemma="east" pos="n1" xml:id="A06619-007-a-3540">East</w>
         <w lemma="and" pos="cc" xml:id="A06619-007-a-3550">and</w>
@@ -3428,9 +3428,9 @@
         <pc xml:id="A06619-007-a-3660">,</pc>
         <w lemma="north" pos="n1" xml:id="A06619-007-a-3670">North</w>
         <pc xml:id="A06619-007-a-3680">,</pc>
-        <w lemma="north-east" pos="n1" reg="northeast" xml:id="A06619-007-a-3690">north-east</w>
+        <w lemma="north-east" pos="n1" reg="north-east" xml:id="A06619-007-a-3690">north-east</w>
         <pc xml:id="A06619-007-a-3700">,</pc>
-        <w lemma="north-east" pos="n1" reg="northeast" xml:id="A06619-007-a-3710">North-east</w>
+        <w lemma="north-east" pos="n1" reg="north-east" xml:id="A06619-007-a-3710">North-east</w>
         <pc xml:id="A06619-007-a-3720">,</pc>
         <w lemma="north" pos="n1" xml:id="A06619-007-a-3730">Nore</w>
         <pb facs="tcp:10263:7" xml:id="A06619-007-b"/>
@@ -3482,7 +3482,7 @@
         <pc unit="sentence" xml:id="A06619-007-b-0340">.</pc>
         <w lemma="north" pos="n1" xml:id="A06619-007-b-0350">North</w>
         <pc xml:id="A06619-007-b-0360">,</pc>
-        <w lemma="north-east" pos="n1" reg="northeast" xml:id="A06619-007-b-0370">North-east</w>
+        <w lemma="north-east" pos="n1" reg="north-east" xml:id="A06619-007-b-0370">North-east</w>
         <pc xml:id="A06619-007-b-0380">,</pc>
         <w lemma="be" pos="vvz" xml:id="A06619-007-b-0390">is</w>
         <w lemma="by" pos="acp" xml:id="A06619-007-b-0400">by</w>
@@ -5665,7 +5665,7 @@
         <w lemma="make" pos="vvi" xml:id="A06619-010-a-2070">make</w>
         <w lemma="of" pos="acp" xml:id="A06619-010-a-2080">of</w>
         <w lemma="thy" pos="po" xml:id="A06619-010-a-2090">thy</w>
-        <w lemma="cap" pos="ab" xml:id="A06619-010-a-2100">cap</w>
+        <w lemma="cap" pos="n1" xml:id="A06619-010-a-2100">cap</w>
         <w lemma="gold" pos="n1" xml:id="A06619-010-a-2110">gold</w>
         <pc xml:id="A06619-010-a-2120">,</pc>
         <w lemma="and" pos="cc" xml:id="A06619-010-a-2130">and</w>
@@ -10864,7 +10864,7 @@
         <pc unit="sentence" xml:id="A06619-016-b-0700">?</pc>
         <w lemma="I" pos="pns" xml:id="A06619-016-b-0710">I</w>
         <w lemma="will" pos="vmd" xml:id="A06619-016-b-0720">would</w>
-        <w lemma="fain" pos="av-j" reg="feign" xml:id="A06619-016-b-0730">faine</w>
+        <w lemma="fain" pos="av" reg="fain" xml:id="A06619-016-b-0730">faine</w>
         <w lemma="serve" pos="vvi" reg="serve" xml:id="A06619-016-b-0740">serue</w>
         <pc unit="sentence" xml:id="A06619-016-b-0750">.</pc>
        </p>
@@ -11156,7 +11156,7 @@
         <pc xml:id="A06619-016-b-3140">,</pc>
         <w lemma="by" pos="acp" xml:id="A06619-016-b-3150">by</w>
         <w lemma="a" pos="d" xml:id="A06619-016-b-3160">an</w>
-        <w lemma="etherial" pos="j" reg="aetherial" xml:id="A06619-016-b-3170">etheriall</w>
+        <w lemma="aetherial" pos="j" reg="aetherial" xml:id="A06619-016-b-3170">etheriall</w>
         <w lemma="contemplation" pos="n1" xml:id="A06619-016-b-3180">contemplation</w>
         <pc unit="sentence" xml:id="A06619-016-b-3190">.</pc>
         <w lemma="Come" pos="vvb" xml:id="A06619-016-b-3200">Come</w>
@@ -11600,7 +11600,7 @@
         <pc xml:id="A06619-017-b-0210">,</pc>
         <w lemma="and" pos="cc" xml:id="A06619-017-b-0220">and</w>
         <w lemma="shall" pos="vmb" xml:id="A06619-017-b-0230">shall</w>
-        <w lemma="wantoness" pos="n1" reg="wantoness" xml:id="A06619-017-b-0240">wantons</w>
+        <w lemma="wantonness" pos="n1" reg="wantonness" xml:id="A06619-017-b-0240">wantons</w>
         <w lemma="see" pos="vvi" xml:id="A06619-017-b-0250">see</w>
         <w lemma="it" pos="pn" xml:id="A06619-017-b-0260">it</w>
         <pc xml:id="A06619-017-b-0270">?</pc>
@@ -13511,7 +13511,7 @@
         <w lemma="love" pos="nng1" reg="love" xml:id="A06619-019-b-3280">Loue</w>
         <w lemma="knot" pos="n2" xml:id="A06619-019-b-3290">knots</w>
         <w lemma="be" pos="vvb" xml:id="A06619-019-b-3300">are</w>
-        <w lemma="tie" pos="vvn" reg="tIED" xml:id="A06619-019-b-3310">tyde</w>
+        <w lemma="tie" pos="vvn" reg="tied" xml:id="A06619-019-b-3310">tyde</w>
         <w lemma="with" pos="acp" xml:id="A06619-019-b-3320">with</w>
         <w lemma="eye" pos="n2" xml:id="A06619-019-b-3330">eyes</w>
         <pc xml:id="A06619-019-b-3340">,</pc>
