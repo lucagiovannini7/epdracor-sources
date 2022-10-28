@@ -12,9 +12,19 @@ directly the [update](scripts/update) script can be used:
 
 ```sh
 ./scripts/update --help
-./scripts/update --all --copy ../eebotcp
 ./scripts/update --download
+./scripts/update --all --copy /path/to/local/repos
 ```
+
+## How to add or remove plays
+
+1. edit [ids.txt](ids.txt) to add or remove the EP IDs of the respective
+  EarlyPrint texts
+2. run `./scripts/update --download` to download new documents from the
+  EarlyPrint Bitbucket repository and/or remove existing documents from the
+  `xml` directory
+3. commit the changes
+
 ## eXist DB integration
 
 For development purposes this repository provides an eXist DB integration that
@@ -33,7 +43,8 @@ cp .env.sample .env
 ./scripts/init
 ```
 
-Now you can upload either individual TEI files or the entire xml directory using the [load](scripts/load) script:
+Now you can upload either individual TEI files or the entire xml directory using
+the [load](scripts/load) script:
 
 ```sh
 # load all files in xml/

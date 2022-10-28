@@ -6,13 +6,16 @@ Update repo with files from EarlyPrint repo
 
 Usage:
 $0 --download                  # download from bitbucket
-$0 --copy /path/to/eebotcp     # copy from local EarlyPrint repo
+$0 --copy /path/to/repos       # copy from local EarlyPrint repos
 $0 [--all | --help]
 
 OPTIONS:
   -a, --all       update all files including existing ones
   -d, --delay     number of seconds to wait between download requests (default: 1)
   -h, --help      show this message
+
+Note: the path to the repos is expected to point to a directory containing the
+two checked out bitbucket repositories 'eebotcp' and 'eccotcp'.
 
 EOF
 }
@@ -117,7 +120,7 @@ for id in $(cat ids.txt); do
   [ -z $VERBOSE ] && echo "$id"
   if ! [[ -f $file ]] || [[ -n "$ALL" ]]; then
     if [ -n "$COPY" ]; then
-      source=$REPO_PATH/texts/$dir/$id.xml
+      source=$REPO_PATH/{eccotcp,eebotcp}/texts/$dir/$id.xml
       cp $v $source $file
     else
       url="https://bitbucket.org/eplib/$dir/raw/master/$id.xml"
